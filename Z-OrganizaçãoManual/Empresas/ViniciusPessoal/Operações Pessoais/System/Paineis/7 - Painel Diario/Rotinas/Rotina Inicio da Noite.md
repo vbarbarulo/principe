@@ -1,0 +1,9 @@
+- [ ] Sair do escritório 
+	- [ ] fechar o computador 
+	- [ ] Arrumar o que estiver fora do lugar 
+	- [ ] Levar os copos e garrafas para a cozinha
+- [ ] Me trocar para academia 
+- [ ] Pegar o celular e carregador da Laura 
+- [ ] Pegar Lanche e suco para a Laura 
+- [ ] Sair para pegar a Laura 
+- [ ] Ir para academia

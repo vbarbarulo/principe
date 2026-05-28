@@ -1,0 +1,3 @@
+- [ ] Eu preciso padronizar as minhas Tags principais como essas de tarfas
+	- [ ] mas refletindo sobre isso vai ser apenas olhar no mapa
+	- [ ] Olhar para tudo que o obcidian oferece como segundo cerebro mesmo, não tinha entendi o poder disso aqui ainda mais juntando com a ia 

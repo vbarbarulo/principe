@@ -1,0 +1,5 @@
+Cara ser um hiscritos é isso que esta fazendo você esta entrando em um mundo desconhecido  e que você vai explodir com isso pq  você vai fazer o trabalho mai s importante que é extrair a sua mente, e com adivento da IA você vai consegir entender a sua mente, a sua vida. 
+
+Aqui ja tem que ir para um novo arquivo preciso mehorar isso aqui [[Escreve o que quer , fazer ser, estar, apenas escreca meu seguro da para vida]][[O medo do escritor , o medo de quem quero ser ]], essa á vida  é  assim que eu penso, você esta dando dica para voce mesmo preencher, e ele vem outro dia, outro comento mais ele vem para reparar o texto e organizar, pelo menos ele esta vendo isso se ele continuar iguinorando vai ser a [[maçã podre]]
+
+[[Vai pedindo ajuda para IA como analisar o seu texto]][[Vai fazendo as analises]]

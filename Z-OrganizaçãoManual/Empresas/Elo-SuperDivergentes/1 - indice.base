@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - Empresa == "Superdivergentes"
+    order:
+      - file.name
+      - Departamento
+      - Acompanhamento
+      - Status

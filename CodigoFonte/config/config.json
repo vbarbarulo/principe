@@ -1,0 +1,30 @@
+{
+  "empresas": [
+    {
+      "id": "emp_001",
+      "nome": "Pessoal",
+      "departamentos": [
+        {
+          "id": "dep_001",
+          "nome": "Financeiro",
+          "projetos": [
+            {"id": "proj_001", "nome": "Pagar contas"}
+          ]
+        },
+        {
+          "id": "dep_002",
+          "nome": "Saúde",
+          "projetos": [
+            {"id": "proj_002", "nome": "Rotina TDAH"}
+          ]
+        }
+      ]
+    }
+  ],
+  "tags_padrao": {
+    "emocoes": ["culpa", "orgulho", "ansiedade", "foco", "energia", "tedio"],
+    "tipos": ["tarefa", "projeto", "nota", "meta"],
+    "tempo": ["hoje", "semana", "mes", "ano", "vida"],
+    "curva": ["A", "B", "C"]
+  }
+}

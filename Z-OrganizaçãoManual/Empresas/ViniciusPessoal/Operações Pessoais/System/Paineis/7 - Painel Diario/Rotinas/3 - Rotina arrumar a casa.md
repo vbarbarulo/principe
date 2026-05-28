@@ -1,0 +1,46 @@
+- [ ] Arrumar a sala 
+	- [ ] Colocar tudo dos outros cômodos dos seus lugares 
+	- [ ] varrer a sala
+	- [ ] Jogar um cheirinho
+	- [ ] Tirar pó dos moveis
+- [ ] Cozinha
+	- [ ] Lavar a Louça
+	- [ ] Guardar toda a louça
+	- [ ] Varrer 
+	- [ ] Passar pano de necessário
+	- [ ] Passar pano no balcão
+- [ ] Banheiro social
+	- [ ] Tirar o lixo
+	- [ ] Guardar os produto deixar com cara de arrumado
+	- [ ] Lavar o vazo
+	- [ ] varrer
+	- [ ] colocar uma nova sacola
+- [ ] Escritório
+	- [ ] Organizar a mesa e deixar tudo em seu devido lugar 
+	- [ ] Passar um pano nos moveis 
+	- [ ] Varrer 
+	- [ ] Jogar um cheirinho
+	- [ ] Tirar o lixo
+- [ ] Corredor
+	- [ ] Varrer 
+	- [ ] Jogar cheirinho
+- [ ] Banheiro do meu quarto
+	- [ ]  Tirar o lixo
+	- [ ] Guardar os produto deixar com cara de arrumado
+	- [ ] Lavar o vazo
+	- [ ] varrer
+	- [ ] colocar uma nova sacola
+- [ ] área de serviço 
+	- [ ] Limpar a area de serviço 
+	- [ ] Varrer e lavar o quintal do coelho
+- [ ] Roupas
+	- [ ] colocar para lavar
+	- [ ] Estender 
+	- [ ] Dobrar
+- [ ] Garagem 
+	- [ ] Prender o toby la fora 
+	- [ ] Lavar o quintal
+	- [ ] Dar ração e Agua
+- [ ] Finalização
+	- [ ] Levar o lixo para lixeira 
+	- [ ] Passar com o Toby

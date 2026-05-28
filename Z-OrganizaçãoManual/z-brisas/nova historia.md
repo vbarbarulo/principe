@@ -1,0 +1,1 @@
+Cara agora vamos começar a usar o celebro do obcidian  e não importa muito pq aqui não temos que explicar como funciona deixa a sua mente viajar e quando chegar em alguma conclução você expande a mente e que se foda, mão precisa mais programas mais nada nem categorias, você apenas digita abra a mente cruza os dados, fala isso por dia e analise, vai montando uma IA [[hoje mesmo]] 

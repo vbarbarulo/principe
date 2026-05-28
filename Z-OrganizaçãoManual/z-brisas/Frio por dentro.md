@@ -1,0 +1,1 @@
+Me de me machucar emocionalmente, eu  [[Escrita terapeutica]]

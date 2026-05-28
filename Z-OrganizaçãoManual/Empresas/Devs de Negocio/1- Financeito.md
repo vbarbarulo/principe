@@ -1,0 +1,4 @@
+- [ ] Custo de equipe 
+- [ ] Curto de ferramentas 
+- [ ] Custos de anuncios 
+- [ ] Previsão de receita 

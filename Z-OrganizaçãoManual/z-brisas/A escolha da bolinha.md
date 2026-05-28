@@ -1,0 +1,1 @@
+Voltar par a historia fora de contexto

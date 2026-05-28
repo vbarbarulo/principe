@@ -1,0 +1,1 @@
+Pessoas inteligentes para mim são pessoas que foram para algum lugar,  estudar e são prestigiadas [[o medo da pessoa ser ]]ou [[falar que é sem ser]], já me passa um sentimento ruim [[uma especie de medo]]
