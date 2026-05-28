@@ -41,13 +41,9 @@ nohup python3 src/bot.py >> "$LOG_FILE" 2>&1 &
 BOT_PID=$!
 echo "$BOT_PID" > "$PID_FILE"
 
-# Inicia o Obsidian automaticamente em segundo plano se não estiver aberto
-if ! pgrep -x "obsidian" > /dev/null; then
-    echo "📓 Abrindo o Obsidian..."
-    obsidian --no-sandbox > /dev/null 2>&1 &
-fi
+# Inicia o Obsidian automaticamente em segundo plano se não estiver aberto (Removido por solicitação do usuário)
 
-echo "✔ Bot e Obsidian iniciados com sucesso!"
+echo "✔ Bot iniciado com sucesso!"
 echo "📌 PID do Bot: $BOT_PID"
 echo "📄 Logs sendo salvos em: $LOG_FILE"
 echo "💪 Persistência ativada. Você já pode fechar este terminal!"

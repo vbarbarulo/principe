@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-/Diario/Mes/05/2026-05-28.md",
+                "file": "Z-InformaçõesSistema/MANUAL_SISTEMA_HORUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-28"
+              "title": "MANUAL_SISTEMA_HORUS"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -127,7 +127,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "New tab"
             }
           },
           {
@@ -193,17 +193,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir visualização em gráfico": false,
-      "switcher:Abrir a troca rápida": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc1e1e3bb0f54303",
+  "active": "5ee6e8853065319d",
   "lastOpenFiles": [
     "papo com brilhante/papo.md",
     "-/Diario/Mes/05/2026-05-28.md",
