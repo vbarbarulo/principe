@@ -1,0 +1,96 @@
+{
+  "empresas": {
+    "ViniciusPessoal": {
+      "departamentos": {
+        "Operações Pessoais": {
+          "projetos": [
+            "Jogo da Vida",
+            "MeuLivroDeConselhos",
+            "MinhasBases",
+            "System",
+            "agentes de iA",
+            "Geral"
+          ]
+        },
+        "cursos": {
+          "projetos": [
+            "Lançamento Japa",
+            "piscologia",
+            "Geral"
+          ]
+        },
+        "Metas": {
+          "projetos": [
+            "Geral"
+          ]
+        },
+        "Financeiro": {
+          "projetos": [
+            "Contas a Pagar",
+            "Investimentos",
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Futuro Corp": {
+      "departamentos": {
+        "FuturoCorpORK": {
+          "projetos": [
+            "OKR",
+            "Revisões",
+            "Geral"
+          ]
+        },
+        "Recrutamento": {
+          "projetos": [
+            "Geral",
+            "Vagas",
+            "Planejamento"
+          ]
+        },
+        "Padronização do Deparetamento": {
+          "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Devs de Negocio": {
+      "departamentos": {
+        "Geral": {
+          "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Elo-SuperDivergentes": {
+      "departamentos": {
+        "Geral": {
+          "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Encubadora": {
+      "departamentos": {
+        "Geral": {
+          "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    },
+    "z-brisas": {
+      "departamentos": {
+        "Geral": {
+          "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    }
+  }
+}
