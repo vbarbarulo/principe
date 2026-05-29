@@ -1,77 +1,52 @@
-# 📜 Guia Rápido de Comandos — Hórus System
+# 🤖 Como Rodar o Agente do Telegram — Guia de Comandos
 
-Este é o seu guia rápido de consulta de comandos do **Hórus System**. Guarde este arquivo na raiz do seu projeto para consulta rápida no Obsidian ou qualquer outro editor de texto.
-
----
-
-## 🎖️ A Trindade de Personas
-Comandos para alternar o tom e a personalidade das respostas da Inteligência Artificial:
-
-| Comando | Persona | Foco principal | Tom da Conversa |
-| :--- | :--- | :--- | :--- |
-| **`/sargento`** | 🎖️ O Sargento | Combate implacável à paralisia do TDAH e à procrastinação. | Duro, militar, direto e realista. |
-| **`/amigo`** | 🧠 O Amigo/Copiloto | Suporte emocional, escuta ativa e acolhimento. | Empático, carinhoso e focado em sentimentos. |
-| **`/estrategista`** | 📈 O Estrategista | Planejamento tático de médio/longo prazo (OKRs). | Analítico, pragmático e focado em sprints semanais. |
+Este guia descreve os comandos disponíveis e como operar o **Agente do Telegram** em segundo plano (*background*) ou de forma interativa.
 
 ---
 
-## 🔹 Operações Diárias
-Comandos para registrar seus hábitos, saúde e reflexões ao longo do dia:
+## 🚀 1. Executando o Agente em Segundo Plano (*Background*)
 
-*   **`/start`**
-    *   *O que faz*: Inicializa a sessão com o bot, ativa a persona padrão (Sargento) e mostra o menu principal.
-*   **`/checkin`**
-    *   *O que faz*: Inicia o fluxo interativo de saúde matinal.
-    *   *Perguntas realizadas*:
-        1. 💤 Horário que foi dormir ontem
-        2. ⏰ Horário que acordou hoje
-        3. ⭐ Avaliação subjetiva do sono (1 a 5)
-        4. ⚖️ Peso diário em kg (Integra com o *Upsert Engine*)
-        5. 📝 Breve relato emocional ao acordar
-*   **`/descomprimir`**
-    *   *O que faz*: Inicia o encerramento do dia. Cole um texto longo ou grave um desabafo sobre o seu dia. A IA extrairá automaticamente:
-        *   Pontos excelentes e lições aprendidas
-        *   Dificuldades e sentimentos identificados
-        *   **Tarefas automáticas para o Segundo Cérebro** (Classificando-as na Curva ABC: `A`, `B` ou `C`)
-*   **`/relatorio`**
-    *   *O que faz*: Sincroniza e consolida todas as informações no seu **Obsidian Vault** local.
-    *   *Resultado*: Salva uma nota formatada em Markdown no diretório `diarios/`.
-*   **`/memoria`**
-    *   *O que faz*: Ativa o modo de busca semântica (**RAG local**).
-    *   *Exemplo*: Você pode perguntar coisas como *"Quando foi a última vez que me senti cansado?"* ou *"O que eu decidi na descompressão de terça-feira?"* e o Hórus buscará em seus relatórios passados.
+Para rodar o agente sem a necessidade de manter o terminal aberto, utilize o gerenciador automatizado:
 
----
+*   **Iniciar o Agente:**
+    ```bash
+    ./Z-exe/telegram_agent_bg.sh start
+    ```
+    *(Inicia o processo oculto, salvando logs em `S-Agentes/Agentes/telegram_agent.log`)*
 
-## 🛠️ Esteira de Desenvolvimento (Kanban)
-Seu sistema é capaz de codificar e evoluir de forma autônoma por meio de um pipeline de agentes especializados:
+*   **Verificar se está rodando (Status):**
+    ```bash
+    ./Z-exe/telegram_agent_bg.sh status
+    ```
 
-*   **`/nova_task [ideia]`**
-    *   *O que faz*: Informa que a gestão e o refinamento do backlog foram migrados para o **Antigravity**. Use os arquivos da pasta `skills/` no seu IDE local para refinar novas ideias com segurança!
-*   **`/aprovar_task [ID]`**
-    *   *O que faz*: Redireciona você para executar e testar sua tarefa localmente de forma pareada com o **Antigravity**, garantindo controle absoluto de código e evitando quebras no servidor.
-*   **`/kanban`**
-    *   *O que faz*: Exibe o quadro Kanban atual com as últimas 10 tarefas do banco de dados, seus status (`backlog`, `refining`, `developing`, `testing`, `done`, `blocked`) e a branch ativa.
+*   **Parar o Agente:**
+    ```bash
+    ./Z-exe/telegram_agent_bg.sh stop
+    ```
+
+*   **Reiniciar o Agente:**
+    ```bash
+    ./Z-exe/telegram_agent_bg.sh restart
+    ```
 
 ---
 
-## 📂 Pasta de Skills (Desenvolvimento Local com o Antigravity)
-Agora, em vez de agentes autônomos tomarem decisões sozinhos no servidor, nós trabalhamos juntos como um time completo de desenvolvimento de elite diretamente no **Antigravity**:
+## 💻 2. Executando em Primeiro Plano (Modo Interativo)
 
-*   🧠 **`skills/1_product_owner.md`**: Focada em refinamento de ideias brutas, priorização e definição de critérios de aceitação.
-*   ⚙️ **`skills/2_tech_lead.md`**: Focada em mapeamento de impacto, planejamento de arquitetura e arquivos afetados.
-*   💻 **`skills/3_developer.md`**: Focada em codificação limpa, robusta e aderente aos padrões do projeto.
-*   🧪 **`skills/4_qa_tester.md`**: Focada em planos de testes unitários e validação no ambiente local.
-*   🚀 **`skills/sprint_orchestrator.md`**: O guia definitivo explicando como nós dois coordenamos as sprints e rodamos cada persona.
+Caso queira ver as mensagens chegando no terminal em tempo real (útil para testes rápidos):
 
----
-
-## 📚 Manuais e Ajuda
-*   **`/help`**
-    *   *O que faz*: Exibe um guia rápido com todos os comandos resumidos diretamente no chat.
-*   **`/help_d`**
-    *   *O que faz*: Exibe um manual operacional e técnico detalhado contendo a explicação aprofundada dos fluxos.
+```bash
+./Z-exe/telegram_agent_start.sh
+```
+*(Use `Ctrl + C` para encerrar)*
 
 ---
 
-> [!TIP]
-> **Você sabia?** As personas conversacionais do Hórus têm autoconsciência de sua estrutura local. Você pode perguntar a elas no chat normal coisas como: *"Quais tabelas existem no meu banco de dados?"* ou *"Como está estruturado meu projeto?"* e elas responderão com precisão!
+## 📂 3. Salvamento de Notas e Lembretes
+
+*   **Notas Diárias:** Toda mensagem enviada para o bot é gravada em um arquivo diário dentro da pasta `0 -NotasRapidas/Diario/YYYY-MM-DD.md`.
+*   **Lembretes Automáticos:** O bot envia lembretes programados ao longo do dia nos seguintes horários padrão:
+    *   **09:00** — Planejamento matinal e metas 🚀
+    *   **13:30** — Lembrete de hidratação e progresso 💧
+    *   **18:00** — Encerramento de expediente e revisão diária 📝
+    *   **21:30** — Desacelerar e descansar 💤
