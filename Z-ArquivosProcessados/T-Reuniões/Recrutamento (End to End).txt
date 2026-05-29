@@ -1,0 +1,489 @@
+# Recrutamento (End to End)
+
+  Meeting started: 27/05/2026, 14:01:53
+  Duration: 60 minutes
+  Participants: Alexandre Lassance, Bianca Galvão, Felipe Gomes, Gabriel Marques, Igor Silva, Vinícius Barbarulo
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/1ObVBjLEtUhIAzLbgvpj?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Igor Silva: tô enfermo né, velho, então tá bom então, tá bom. Meu cabelo tá igual um ninho também velho. Tá f***, mas eu eu sou eu sou eu, E aí só falta quem falta só cair. E o Mateus Mateus não vai entrar ali.
+00:14 Felipe Gomes: Liberam créditos para terminar a semana alguém alguém alguém entrou e usou
+00:20 Alexandre Lassance: Libera para mim também então p****, pelo amor de Deus.
+00:27 Felipe Gomes: 30 dos meus créditos, mano. Alguém eu tô fazendo o seguinte eu eu bildo e olha os créditos teve alguém que entrou lá e usou trintinha 30.
+00:41 Igor Silva: Não é possível os caras são tudo viciado do Cracudo de token né, velho.
+00:48 Gabriel Marques: fome
+00:51 Igor Silva: Você tá maluco, velho. Mano, não dá para o token do Lobo é muito caro, velho. É muito caro, não dá não só esse mês foi mais de 100 dólares em
+01:00 Felipe Gomes: mano
+01:02 Igor Silva: Nova Pô, mano, você paga o Max o Max do do Cláudio velho você torra mano.
+01:04 Vinícius Barbarulo: Olá, estou transcrevendo esta chamada com minha extensão Tactiq AI. https://tactiq.io/r/transcribing
+01:04 Felipe Gomes: mas
+01:12 Igor Silva: Tô aqui para dar com pau velho.
+01:14 Felipe Gomes: Mas aí tem que ver o que que eu poupei de tempo do time de ter inovação é caro é caro, mas o papai aqui.
+01:29 Igor Silva: Tá certo tá certo tá certo agora adoro essa matemática. Adoro essa matemática. Vamos lá então, gente.
+01:41 Felipe Gomes: p**** velho é tudo que eu fiz cara tudo que eu fiz.
+01:50 Igor Silva: p**** 50 créditos
+01:56 Alexandre Lassance: a ligação
+01:59 Igor Silva: os caras
+02:03 Vinícius Barbarulo: Pô mano vai negar para Jesus é inferno.
+02:03 Igor Silva: acredita Tô vendo aqui.
+02:11 Felipe Gomes: Eu recebi eu recebi um comentário do cara do teu time falando isso aqui.
+02:23 Igor Silva: Quem falou Quem falou que
+02:28 Felipe Gomes: Mano, cada vez que cada vez que eu fico clico no planner é um crédito, tá
+02:34 Igor Silva: Eu não sei o que que você não sei que eu não sei o que que você faz, mas você gasta crédito para dar com Palmas no tá maluco.
+02:46 Felipe Gomes: ligado? Eu já sei até o tabela já não consigo desenhar a tabela do lobo.
+02:54 Igor Silva: Depois eu vou depois eu dou uma olhada nisso aí. Bora, bora lá ter Bora lá tenho que seguir aqui se não vai dar tempo. Primeiro ponto vou só ver rapidinho as pendências que ficaram da reunião passada e a gente já vai para os próximos tópicos, né? Você ainda vai fazer muita coisa lá no manual porque ficou da Galera dar uma olhada, não sei se a galera conseguiu acessar como é que foi lá o manual do Fê lá no logo.
+03:34 Felipe Gomes: Cara, liberei acesso liberei a sexta para geral a parte de eu botei lá, ele
+03:39 Igor Silva: Eu Gmail mesmo.
+03:44 Felipe Gomes: perguntou se podia acessar com o Google. Eu deixei a força, depois eu resolvo aí que eu vou fazer de segurança, não é problema meu não o meu é só tirar da minha cabeça e voltava. eu
+03:58 Vinícius Barbarulo: eu
+04:00 Igor Silva: Vou falar nada não.
+04:02 Vinícius Barbarulo: Ó. Eu senti falta no documento, eu fiz uma ata para gente conversar hoje que é bem a parte do do ranking não tem o passo a passo como que o pessoal pensa para fazer o recrutamento, qual é o modelo de mensagem então toda essa parte do ranking tá lá um entrar no futuro, aí eu trouxe para documentar aqui, até para depois o Jesus levar para lá, mas a gente precisa avançar.
+04:27 Felipe Gomes: A gente não precisa documentar porque já existe tá no material da vida da Luz, eu só vou passar para lá, tá? Então elas vão refinar porque a gente vai ver testando muito nos últimos no último ano inteiro, né? Então um pouco desatualizada. Elas vão refinavam atualizavam mandar e eu vou subir para o manual agora em termos de processo ele tá ele tá pronto de de ponta a ponta tá? Não tem nada que tá faltando lá, principalmente a atividade que a gente faz com o candidato, né? Na parte da experiência dele dentro de casa.
+05:10 Igor Silva: Os e-mails do road show ali como é que tá você sabe?
+05:17 Alexandre Lassance: Uma base específica. E aí eu não coloquei na esteira do Caí ainda para produção.
+05:22 Igor Silva: Ah então não foi para a produção ainda.
+05:25 Alexandre Lassance: Não mas aí eu já faço isso, você quer designar para alguém do marketing eu posso pegar e fazer os novos.
+05:31 Igor Silva: Não basta Apocalipse o padrão de e-mail lá eu caí, manda por cair, tá bom?
+05:33 Alexandre Lassance: Tá bom. Tá bom, tá bom. Eu vou só fica comigo aqui só para registrar que é enviar a data de entrega.
+05:46 Igor Silva: Tá bom.
+05:47 Felipe Gomes: Aí é importante a lei não seguir o mesmo tom que tá dentro do processo tá então pegar lá o tom de mensagem o tom de conversa para que o e-mail tanto em cop como estrutura. Siga a mesma linha de abordagens.
+06:08 Alexandre Lassance: Tá tá aí sobre isso, pode falar.
+06:11 Felipe Gomes: porque Eu quero que o candidato ele tem a experiência igual de ponta a ponta, entendeu? Porque hoje quando a gente disparou de show pelo oráculo, parece que é outra empresa que está disparando.
+06:23 Alexandre Lassance: tá
+06:23 Felipe Gomes: Não parece que é a mesma tom de conversa, então é importante pegar ler o documento do road show e entender na hora de criar ali tanta parte do marketing que ia criar o cope quanto o design para que respeite a mesma a mesma estrutura tá vocês vão ver que todo o material do recrutamento. Ele tá bem minimalista para ficar bem executiva assim sabe então A ideia é ficar dentro dessa
+06:49 Alexandre Lassance: aí
+06:53 Felipe Gomes: estrutura aí para não ficar diferente, né?
+06:58 Igor Silva: Não não precisa não, precisa ler o bagulho dá para uma Iara e a mesma Iah faz o copo, pelo amor de Deus dá no dá no Claudinho lá, fala para o cara da
+07:04 Felipe Gomes: Não beleza não, tô falando quem vai ler Entendeu? Tá bom, mas você só é importante. O eu criei eu criei um agente que tem um manual dentro dele lá que é o Tá no
+07:11 Igor Silva: no Claudinho lá e manda.
+07:14 Alexandre Lassance: Eu já fiz.
+07:23 Felipe Gomes: germinai. Se quiser usar ele ele foi o que criou todo o manual.
+07:28 Alexandre Lassance: Tá perfeito, tá? Deixa eu explicar que eu fiz eu peguei da sua última versão
+07:29 Felipe Gomes: tá
+07:33 Alexandre Lassance: e eu criei um artefato Vivo que se chama no Cláudia, né e basicamente ele tem em concentra todas as informações da futura e o seu manual traduzido já em Jason para quando ele for consultar junto com a paleta já me entregar alinhado essa p**** toda então de voz a p**** do c****** toda tá? Então tá super. Tá super fina nesse processo.
+07:58 Igor Silva: Você fez isso na sua conta ou na conta de inovação?
+08:02 Alexandre Lassance: Fiz na minha conta daquela. estourei
+08:05 Igor Silva: na sua conta ali ponto ali ponto Depois você me mostra isso aí, mas beleza vamos seguir aqui tem um outro
+08:15 Alexandre Lassance: é
+08:16 Igor Silva: tópico aqui que a questão do Blue print.
+08:18 Felipe Gomes: O Vini tá com a mão ouvir o Vini tá com a mão levantada.
+08:20 Igor Silva: Fala aí não vi. Fala aí Vini.
+08:23 Vinícius Barbarulo: Só do show eu já desenhei todo o fluxo, né? Quando eu chegar o candidato show enviar para o oráculo pegar o ID do consultor trazer de volta. E aí tem uma mensagem que precisa enviar só para a gente ficar alinhado na comunicação vai ser o WhatsApp e e-mail. Como que é o disparo é os dois e que que é esse disparo do Oráculo que você falou? Como que é um e-mail?
+08:47 Felipe Gomes: É o e-mail.
+08:49 Igor Silva: Mas isso é o que ele falou é o que faz hoje, tá? Entendeu Tá bom aí tem um negócio aqui que é o Blue print b**** ficou com Gabriel e o
+09:05 Alexandre Lassance: Ah tá, eu lembro disso. tá
+09:07 Igor Silva: Entendeu que ficou de incorporar na jornada do recrutamento?
+09:13 Alexandre Lassance: Acho que isso é só um processo que a gente precisa estabelecer que ele vai ser vivo, né? Então aqui o gado ele for mexendo no processo que é do líder aprovado o cair já ir desenhando direto, porque hoje que tá pegando né? Tá pegando do road show para frente, só que essa etapa de para o show que é onde
+09:31 Igor Silva: Tá bom.
+09:34 Alexandre Lassance: o gado tá mexendo, né de pegar esse cara a jornada dele, eu já queria trazer para dentro do Blue Print então. A ideia é que cabe a sentar assim para já e desenhando.
+09:46 Igor Silva: Tá bom.
+09:47 Alexandre Lassance: Uma reunião porque até o pé tava lotado para fazer semana passada, mas se não ia te pedir.
+09:52 Igor Silva: O Gabi dá uma olhada nisso e válida com Caio pode ser Gabriel fechou boa.
+09:57 Alexandre Lassance: Pode ser até cinco.
+10:00 Felipe Gomes: O porquê que tá pegando o download para frente? Ah, porque?
+10:05 Alexandre Lassance: Ah não isso
+10:05 Igor Silva: A comunicação pô é comunicação de comunicação por e-mail.
+10:08 Felipe Gomes: tá
+10:09 Igor Silva: Principalmente. O cair é comunicação por e-mail do WhatsApp, quem faz é o Vini? Entendeu eu do WhatsApp não tem toda aquela aquela é mais texto, né? O do e-mail tem toda uma tem todo frufru um design lá um design System. O Vini eu vou entrar no tópico para você, segura a mão aí aí você já fala do seu tópico da sua mão aí tem dúvida que tem três coisas, né? Tem que entender lá o Linkedin de envelope, eu não sei se chegou a ver. Isso aí é refino dos templates do chat útil.
+10:47 Igor Silva: Lá né do disparos, né e Api para automação de disparo por mudança de status. Pode falar pô, agora tá com você.
+11:07 Vinícius Barbarulo: o meu
+11:07 Felipe Gomes: Deixar a bola passar e correr atrás.
+11:11 Vinícius Barbarulo: O meu papo é mais técnico mesmo para fazer as revisões. Né, desde a entrada então assim. Ah entrou Lead por qual canal fez a distribuição pelo DDD que já tá funcionando hoje? É só para gente repassar. Tecnicamente os status tal então aí acho que um papo mais técnico o que tá me pegando aqui que eu levantei a mão antes foi a parte da do disparo de e-mail, como que vai funcionar ler eu jogo para activeca bem e de lá eu jogo ele para a lista e você gerencia o disparo essa ideia.
+11:42 Igor Silva: O disparo vai ser pelo Active, pô.
+11:45 Alexandre Lassance: Na hora de que não.
+11:50 Vinícius Barbarulo: tá
+11:50 Alexandre Lassance: E essa configure quem faz é você, entendeu?
+11:54 Vinícius Barbarulo: Lá né?
+11:56 Alexandre Lassance: isso
+11:56 Felipe Gomes: Hoje o disparo é o efeito pelo site é feito por ele, né?
+12:01 Alexandre Lassance: sem
+12:06 Vinícius Barbarulo: Não aqui assim o como que funciona a separação na minha cabeça, o que é
+12:06 Igor Silva: do Oráculo do Oráculo
+12:08 Felipe Gomes: Mas vai tirar do Oráculo de disparo e vai para que time também.
+12:15 Alexandre Lassance: mesmo é só
+12:21 Igor Silva: Buguei buguei.
+12:23 Vinícius Barbarulo: marketing que é responsável por templates de marketing para mim tem que sair do Active. O que é transacional do sistema que aí sai do sangue Grid?
+12:35 Felipe Gomes: Tá falando de qual etapa?
+12:38 Vinícius Barbarulo: Ou se for se for que vai ficar pelo time do Alê, eu acho que tem que sair do
+12:38 Felipe Gomes: a etapa do processo
+12:44 Vinícius Barbarulo: Active também no meu ponto de vista.
+12:46 Felipe Gomes: É uma atividade do recrutamento.
+12:47 Igor Silva: Não não tem a questão é de onde sai o e-mail. Não não não independente esquece departamento gente é futuro, vamos falar futuro, vamos lá rapidão
+12:55 Felipe Gomes: Não eu sei mas eu tô falando quem é arrasto, o candidato é o recrutamento.
+12:58 Igor Silva: rapidão. O e-mail. O e-mail ele já sai hoje do Oráculo certo o que a gente precisa é melhorar o e-mail certo ouvindo É isso mesmo, já sai do Oráculo, entendeu? Então vai sair do Oráculo vai sair do ar que te ver eu que falei errado.
+13:13 Vinícius Barbarulo: Não tudo bem, eu só trago um ponto que o se precisar de alterações a
+13:14 Igor Silva: pronto
+13:19 Vinícius Barbarulo: velocidade da alteração vai depender do time de ti se ficar no nosso time no time ali do Alê do marketing a gente consegue fazer mais rápido, entendeu? Só esse ponto que
+13:31 Igor Silva: não mas o e-mail Hoje ele já dispara ele já faz esse disparo, não precisa mudar o gatilho do e-mail, não certo precisa mudar o
+13:40 Felipe Gomes: Então é isso que a m**** isso que eu ia falar. O problema é que tá no
+13:40 Alexandre Lassance: Não precisa de código. Estava explicando.
+13:45 Igor Silva: Não não. Então calma calma respira o e-mail o e-mail. Mas beleza o e-mail o
+13:46 Felipe Gomes: código.
+13:51 Igor Silva: HTML do código é fácil vai contra você controver agora a questão é vai mudar o gatilho do do e-mail que o gatilho que dispara o e-mail que vai complexar o código. Entendeu? Agora se é o mesmo gatilho, eu só vou mudar o código HTML. Isso é fácil. Pô, eu te encontrou você controver eu tiro o código e boto novo, entendeu? O código é igual entendeu? Tranquilo pronto.
+14:16 Alexandre Lassance: É isso.
+14:19 Igor Silva: Beleza aí só que eu fiz duas perguntas para você ver primeira pergunta tu chegou a dar uma olhada lá na parada do LinkedIn do envelope.
+14:30 Vinícius Barbarulo: Sim e tem algumas ferramentas paralelas que faz o serviço mais rápido. E aí por isso que eu preciso entender. Qual é o fluxo se vai pegar o link da pessoa do LinkedIn a gente vai lá entrar ver as informações do perfil para montar o texto e já disparar ou se a gente só vai fazer uma sugestão de texto pessoal, envia manualmente. Então eu preciso entender o fluxo para ver a melhor solução, mas já comecei a analisar.
+14:56 Felipe Gomes: Cara, não tem problema em fazer o pessoal mandar manualmente não porque se a gente botar um robô vai vai dar ruim mano. Vai dar ruim vai dar certo que a gente já testou e dá ruim, eles vão bloquear então eu prefiro que continue mandando manualmente e agora a sugestão de texto ela ser refinada tipo para pessoa mesmo para o candidato vai ser do c******.
+15:22 Vinícius Barbarulo: Vocês pegam o link ali do perfil da pessoa para colocar no louco no fluxo atual?
+15:26 Felipe Gomes: Não não vai no novo vai numa planilha.
+15:29 Vinícius Barbarulo: Não beleza, mas tem o link, né?
+15:31 Felipe Gomes: E eu vou trazer para dentro do meu sistema aqui tá para ficar dentro do sistema.
+15:39 Bianca Galvão: Só um ponto a gente coloca o link no novo quando o candidato dá o telefone mas é lá nas observações meninas, não sei se conta tá? Mas a gente.
+15:47 Felipe Gomes: Não, mas isso aí a gente já falou a gente fala a mensagem.
+15:50 Igor Silva: Mas então mas só para reafirmar o foco o foco hoje do LinkedIn do LinkedIn do
+15:50 Bianca Galvão: é
+15:58 Igor Silva: LinkedIn é para você personalizar a mensagem que vai ser enviada para o candidato certo ou errado para ficar uma coisa abordagem. Então é só isso que
+16:07 Felipe Gomes: abordagem
+16:10 Igor Silva: tem que focar Vini foca como a gente personalizar essa mensagem te dá ou não aí fala para a gente.
+16:16 Felipe Gomes: Aí o que a gente pode fazer a mais que a lua até pediu para tu o acesso do Cloud, não sei se já pediu ou não amigão, nem sei se a gente tem também para que ela quer testar tipo a triagem o c****** tudo pelo Cloud, entendeu? Ele fazia a pesquisa ele fazer o a pesquisa Poliana trazer o candidato colocar o candidato na planilha no louco no sistema, sei lá e já validaço esse candidato ele já tá selecionado no futebol automatizar esse processo inteiro aí é o processo de pesquisa é uma é um processo de Hunting mesmo, né? É uma atividade antes se a gente conseguir automatizar isso aí a gente brilhou.
+17:06 Igor Silva: Então mas isso já é automatizado. Então já automatizou não entendi, como
+17:08 Felipe Gomes: Porque hoje o Cláudio consegue fazer a pesquisa no nosso LinkedIn, tá ligado? Eu quero que você quero que você me ilustre 100 pessoas de Florianópolis com esse perfil dentro então se a gente conseguir fazer isso.
+17:30 Igor Silva: é que vai automatizar isso agora então já que ele já faz a pesquisa.
+17:33 Felipe Gomes: Não não ele já ele já ele não isso sim, entendeu? Mas é tipo assim o automatizar é pegar o candidato subir ele no nosso sistema para acompanhar e criar mensagem que é esse próximo passo alguém lá pegar a mensagem mandar para essa pessoa mandar o convite mandar a mensagem para o candidato, então isso vai ser manual, só que o processo antes pode ser automatizado.
+17:56 Igor Silva: É isso aí vamos vamos com calma. Vamos com calma. Vamos com calma.
+18:01 Felipe Gomes: Não não isso nem precisa ser nem dá para botar robô porque vai botar robô e vai cair a conta velho, não adianta.
+18:07 Igor Silva: Não A questão não é colocar robô no Linkedin a questão é personalizar a mensagem que vocês falaram para poder já mandar uma mensagem para o candidato quando abrir lá na caixinha dele já sugerir uma mensagem, né? E aí só enviar eu pensei nisso. Não sei nem se dá para fazer por isso que eu falei é isso que o vídeo precisa ver lá no dedão, que tipo de personalização a gente já.
+18:36 Igor Silva: Que eu queria fazer, entendeu?
+18:40 Felipe Gomes: O que o que vai acontecer hoje? É que eu vou mudar vou pegar essa planilha de Hunting abre a planilha de Rancho para eles verem só para o Vini entender o processo todo.
+18:51 Bianca Galvão: pera
+18:58 Igor Silva: Mano, eu queria seguir porque a gente não já falou de Hunting. E aí a gente vai voltar no mesmo assunto da semana passada.
+19:03 Felipe Gomes: Mas aí a gente vai deixar uma coisa, mas a gente vai deixar uma coisa pendente.
+19:09 Igor Silva: Não, mas o que que é exatamente nesse processo que a gente não falou semana
+19:11 Felipe Gomes: Não é importante vocês entenderem, mas não é importante entender o processo
+19:13 Igor Silva: passada.
+19:15 Felipe Gomes: para saber como vai fazer. E não Beleza a gente pula.
+19:20 Igor Silva: Não sei porque assim a gente falou já bastante da parte road show na semana passada está voltando. Aí por isso que eu tô perguntando tipo assim a gente O
+19:34 Felipe Gomes: É que eu mais tipo assim o que eu vou.
+19:37 Igor Silva: que que a gente pulou que a gente que é importante a gente olhar agora analisar porque esse processo é um processo interno de vocês certo o processo aí de
+19:44 Felipe Gomes: O que?
+19:47 Igor Silva: manual de rede.
+19:48 Felipe Gomes: Gerar mensagem onde entendeu? Onde que vai por essa mensagem onde que ela vai aparecer?
+19:53 Igor Silva: Por isso no Linkedin direto, por isso que eu pensei isso, entendeu? No link
+19:57 Felipe Gomes: No Linkedin direto.
+19:58 Igor Silva: direto é?
+20:00 Felipe Gomes: Mas aí é praticamente um disparo.
+20:03 Igor Silva: Não não é um dispara uma sugestão só de texto.
+20:08 Vinícius Barbarulo: O que que eu pensei imaginando que é o louco? Eu sei que vocês fazem planilha imaginando que a gente está no processo do louco as meninas entram lá e coloca o link da pessoa eu olho automação vejo quem não tem mensagem padrão pega o link, olhe lá pega o perfil da pessoa monta mensagem e coloca a mensagem no louco, elas fazem um filtro pega mensagem e manda manualmente eu pensei em algo assim atende.
+20:32 Felipe Gomes: Atende mais isso a gente colocasse isso dentro do sistema que eu tô montando é possível no curso, só seu banco de dados.
+20:40 Vinícius Barbarulo: Sim, eu só dei o exemplo do louco pelo processo, aí eu vejo como eu sou
+20:43 Felipe Gomes: Então não vai conseguir conversar. Tecnicamente comigo que eu sou i*****, mas
+20:43 Vinícius Barbarulo: sistema e a gente integra aí a gente conversa. Tecnicamente depois só para pegar onde tá fechou.
+20:52 Felipe Gomes: é bom. Sozinho aqui filha.
+21:02 Igor Silva: Não mas é carro de Fórmula 1. Só que é simulador, né? Doido, p****, é bom
+21:09 Felipe Gomes: Vai dar para conversar.
+21:10 Igor Silva: aqui segura a língua aí c******, Felipe. Deixa eu seguir aqui, ó, nomenclatura nova. A gente falou disso de mudar nomenclatura reprovado médico potencial, não lembro disso não.
+21:26 Felipe Gomes: Na página de captura que tu faz na página de captura que tu faz tu tava
+21:26 Igor Silva: cinco pontos de avaliação
+21:34 Felipe Gomes: chamando lá de como é que era o nome sócio protocolo, não sei o quê, como é que era o nome.
+21:41 Igor Silva: Eu chamo de futuro.
+21:46 Felipe Gomes: E aí qual que era a classificação que tava dando para cada candidato?
+21:51 Igor Silva: É não dá para usar isso, né? Mas tudo bem.
+21:54 Felipe Gomes: Beleza, eu no processo seletivo que a gente montou agora o processo inteiro a gente tá chamando de auto potencial médio potencial e reprova imediatamente. Eu acho que para fora dá para usar o alto potencial e Médio potencial.
+22:22 Igor Silva: Entendi.
+22:24 Felipe Gomes: Entendeu? Agora imediatamente pode ser uma educação aí e tal, só que eu
+22:29 Igor Silva: A gente fala hiposta.
+22:29 Felipe Gomes: gostaria que Chegar o Lead para o time recrutamento que chegasse nessa classificação Auto potencial médico potencial e tipo assim reprovado imediato.
+22:45 Igor Silva: Tá, beleza. Ok isso ok. E aí a gente
+22:49 Felipe Gomes: E que atua e que a tua e que a LP desculpa que a LP me disse as mesmas coisas que a gente mede na seleção de candidatos, vou te mostrar aqui rapidão. Tu entrar aqui na Golden list o que eu tô analisando de cada candidato, é isso daqui, ó DNA campeão habilidade comercial networking Persona. Aí tem explicação de cada um aqui. Tá a cultura é óbvio que talvez tem alguma pergunta de Cultura, seja relevante, principalmente resiliência e tal na hora da triagem a gente definir esses quatro o último não porque o último é filho, né? Agora essas quatro aqui, já vem com uma pontuação para que o lide que entrar ele já entra no mesmo processo para o time de recrutamento que a gente falha a mesma coisa do começo até o final.
+23:46 Igor Silva: Tá bom. E aí a gente tomou a decisão lá que vão ser três números para o recrutamento, né uma para ali e dois lá para os squads. É beleza. E aí, então vou continuar na sequência que a gente parou bem na questão lá do a gente falou da ligação aprovada aí faz o cadastro no oráculo. Envie o link do show. certo
+24:20 Felipe Gomes: isso
+24:23 Gabriel Marques: Que eu parei aqui na parte do agendamento, mas se ele se ele se ele aceita ou não fazer o agendamento a gente por exemplo. Se ele não aceitar fazer o agendamento para onde que ele vai.
+24:38 Bianca Galvão: Para o fluxo não quer dizer se ele não aceitar fazer o agendamento.
+24:41 Gabriel Marques: É ele vai para uma dele, ele sai de sacada ou ele vai para uma lista de tipo
+24:41 Bianca Galvão: ele é
+24:46 Gabriel Marques: uma lista fria.
+24:47 Bianca Galvão: Não ele vai ele é desclassificado a gente entende o porquê que ele não quer dar sequência, né? E aí a gente
+24:53 Felipe Gomes: Não é hoje Bia. Tô falando do vídeo de
+24:58 Igor Silva: Não não ele tá falando do geral.
+25:00 Gabriel Marques: Porque ele ali a gente tem a gente tem os três contatos, né de falar primeiro
+25:02 Igor Silva: né
+25:02 Felipe Gomes: Geral mesmo. Ah tá. Hoje a gente.
+25:09 Gabriel Marques: contato se ele aceitou ele vai ver se quer agendar ou não, né? E assim por diante. E aí nesse agendamento tipo assim entender esse motivo esse motivo. Ele é passivo de né de classificação ou se ele é para um remarketing vamos assim dizer.
+25:28 Bianca Galvão: Isso a gente sempre válida a justificativa do candidato para não dar sequência, porque às vezes ele tá como objeção ali Inicial que a gente consegue contornar e marcar a ligação ou às vezes direciona para alguma outra oportunidade que a gente enxerga ali, mas geralmente quando realmente não avança a gente só desclassifica e atualiza dentro do sistema não vai para nenhuma lista fria não.
+25:50 Gabriel Marques: Tá então.
+25:52 Felipe Gomes: De tempo em tempo quando a gente está trabalhando só com Hunting hoje, a gente volta o contato com essa pessoa, tá? A gente vai lá não Com todos mas a gente fica revisitando para ver se traz de
+25:58 Gabriel Marques: Ah então ele vai para fria.
+26:05 Felipe Gomes: novo.
+26:06 Bianca Galvão: Na verdade Gabriel os que os que a gente revisita são os que não dão retorno os que dão retorno falando que não tem interesse a gente não revisita, mas os que não dão retorno ou seja somem param de responder e a gente não consegue mais contato. Aí a gente faz esse Recalque falou que às vezes a gente puxa tenta o contato de novo. Vê se consegue buscar ele novamente para iniciar uma conversa, mas os que se classificam não.
+26:30 Felipe Gomes: Boa deveríamos. Então tá bota isso aí para a gente conversar.
+26:34 Bianca Galvão: Boa beleza.
+26:35 Felipe Gomes: Que da cada seis meses a vida da pessoa muda e a gente está aí de novo para mostrar para ela que a gente é bom.
+26:42 Gabriel Marques: exatamente
+26:46 Igor Silva: Então então, beleza, então a pessoa ligou se ela se ela foi aprovada show, né? Ela vai para o oráculo se ela não se ela não se ela não quiser ela fica lá no louco, né? Que é o banco de dados lá, né? Hoje você usa essa informação se leva essa informação para algum lugar ou ou
+27:10 Felipe Gomes: A gente só começa a gente contabiliza o esforço de Hunting que é feito e a gente contabiliza a quantidade de líderes e contabiliza a quantidade de entrevistas de ligações agendadas a gente faz o processo do Funil inteirinho.
+27:25 Igor Silva: Já tem dashboard de recrutamento disso aí?
+27:28 Felipe Gomes: Não tá fazendo na unha vai virar vai entrar aqui vai entrar no sistema aqui. Ó, você tá fazendo na unha.
+27:34 Igor Silva: Tá bom.
+27:35 Felipe Gomes: Tá já botei até aqui ó metas aqui ó, já comecei me dá crédito que vai
+27:41 Igor Silva: Mano, mano, calma velho. Eu já não eu já tô pensando se eu te dou crédito
+27:42 Felipe Gomes: rolar filho, me dá crédito me dá crédito.
+27:47 Igor Silva: porque velho com calma que você não fazer outro Megazord aí que velho vai dar vai dar só mais chabu depois depois você cansar dele, depois eu chego uma hora começa a ficar complexo aí cansa começa a dar trabalho aí tipo assim, aí você cansou abre cansou do brinquedo igual criança brinca, cansa do brinquedo aí larga e depois joga no c* dos outros para poder resolver, né? Então segura aí segura aí Bom vamos lá é.
+28:21 Felipe Gomes: Tá aí, a gente fez o contato foi para o show.
+28:21 Igor Silva: Beleza, foi para o oráculo depois do Oráculo, envia o link do show o load
+28:26 Felipe Gomes: só que tem
+28:27 Igor Silva: Show. Beleza, ele é hoje. Ele é um vídeo. Ele é um vídeo só né de 10 em
+28:32 Felipe Gomes: Uma página é uma página.
+28:32 Igor Silva: mim. E já eu o cara recebe esse e-mail, né com road show lá no e-mail no WhatsApp nos dois.
+28:42 Gabriel Marques: recebe no WhatsApp no
+28:45 Igor Silva: no e-mail
+28:45 Felipe Gomes: Eu preciso voltar uma coisa Antes aqui.
+28:47 Igor Silva: tá
+28:52 Felipe Gomes: Os franqueados eles vão incluir Golden list agora por aqui, ó e eu preciso de duas ações aqui que aconteça uma que alimente o sistema das meninas o CRM que hoje tá no NOKU e que alimente o oráculo também.
+29:10 Igor Silva: Ó lá a lá o cara o viu, eu acabei de falar aí não velho. Resolve sozinho
+29:16 Felipe Gomes: Mas eu já tinha eu já tinha te falado antes disso não já tinha não vem
+29:17 Igor Silva: filho, vai velho se vira aí, c******, p****, velho, viu? É isso que eu tô falando, mano.
+29:22 Felipe Gomes: falar que a surpresa Não que eu já tinha te falado.
+29:25 Igor Silva: É isso que eu tô falando velho. Tipo assim, mano. Calma calma, calma muita
+29:28 Felipe Gomes: Não não vem não, mas eu já tinha te falado isso daqui quando eu comecei a
+29:31 Igor Silva: calma Nessas horas.
+29:32 Vinícius Barbarulo: Jesus
+29:33 Felipe Gomes: montar. E você me respondeu tá fácil? Porque agora tem.
+29:39 Vinícius Barbarulo: O NOKU tem api tá?
+29:39 Igor Silva: Somente não o novo não. O louco é só mano. O louco é o mais fácil. O problema é o oráculo assim o oráculo agora tem mas o louco é o mais de boa, pô, o louco que você faz sozinho.
+29:50 Vinícius Barbarulo: Não mas aí. Deu incerto aí em série?
+29:56 Felipe Gomes: É isso é isso é isso não tem problema.
+29:58 Igor Silva: Dá um insiste aí dá um enxerto aí. Dá um jeito aí dá um jeito.
+30:00 Felipe Gomes: Aí serve alguém vai ter que fazer o Felipe não sabe fazer esse Felipe não sabe não quer aprender esse daí velho. Esse aí ele não quer. Então, mas é isso aí tá vai entrar o link, ele tem que ir para o novo oráculo. Vou botar aqui
+30:20 Igor Silva: do Golden lixa aí
+30:21 Gabriel Marques: A pergunta ele já não tava no louco porque lá na validação é uma outra
+30:26 Igor Silva: Não esse veio do PM. Esse é uma outra fonte do PN o PN o pênis.
+30:27 Gabriel Marques: base do louco. Eu posso apresentar aqui para a gente só para eu entender o fluxo direitinho aqui.
+30:38 Igor Silva: O Golden o Golden Liste ele é uma ele é tipo Network próprio dos pênis o Gabriel. sacou
+30:52 Gabriel Marques: Vou apresentar rapidinho só para você.
+30:53 Igor Silva: Quando toda vez que toda vez toda vez que o Felipe falar Golden Liste significa que é o Network dos próprios.
+31:04 Gabriel Marques: Tá ó, mas presta atenção, eu coloquei aqui as entradas as possíveis entradas então tipo a parceria e atualização. Depois dessa validação é colocar dentro novo aí no louco, ele vai fazer o disparo, né no WhatsApp de São Paulo ou de Florianópolis aí vai ter o primeiro contato aí se teve sucesso, ele vai seguir para agendamento, senão ele vai para o segundo contato assim até chegar no terceiro contato. Se não teve ele vai lá para lista fria certo aqui nesse agendamento quando ele aceita ele vai para dentro do Oráculo
+31:38 Igor Silva: isso
+31:40 Gabriel Marques: certo então.
+31:42 Felipe Gomes: Então depende se for a Golden Liste a goldenista tem que estar dentro do Oráculo se é um
+31:50 Gabriel Marques: Entende, ela já entra direto, então eu vou colocar aqui uma saída.
+31:56 Felipe Gomes: Agora o restante ele fica dentro do novo agora, por exemplo.
+32:01 Igor Silva: Só só uma dúvida agora rapidão filho uma dúvida, você não falou que agora as meninas vão olhar para golden Lister?
+32:10 Felipe Gomes: Porque é onde eles cadastram a quantidade de leads lá?
+32:11 Igor Silva: Então isso aí que o Gabriel tá falando o Golden Lich, tem que entrar antes do agendamento velho.
+32:19 Gabriel Marques: Tem que entrar aqui essa validação.
+32:20 Igor Silva: Porque as meninas é porque tem que entrar na validação das meninas ali ó
+32:25 Gabriel Marques: É o que eu tinha colocado.
+32:25 Igor Silva: Golden lixo, entendeu? Mas porque por que que tem que ir direto por a com esse contato? Mas ele não cadastra ele não cadastra calma, ele não cadastra direto no nesse nesse questionário aí que você criou de chamou de golden Liste.
+32:51 Felipe Gomes: Isso Ele vai cadastrar aqui, aí ele vai cadastrar aqui e vai alimentar o CRM da
+32:53 Igor Silva: Beleza, ele cadastra e aí vai?
+32:58 Felipe Gomes: do time de recrutamento. E aí no oráculo no oráculo é onde ele vai
+32:58 Igor Silva: Das meninas vai para o novo vai para o novo, né? Beleza então, tá?
+33:05 Felipe Gomes: visualizar o avanço desse candidato, entendeu? Não só para o road show, mas também já tentaram falar esse candidato ele tá quente, ele tá frio o
+33:15 Igor Silva: Então calma. Então vamos lá, então, vamos lá então assim então então mas
+33:15 Felipe Gomes: oráculo ele o Oráculo.
+33:20 Igor Silva: os mais o tirando eles tirando o Golden Lich todos os outros não entra no oráculo, até eles irem para o show certo?
+33:30 Felipe Gomes: É eles não entram no oráculo porque dá um trabalho f***** pra gente colocar lá e ficar administrando o louco e lá isso que eu ia falar.
+33:36 Igor Silva: Então mas agora agora o mesmo trabalho que a gente vai ter para mandar para o novo a gente para mandar para o oráculo Golden, lixa a gente vai ter para mandar todos os outros, pô, é o mesmo trabalho.
+33:49 Felipe Gomes: Então isso que eu ia falar o que a gente pode fazer é a gente mandar todo mundo assim que for cadastrado já para o oráculo, entendeu? Ele já registra lá nos vídeos no oráculo todos os links.
+34:00 Igor Silva: É então, Gabriel. Tira esse trem aí, ô, Vini. Vai ter que ser isso agora já que a gente vai fazer para poder coisar tudo todo mundo. Vamos já para botar esse galera do goldeliche lá no oráculo. Vamos botar todo mundo, pô, para a gente sabe para a gente ter lá no funil todo mundo todos os vídeos que foram ranqueadas, né? Eu sinceramente. Eu discordo disso tá Fê eu não mandaria ninguém por oráculo velho, mas isso
+34:33 Felipe Gomes: Mas por quê?
+34:38 Igor Silva: é uma outra discussão que não cabe aqui agora entendeu? Uma discussão de diretoria nossa com ti, entendeu? Não é uma discussão para agora, mas é eu não faz sentido mandar só o Golden lish. Se for para mandar goldelish, manda todo mundo. O que o cara é porque só para o PNB se ele foi reprovado ou não? Porque se ele não chegou lá significa que ele foi reprovado, pô.
+35:06 Felipe Gomes: Mas mano, não é assim que a cabeça deles funciona.
+35:10 Igor Silva: Ou é mas só tu falar para eles ó, se ele não apareceu é porque ele foi
+35:13 Felipe Gomes: Não mas então mas não é assim mano essa ausência de comunicação.
+35:14 Igor Silva: reprovado foi reprovado para o time de as meninas dão feedback, as meninas tão pedindo é não mas a gente pode pode ele não pode acompanhar num dashboard a gente entrega um dashboard para eles, pô.
+35:29 Felipe Gomes: Pode acompanhar aí por exemplo.
+35:31 Igor Silva: Eu acho que vai ser menos trabalho velho.
+35:33 Felipe Gomes: Pode acompanhar velho, tudo que der para tirar do Oráculo e a gente conseguir fazer ágio eu prefiro não tem problema nenhum não.
+35:43 Igor Silva: Depois anota aí para a gente conversar isso aí nós louvação bom beleza?
+35:48 Gabriel Marques: O que que seria ele? Já aceitou para fazer tipo assim, porque?
+35:51 Igor Silva: Deixa é deixa assim, deixa assim, mas enfim tá sobre aí, beleza?
+35:58 Vinícius Barbarulo: Só passar na frente da Bia aqui rapidão, tá? Então a gente mantém só vai piorar colocou quando chegar na fase de road show e isso se mantém. Só para tomar nota aqui.
+36:08 Felipe Gomes: O Igor o Igor vai decidir junto com você isso daí.
+36:11 Vinícius Barbarulo: Tá bom, beleza.
+36:11 Igor Silva: A gente vai ver vai ver o esforço para isso. Entendeu Beleza, aí depois ele recebeu o road show, ele vai receber o road show via WhatsApp e-mail, né? E e o link o link esse link de visualização o que ele vê ali é o link do YouTube direto.
+36:33 Felipe Gomes: Não ele recebe uma página.
+36:35 Igor Silva: uma página Já bota aí na sua tio do lixo para você assistir essa p****. É 10 minutos, só c******, já bota já bota a gente assistir.
+36:48 Felipe Gomes: Mas tá aqui tá aqui Gabriel. Tem tudo que tu quer saber tá aqui na etapa de
+36:50 Alexandre Lassance: Gabriel
+36:59 Felipe Gomes: show a importância dele, o que é o vídeo que é feito as perguntas de
+37:00 Gabriel Marques: Entendi então tipo o é a entrevista do agendamento.
+37:06 Felipe Gomes: qualificação que são feitas e o score que é gerado.
+37:18 Igor Silva: É na verdade ele ele é uma ele é uma apresentação da empresa padrão, é
+37:19 Felipe Gomes: Uma é uma preparação para entrevista individual.
+37:23 Igor Silva: isso é a apresentação da empresa padrão.
+37:25 Alexandre Lassance: https://docs.google.com/presentation/d/1Lx-FZLLUZqii7XL1LM_L7DrA5h1nFjp0tepC1zOTups/edit?usp=sharing
+37:27 Gabriel Marques: Fechou então, é isso que eu
+37:31 Igor Silva: E isso é para o cara já chegar na entrevista já sabendo o que que a empresa, entendeu? Para não para não depender de cada um apresentar a empresa de um jeito e falar a bota é?
+37:45 Alexandre Lassance: E-mails que enviamos no processo do roadshow a aprovação
+37:46 Felipe Gomes: o novo
+37:49 Bianca Galvão: É só para falar sobre o negócio de adicionar todos os vídeos no oráculo é pensando em hanting. Eu acho que vai ser um negócio absurdo também porque a gente voluma muito assim 700 líderes entrarem no oráculo fora que a gente precisaria colocar mais um módulo porque ele no oráculo só tem leads e road show, a gente não tem leads, agendamento qualificação que é todo funil que a gente tem dentro do noco para poder acompanhar realmente como a gente acompanha por exemplo dentro do CRM. Então eu acho que para o ranking para o fluxo que a gente faz hoje ia ficar muito complexo dentro do buraco.
+38:24 Igor Silva: Mas eu tô falando quando eu falo isso não é considerando que esse esforço vai ser de vocês, tá?
+38:31 Bianca Galvão: Não não eu sei que não é a gente vai fazer mas eu tô falando para a gente administrar realmente dentro do Oráculo, porque não é tão visual, por exemplo, quanto louco a gente o louco a gente consegue acompanhar e fazer uma
+38:41 Igor Silva: Não mas aí ele já vão ir tudo para uma ele já vão e tudo para uma fase que
+38:43 Bianca Galvão: gestão muito curiosa.
+38:47 Igor Silva: é tudo já é estabelecido, a gente já joga eles para eliminado. Porque tipo assim o esforço que eu vou ter para fazer um chegar lá e uma fase específica. Vamos supor que eu quero que o Zezinho das couve chega lá no na fase road show no oráculo o esforço que eu vou ter para fazer isso vai ser o mesmo que eu botar todos em qualquer uma das fases lá.
+39:11 Bianca Galvão: Sim, mas o problema é que antes dele chegar no Multishow tem várias fases e várias gestões diferentes para poder acompanhar o candidato e dentro do
+39:19 Igor Silva: Mas ele já ele já não foi eliminado. Mas ele já não foi ele já não foi
+39:19 Felipe Gomes: Mas não sairia do Nokia.
+39:19 Bianca Galvão: horário.
+39:24 Igor Silva: eliminado.
+39:25 Felipe Gomes: Não ainda não, mas enfim, mas o que a gente deixa eu falar o que a gente vai
+39:28 Igor Silva: Não.
+39:30 Felipe Gomes: fazer vai fazer o dashboard fora e a galera vai conseguir acompanhar pelo sistema aqui o link que ele recomendou se ele entrou no processo ou não e a gente faz a entrada no a gente faz a entrada após etapa road show no oráculo.
+39:43 Igor Silva: Eu acho melhor.
+39:50 Felipe Gomes: Vai cansar menos o oráculo e vai funcionar melhor sempre dessa forma e a gente deixa isso isso. A gente coloca aqui um bagulho para a galera pesquisar o que recomendou os filtros e aí já era mato.
+40:12 Igor Silva: Boa depois é depois a gente leva para reunião. Nossa mas é tem planos maiores para isso aí e não envolvem oráculo. Bom vamos lá próximo tópico, então a gente aprende o seguinte. Então ele foi o show. Aí eu quero saber a gente tem alguma métrica hoje, a gente consegue ver. Ah, beleza essa página essa página do road show é essa página é uma página que você criou aonde é uma Landing page. Quem criou essa página?
+40:43 Felipe Gomes: É igual a página da entrevista do cliente é uma LP que sai de dentro do Oráculo. E aí
+40:52 Igor Silva: Ah beleza então porque eu coloquei lá eu coloquei lá no oráculo agora o vídeo é do panda não é mais do YouTube. E aí a gente consegue rastrear não só quem viu mas quanto tempo viu? Esse dado esses dados não são relevantes. Então, o Vini sabe vocês têm Vocês conseguem ver?
+41:12 Felipe Gomes: Tão relevante hoje a gente sabe tá? Hoje hoje marca Quem viu quanto tempo não mas marca Quem viu?
+41:22 Alexandre Lassance: Marca eu tenho relatório disso marca tudo tem Analytics, quase tudo, né?
+41:26 Felipe Gomes: Mas eu também
+41:29 Alexandre Lassance: Última conversão tava tava meio ruim. Vou pegar aqui mando para vocês.
+41:33 Igor Silva: boa
+41:33 Felipe Gomes: durou
+41:39 Igor Silva: Boa show, então isso daí, acho que é é informação importante, né? Show. Aí depois a gente depois que ele assistir o road show se ele não assistiu ele vai ele ele acontece o quê com ele?
+41:53 Felipe Gomes: A gente faz uma ação de recuperação que tá aqui embaixo também. Mensagem em um vídeo meu falando eu vi aqui que tu não assistiu isso aqui a gente tá testando agora novo. Assiste aí no WhatsApp.
+42:05 Igor Silva: no WhatsApp Tá isso já tá isso está sendo isso é manual ou disparado automático é
+42:14 Felipe Gomes: É manual manual é? E aí tem que ser automático.
+42:14 Igor Silva: manual, né? Depois de quanto tempo não tem otorrino porque 24 horas então deu 24 horas que
+42:23 Felipe Gomes: Ele assistiu e não respondeu.
+42:27 Igor Silva: foi enviada a mensagem, ele não assistiu. E se ele não respondeu nada porque aí eu acho que pode ser um problema, né. Não é melhor mandar 23 é melhor mandar 23 horas depois.
+42:39 Felipe Gomes: Não 23.
+42:39 Alexandre Lassance: ültima análise Roadshow
+https://docs.google.com/spreadsheets/d/1d9dRbliHQ9luR_7L0mKDQ63xTcPSQNguJORD0WqhRHU/edit?gid=106586051#gid=106586051
+42:41 Felipe Gomes: É isso que eu ia falar tem que não tem que mandar com 23 horas 22, porque aqui aqui eu a mensagem aqui ó, eu vi que já tá chegando no limite e tu não assistiu ainda, entendeu? Essa é a mensagem. Ó reforço do seu prazo está no final. da mensagem Não sei se vocês estão vendo a minha tela do Gabriel aí mas eu tô mostrando aqui.
+43:13 Igor Silva: Tá tudo compartilhando, ainda tá tudo sendo compartilhado.
+43:15 Felipe Gomes: Tá beleza, tá beleza. então
+43:21 Igor Silva: Show aí, beleza? Então, se ele for aprovado, ele já vai para
+43:23 Felipe Gomes: Aí o que o que a gente pode criar criar um outro funil aqui não é a pessoa que assistiu e não respondeu aí pode ter um outro disparo de mensagem.
+43:35 Igor Silva: Entendi, entendi.
+43:36 Felipe Gomes: A gente pode fazer duas coisas, tipo, eu vi que você não assistiu ainda, assiste responde e a outra é você assistir e não respondeu que é o trabalho que a Bia e as meninas fazem tipo etc que é um trabalho de recuperação.
+43:52 Igor Silva: No final do vídeo então eles têm que eles têm que responder um questionário.
+43:56 Felipe Gomes: Tem sete perguntas?
+43:59 Igor Silva: Já te pergunta múltipla escolha.
+44:01 Felipe Gomes: Isso uma é de texto restante é múltipla escolha.
+44:06 Igor Silva: tá Essas perguntas estão aonde ela ela tá elas vão embaixo do vídeo embaixo do
+44:11 Felipe Gomes: então Aqui também. E embaixo da página exato.
+44:16 Igor Silva: vídeo.
+44:20 Gabriel Marques: Esse mesmo rastreio ele também tem para dentro do e-mail, né? Já que vocês
+44:20 Igor Silva: Tá bom.
+44:24 Gabriel Marques: vão mandar dentro do Meio rastreio lá de de que assistiu não assistiu também vai ter.
+44:33 Felipe Gomes: dentro do e-mail
+44:33 Igor Silva: Eles clicam no link na verdade é clica no link, né, Gabriel que o e-mail vai te falar, ele vai te falar se Ele clicou no Lincoln ou não aí assistir é no Google Analytics da página, né?
+44:45 Gabriel Marques: Essa parte ele tem um login para fazer.
+44:46 Felipe Gomes: Aí eu acho que a gente eu acho que Independente de onde vem.
+44:49 Igor Silva: O e-mail o e-mail não sabe se ele Assistiu o vídeo. Ele só sabe se Ele clicou
+44:53 Felipe Gomes: Não não sabe.
+44:53 Igor Silva: no link do vídeo do link do vídeo ou não? Não, mas eu não falei do WhatsApp tá falando da página em se o rastreio dela, entendeu? Se ela tem não do WhatsApp.
+45:03 Felipe Gomes: O que a gente precisa saber se a pessoa entrou na página velho, é isso que a gente precisa saber? A gente tem que marcar. Não.
+45:13 Igor Silva: Né, pô é rastreada é uma ideia própria.
+45:14 Gabriel Marques: Então como que depois vocês vão fazer o reforço?
+45:17 Felipe Gomes: Mas cada cada um tem a sua página.
+45:17 Vinícius Barbarulo: É uma autenticação.
+45:22 Gabriel Marques: Entendi, entendi.
+45:25 Igor Silva: Entendeu? Quando quando envia para eles eles geram uma URL.
+45:25 Felipe Gomes: individual
+45:35 Igor Silva: É personalizada para cada um é individual, cada linha que a gente sabe pelo link pelo Google Analytics do link, né?
+45:47 Felipe Gomes: Isso é importante a gente marcar. Isso é bem importante a gente marcar e ter dashboard disso, né? Que aí é igual levando para uma página de captura mesmo clicou no link, quantos tiros?
+46:03 Igor Silva: boa show de Pelotas aí depois do road show, o que que depois do
+46:11 Felipe Gomes: Deixou deixou dar o fluxo para o Gabriel aqui, se for reprovado declinado, já era vai para um esqueço de você, entendeu? A gente não olha não, olha mais para frente não, mas isso exato, mas a gente poderia também fazer uma ação
+46:26 Gabriel Marques: então
+46:31 Felipe Gomes: de remarketing para essa galera com mais tempo igual a gente vai fazer para os que não agendam.
+46:38 Gabriel Marques: Você fala de reprovado no rotishow é que ele não assistiu e não respondeu questionário que ele respondeu o questionário teve uma negativa.
+46:46 Felipe Gomes: Isso respondeu questionário e teve uma negativa aí o outro é declinado, né?
+46:50 Gabriel Marques: Entendi.
+46:53 Felipe Gomes: O outro é a pessoa declinou mesmo o outro não.
+47:01 Gabriel Marques: Ele respondeu daí ele vai para aprovado ou declinado ali na situação, né do declinado ele vai para qualificado também.
+47:11 Felipe Gomes: Aí esses desclassificados aí é importante a gente pensar numa ação de
+47:12 Gabriel Marques: Ele não responde o questionário vocês fazem uma outra chamada ali para ele
+47:16 Felipe Gomes: remate para eles, né? Porque a gente viu que ele tem perfil, principalmente
+47:17 Alexandre Lassance: Essa aqui e a ultima analise do RoadShow
+47:19 Felipe Gomes: esse.
+47:20 Alexandre Lassance: https://docs.google.com/presentation/d/1lZm-ranDwlMdQp1B0IXm14ILY6kMAyEn/edit?slide=id.p11#slide=id.p11
+47:23 Felipe Gomes: aí depois
+47:28 Gabriel Marques: também igual fez o reforço dele não ter assistido. Nesta etapa corre o risco de ter uma pessoa que desista ali.
+47:35 Felipe Gomes: Não deixa ninguém escapar não velho. Marca igual.
+47:39 Igor Silva: Eu só tenho uma dúvida. Como que o cara as meninas elas avaliam a respostas do questionário para saber se ele se ele tá aprovado ou não? Então essas respostas Elas têm um padrão de resposta para a gente saber se é aprovado ou não não tem
+47:58 Felipe Gomes: Agora a gente desenhou um score, né? Antes era era totalmente qualitativo aí agora tem um score eu desejo escrevi esse score se tu olhar na minha tela aí tem um. Só não tem Square na primeira pergunta porque ela é qualitativa. O restante virou quantitativo? Inclusive eu vou falar com o Wesley para nas respostas do Oráculo já vir com a pontuação, entendeu? Faltando só a pontuação de filho.
+48:37 Vinícius Barbarulo: É uma ya para validar o texto.
+48:42 Igor Silva: Não pô, porque porque eu tô tentando pensando em tirar trabalho das meninas à toa velho, você já tinha um trabalho que já tem uma lógica por trás pode ser automatizada, né? Só isso não é não é automaçãozinha de boa, pô.
+48:52 Felipe Gomes: É Eu já eu já ia falar para fazer porque é uma soma simples, né? Cada resposta tem uma nota então, tipo já ia falar para fazer isso a única coisa
+49:10 Igor Silva: É igual mas é igual o bagulho que eu criei lá é isso é um Squad de
+49:11 Felipe Gomes: que não.
+49:16 Igor Silva: resposta, pô de acordo com a pontuação. O Alê deu deu educativo, não tem
+49:25 Felipe Gomes: Aí ela ia ter que te reprovar o cara.
+49:25 Igor Silva: perfil para trabalhar no futuro não, eu ia ter que reprovado eu falei ainda bem que ele tá no beco, olha ali no lugar certo.
+49:35 Alexandre Lassance: sorte
+49:36 Vinícius Barbarulo: Oi Jesus, só um ponto aí. Só voltando só um pouquinho quando é declinado, qual que é a status do noko Só Para eu marcar aqui é declinado mesmo.
+49:49 Felipe Gomes: isso
+49:52 Vinícius Barbarulo: Tá beleza. E esse do padrão de respostas que você falou de conversar com Wesley é para trazer esse score para o noko. É só isso que precisa ou é para dentro do sistema lá precisa ter do Oráculo mesmo.
+50:04 Felipe Gomes: Cara é importante que as duas esposas estejam nos dois lugares, se a gente colocar score no noko tem que implorar e se colocar score no oráculo.
+50:13 Vinícius Barbarulo: É que para trazer para o novo que eu já posso pegar fazer o depara para o núcleo trago agora como envolve layout tela e tem que pedir proteí mesmo, mas eu já consigo adiantar para gente louco.
+50:25 Felipe Gomes: beleza
+50:27 Bianca Galvão: Só para complementar na verdade, a ideia é que na hora que o candidato respondeu o road show o oráculo já calcule o score dele no score, já apareça a pontuação se ele é alto Médio ou reprova imediatamente aí depois que isso tiver ok? Aí sim ir para o núcleo. Que vai depender das respostas dele para aparecer no novo.
+50:52 Felipe Gomes: Ele vai puxar ele vai puxar só as respostas também Bia o que for de resposta
+50:52 Bianca Galvão: Entendeu?
+50:55 Felipe Gomes: para o oráculo? Vai para o núcleo independente aí o status da do candidato aí isso tem que ser eu acho que tem que ser manual porque alguma avaliação a gente vai ter que fazer sabe aí a gente Muda o status mesmo.
+51:06 Vinícius Barbarulo: tá Agora uma pergunta para todo mundo aí mas para o Igor O que que você pensou Igor como texto é uma coisa não tem um padrão a gente monta um agente de a para analisar o texto. Que que você acha?
+51:24 Felipe Gomes: Tá conversando com alguém?
+51:32 Igor Silva: Não não foi mal velho, desculpa não. Falei comigo perdão. Tava ouvindo não
+51:36 Vinícius Barbarulo: É que são sete perguntas seis de escolhas e uma de texto. A gente pode montar
+51:37 Igor Silva: tá respondendo aqui.
+51:41 Vinícius Barbarulo: um agente para fazer essa avaliação de texto e como montar um critério para
+51:48 Igor Silva: Mas qual que é a pergunta de texto velho?
+51:48 Vinícius Barbarulo: ver.
+51:54 Felipe Gomes: Deixa eu pegar a pergunta aqui.
+51:58 Igor Silva: Qual que é o propósito dela?
+51:58 Felipe Gomes: O que mais o que o que mais chamou atenção na nossa visão estratégica rumo ao IPO 2030 é avaliar se ele assistiu realmente o vídeo?
+52:08 Igor Silva: Ah tá, bom entendi. Tá bom, mas aí precisa de uma coisa mais robux aí mas dá para fazer. Dá para fazer mas precisa ter o vai ter mais no mínimo vai precisar de uma pi a mais aí para poder fazer no mínimo umazinha uma pezinha mais e uns tokenzinhos para poder rodar.
+52:36 Vinícius Barbarulo: Mas eu acho que tira bastante o trabalho do pessoal, né? Porque a gente já vai ajustando para ficar mais automático, passou nos scores nos critérios, já volta para o noco e avança no processo do louco, né?
+52:46 Igor Silva: Às vezes pode ser um bagulho pode ser um bagulho conjunto no começo, ó é um
+52:46 Felipe Gomes: eu acho que
+52:50 Igor Silva: score de múltipla escolha, mas o mais uma dúvida recrutador é da clube da
+52:54 Felipe Gomes: uma avaliação humana
+52:57 Igor Silva: recrutador ó, pum a resposta validar eu acho melhor, né? Acho que é melhor
+52:59 Felipe Gomes: eu gostaria que fosse assim tá nesse primeiro momento porque
+53:03 Igor Silva: mais fácil e melhor.
+53:06 Felipe Gomes: E por quê? Porque eu quero que ela saibam que está acontecendo com o candidato se a gente automatizar tudo o candidato vai chegar na entrevista individual e elas não vão ter lido sobre o candidato.
+53:16 Igor Silva: Tá bom boa show de bola e aí depois e
+53:22 Felipe Gomes: Foi aprovado no road show, elas entram disparam uma mensagem para fazer o agendamento da entrevista individual com O franqueado que que selecionou a e Bia, se tu quiser falar um pouquinho mais começa o processo. Porque tem um monte de agenda que a gente tem que gerenciar aqui é meio cacete.
+53:47 Bianca Galvão: A gente vai olhar o perfil do candidato. E aí quem faz esse trabalho mais estratégica é atualmente eu e a Luna que a gente vai avaliar o perfil do candidato. A gente vai entender quem é O franqueado ideal para poder seguir com aquele com aquele perfil. E aí a gente acessa agenda ver a disponibilidade de horários e passa por candidato duas disponibilidades, a gente não manda o link da agenda do franqueado, mas sim escolhemos dois horários para o candidato. Tem um pouco mais de limitação ali ver que a gente também não tem tanta disponibilidade assim e aí ele escolheu no horário a gente manda em vai te pelo link de agenda de cada franqueado. Então hoje além de ter a gestão individual de cada agenda e a gente fazer o agendamento manual a gente ainda Precisa validar o perfil antes de escolher quem é O franqueado que vai tocar o processo.
+54:40 Bianca Galvão: sim
+54:41 Felipe Gomes: É pouco, mas acontece uns 5 10% dos candidatos.
+54:43 Igor Silva: Sempre tem sempre tem sempre.
+54:50 Gabriel Marques: Tá então tem a lista fria aqui nessa parte.
+54:54 Alexandre Lassance: Como que é feita a distribuição para as franquias falou mas como que vocês escolhem mesmo? Tem um padrão isso?
+55:01 Bianca Galvão: É todo mês a gente bate com fé. Como que tá a questão dos franqueados, né? Se tem alguém que tá bloqueado se alguém tem alguém que não pode receber isso por algum motivo. Enfim, a gente alinha ali as prioridades e a gente define também de acordo com cada região, quem é O franqueado que deve ser priorizado de acordo com o volume, né? Então a gente vai com base nessa priorização que a gente faz todo mês a ideia é que a gente Aline né? E chega um ponto de mandar uma quantidade muito parecida para todos, mas isso pode oscilar um pouco de acordo com essa definição que a gente faz, né? E aí a gente avalia também o perfil do candidato então trazer um exemplo lá. O franqueado ele não quer alguém que trabalha parcial. Se for um candidato que só pode passear e tem potencial. A gente já sabe que para esse perfil de franqueado a gente não pode enviar. Por isso que é um trabalho estratégico feito por mim pela gente já tem esse conhecimento em relação as particularidade de cada um então a gente junta as duas coisas para poder definir.
+56:00 Felipe Gomes: É bem artesanal o processo né? O que eu vou começar a criar agora aqui dentro
+56:03 Bianca Galvão: sim
+56:07 Felipe Gomes: mesmo, né do sistema eu vou todo mês elas vão fazer todo mês não mas agora a gente tem gerente de conta, né? Cada recrutadora cuida de uma conta de franqueado ou algumas contas de franqueado e eu vou começar a determinar um padrão para isso do que eles querem como preferência para poder fazer esse esse depara com os candidatos que estão tão vindo. E aí tá criando um sistema também de red Flag, né? É bem simples, tu vacilou uma vez tu para de receber.
+56:42 Alexandre Lassance: Mas é legal isso cara.
+56:43 Felipe Gomes: Então é tipo. É o que se vocês.
+56:48 Igor Silva: Tem que ter tem que ter mas porque velho não dá para ficar não dá para ficar
+56:50 Felipe Gomes: Se vocês olharem aqui, ó.
+56:53 Igor Silva: gastando a mesma coisa de dinheiro com um cara que vacila não pô.
+56:55 Felipe Gomes: Não não. Se vocês olharem. Onde está aqui retenção? Não. Cara aqui em algum lugar que eu não sei onde que eu anotei aqui ainda que eu já esqueci. Eu anotei isso sabe tipo velho, se tu vacilar aqui ó, critério de qualidade então comprometimento, tu não apareceu na entrevista agendada já era esquece vai receber só no próximo mês se fodeu experiência no candidato candidato reclamou de você, porque você não deu feedback ou teve uma falha crítica esquece não vai receber e cláusula de qualidade, se a gente entender que o time não tá performando e não tá tendo rampar porque não tá tendo retenção esquece também até tu arrumar teu time, tu não vai receber nem demais.
+58:08 Alexandre Lassance: Então volta meio que formalizar só esse processo, né definir o que vai ser mesmo formaliza com eles e da hora da hora.
+58:19 Felipe Gomes: aí vai para entrevista de
+58:19 Gabriel Marques: Oi do que eles vão fazer.
+58:19 Igor Silva: Fechou galera, Ó vou marcar já vou já vou marcar para semana que vem para repetirmos, viu? Tá porque?
+58:30 Alexandre Lassance: Já botei mas o cair
+58:33 Igor Silva: Eles estão aqui. Ah não tão com eles não, perdão, eles estão com o arroba
+58:34 Alexandre Lassance: então
+58:37 Igor Silva: grupo fruto peixoto@faturacorp. E o Mateus O Mateus já tá Mateus já tá?
+58:49 Felipe Gomes: Aí olha eu acho que é válido antes de quarta-feira, eu tô no e Bia fazer uma reunião pensando no Empório branding na experiência dos candidatos em cada etapa, por exemplo. Tem algumas objeções ocultas que a gente não consegue descobrir a gente perde o candidato. Eu queria que a gente fizesse uma ação de disparo para tipo c****** já quebrar essa objeção antes sabe entre a road show e a entrevista individual. A gente não tem muita quebra, mas é legal passar algumas dicas para o candidato de como ele se preparar para entrevista individual aí entre uma entrevista individual e o prédio tem uma quebra grande, aí a gente pode mandar um depoimento feito pelo marketing top de vários franqueados falando do quanto é f***.
+59:38 Felipe Gomes: A gente manda sabe e começar a fazer essas paradas entre as etapas para a gente aumentar o sucesso de retenção dos candidatos.
+59:48 Alexandre Lassance: Perfeito perfeito, você puxa eu.
+59:49 Felipe Gomes: tá
+59:51 Igor Silva: boa
+59:52 Felipe Gomes: Eu eu puxo aqui eu peço para as meninas agendarem contigo aí.
+59:55 Alexandre Lassance: Tá bom.
+59:56 Felipe Gomes: Tá bom. Que aí é importante a gente trazer essas informações para quarta porque vai acabar entrando o push no meio do que está sendo desenhado.
+01:00:08 Alexandre Lassance: Total total
+01:00:09 Igor Silva: O Gabriel acompanha essa p**** aí, por favor. Acompanha essa reunião aí, por favor, porque eles vão mandar tarefa para o
+01:00:18 Alexandre Lassance: 10
+01:00:18 Igor Silva: marketing e aí você me ajuda com isso aí por favor.
+01:00:20 Gabriel Marques: Tá bom.
+01:00:21 Felipe Gomes: Vai mesmo Vai mesmo. Vai mesmo, porque o nome do projeto.
+01:00:25 Igor Silva: Beleza, galera.
+01:00:35 Gabriel Marques: combinado
+  

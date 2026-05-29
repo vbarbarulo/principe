@@ -1,0 +1,34 @@
+{
+  "empresas": {
+    "ViniciusPessoal": {
+      "departamentos": {
+        "Operações Pessoais": {
+          "projetos": [
+            "Jogo da Vida",
+            "MeuLivroDeConselhos",
+            "System",
+            "Z-brisas",
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Futuro Corp": {
+      "departamentos": {
+        "Recrutamento": {
+          "projetos": [
+            "Geral",
+            "Vagas",
+            "Planejamento"
+          ]
+        },
+        "Operações": {
+          "projetos": [
+            "OKR 2026",
+            "Geral"
+          ]
+        }
+      }
+    }
+  }
+}
