@@ -17,14 +17,18 @@ from psycopg2 import extras
 # --- CARREGADOR DE VARIÁVEIS DE AMBIENTE (.env) ---
 def load_env():
     """Carrega variáveis de ambiente de um arquivo .env local se existir"""
-    env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env')
-    if os.path.exists(env_path):
-        with open(env_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    key, value = line.split('=', 1)
-                    os.environ[key.strip()] = value.strip()
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    for _ in range(5):
+        env_path = os.path.join(current_dir, '.env')
+        if os.path.exists(env_path):
+            with open(env_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#'):
+                        key, value = line.split('=', 1)
+                        os.environ[key.strip()] = value.strip()
+            return
+        current_dir = os.path.dirname(current_dir)
 
 load_env()
 
@@ -39,7 +43,7 @@ DB_USER = os.getenv('DB_USER', 'postgres')
 DB_PASS = os.getenv('DB_PASS', 'i8PvK1TUvfmKhYasSMLE')
 
 # Pasta temporária para arquivos locais
-TEMP_DIR = '/mnt/c/principe/Z-ArquivosProcessados/TempAssana'
+TEMP_DIR = '/mnt/c/principe/ArquivoProcessados/TempAssana'
 if sys.platform == 'win32' or os.name == 'nt':
     TEMP_DIR = TEMP_DIR.replace('/mnt/c/', 'C:/', 1)
 PRIORIDADES_FILE_NAME = 'prioridades_tasks.json'

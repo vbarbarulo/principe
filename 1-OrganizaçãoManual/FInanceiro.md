@@ -1,9 +1,0 @@
-- [ ] Analisar o financeiro 
-- [ ] Dentista da Elo 
-- [ ] Manutenção do carro 
-- [ ] Revisão do carro para viagem 
-- [ ] Pagar 1400 da escola da Laura
-- [ ] Pagar a Mari
-- [ ] Pagar o Fabiano e fazer acordo do pagamento quebrando para os próximos meses
-- [ ] Ver o empréstimo do Bradesco
-- [ ] Montar um planejamento de quitação MEI 2026

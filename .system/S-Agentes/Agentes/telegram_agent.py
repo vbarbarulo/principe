@@ -18,14 +18,18 @@ import psycopg2
 # --- CARREGADOR DE VARIÁVEIS DE AMBIENTE (.env) ---
 def load_env():
     """Carrega variáveis de ambiente de um arquivo .env local se existir"""
-    env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), '.env')
-    if os.path.exists(env_path):
-        with open(env_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    key, value = line.split('=', 1)
-                    os.environ[key.strip()] = value.strip()
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    for _ in range(5):
+        env_path = os.path.join(current_dir, '.env')
+        if os.path.exists(env_path):
+            with open(env_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#'):
+                        key, value = line.split('=', 1)
+                        os.environ[key.strip()] = value.strip()
+            return
+        current_dir = os.path.dirname(current_dir)
 
 load_env()
 
@@ -40,7 +44,7 @@ def regularize_path(path):
 # --- CONFIGURAÇÕES ---
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-BASE_DIR = regularize_path('/mnt/c/principe/0 -NotasRapidas')
+BASE_DIR = regularize_path('/mnt/c/principe/hoje')
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'telegram_agent_state.json')
 
 TEMPLATE_PATH = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/-/Diario/diario v2.md")
@@ -708,7 +712,7 @@ def rodar_polling(token):
                     saudacao = (
                         "👋 *Olá! Conexão estabelecida com sucesso!*\n\n"
                         "A partir de agora, tudo que você me enviar aqui será anotado automaticamente no seu arquivo diário em:\n"
-                        "`0 -NotasRapidas/telegram-YYYY-MM-DD.md`.\n\n"
+                        "`hoje/telegram-YYYY-MM-DD.md`.\n\n"
                         "Também te enviarei lembretes úteis ao longo do dia! 😉"
                     )
                     send_telegram_message(token, chat_id, saudacao)

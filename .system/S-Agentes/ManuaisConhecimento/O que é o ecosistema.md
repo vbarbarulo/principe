@@ -45,7 +45,7 @@ c:/principe/S-Agentes/
 
 #### Como funciona o fluxo de execução com "Includes" dinâmicos:
 1. O motor em Python (`cron_diario.py`) é ativado pelo agendador (cron) a cada X horas.
-2. Ele localiza o arquivo da nota diária ativa em `0 -NotasRapidas/`.
+2. Ele localiza o arquivo da nota diária ativa em `hoje/`.
 3. O script Python lê as instruções em Markdown do arquivo `/S-Agentes/SKILLs/AGENTE_DIARIO.md` e as injeta no prompt do LLM como o `System Message`.
 4. Ele faz um **Include** de outras Skills se necessário (ex: combinando `AGENTE_DIARIO.md` + `REUNIAO.md` para o mesmo pipeline de fechamento).
 5. O Python chama a API de inteligência artificial, processa o output estruturado (JSON), atualiza os arquivos locais e despacha alertas para o seu Telegram.

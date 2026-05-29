@@ -5,9 +5,9 @@
 # Horus System - Gerenciador de Segundo Plano do Telegram Agent
 # ==============================================================================
 
-SCRIPT_PATH="/mnt/c/principe/S-Agentes/Agentes/telegram_agent.py"
-LOG_PATH="/mnt/c/principe/S-Agentes/Agentes/telegram_agent.log"
-PID_FILE="/mnt/c/principe/S-Agentes/Agentes/telegram_agent.pid"
+SCRIPT_PATH="/mnt/c/principe/.system/S-Agentes/Agentes/telegram_agent.py"
+LOG_PATH="/mnt/c/principe/.system/S-Agentes/Agentes/telegram_agent.log"
+PID_FILE="/mnt/c/principe/.system/S-Agentes/Agentes/telegram_agent.pid"
 
 AMARELO='\033[1;33m'
 VERDE='\033[0;32m'

@@ -6,7 +6,7 @@ Esta skill processa o arquivo de nota diária (`Daily Note` ou capturas brutas d
 ---
 
 ### **1. Inputs (Entradas)**
-* **`daily_note_text`**: O conteúdo textual bruto coletado do dia (ex: `0 -NotasRapidas/telegram-YYYY-MM-DD.md` ou nota diária ativa).
+* **`daily_note_text`**: O conteúdo textual bruto coletado do dia (ex: `hoje/telegram-YYYY-MM-DD.md` ou nota diária ativa).
 * **`mapping_matrix_json`**: O mapa em JSON contendo a estrutura de `Empresa -> Departamento -> Projeto` (`empresas_config.json`).
 * **`rotinas_config.json`**: Metas e checklists de hábitos diários (sono, peso, exercícios).
 
@@ -22,7 +22,7 @@ O agente executa uma única chamada estruturada para separar os blocos de inform
 * **Projetos / Negócios:** Atas de reuniões, análises técnicas ou documentos de projetos.
   * *Ação:* Localiza a pasta correta com base na matriz de mapeamento e atualiza (ou apensa no final de) arquivos `.md` correspondentes em `/1-OrganizaçãoManual/Empresas/`.
 * **Vida Pessoal (Dump & Tag Later):** Reflexões, memórias, insights e momentos familiares.
-  * *Ação:* Isola este bloco, consolida com o Relatório Executivo e salva a Nota Diária final em `/Z-ArquivosProcessados/Diario/YYYY-MM-DD.md`.
+  * *Ação:* Isola este bloco, consolida com o Relatório Executivo e salva a Nota Diária final em `/ArquivoProcessados/Diario/YYYY-MM-DD.md`.
 
 > ⚠️ **Regra de Ouro (Human-in-the-Loop):** O agente apresenta um resumo rápido das ações propostas no chat antes de persistir os dados no NocoDB e Obsidian, permitindo ajustes de última hora.
 
@@ -46,7 +46,7 @@ Extração de palavras-chave estruturadas para alimentar buscas futuras:
 ### **4. Outputs (Saídas da Skill)**
 * Tabelas atualizadas no **NocoDB**.
 * Arquivos `.md` de projetos atualizados de forma incremental no **Obsidian**.
-* **Nota Diária Final (Relatório Executivo + Diário Pessoal + Tracker)** salva em `/Z-ArquivosProcessados/Diario/YYYY-MM-DD.md`.
+* **Nota Diária Final (Relatório Executivo + Diário Pessoal + Tracker)** salva em `/ArquivoProcessados/Diario/YYYY-MM-DD.md`.
 * **Notificação Executiva** despachada para o Telegram.
 
 ---

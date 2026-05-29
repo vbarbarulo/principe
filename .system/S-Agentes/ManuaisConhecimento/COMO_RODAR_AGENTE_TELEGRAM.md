@@ -51,7 +51,7 @@ Ideal para quando você está depurando o código ou quer ver a saída em tempo 
 O agente lê a chave `TELEGRAM_TOKEN` no seu arquivo `.env` principal e inicia a escuta.
 *   **Identificação:** Na primeira mensagem que você enviar para o bot, ele registrará o seu `chat_id` localmente no arquivo de estado (`telegram_agent_state.json`).
 *   **Anotações Diárias:** Toda mensagem de texto que você enviar para ele a partir de então será acrescentada em um arquivo diário formatado em Markdown dentro de:
-    `0 -NotasRapidas/Diario/YYYY-MM-DD.md`
+    `hoje/Diario/YYYY-MM-DD.md`
 *   **Formato de Registro:**
     ```markdown
     - [HH:MM:SS] Sua mensagem enviada aqui
@@ -74,4 +74,4 @@ O bot possui uma thread dedicada que monitora o relógio e dispara mensagens ati
 *   **Script de Inicialização:** `Z-exe/telegram_agent_start.sh`
 *   **Gerenciador de Background:** `Z-exe/telegram_agent_bg.sh`
 *   **Log de Execução:** `S-Agentes/Agentes/telegram_agent.log`
-*   **Notas Salvas:** `0 -NotasRapidas/Diario/`
+*   **Notas Salvas:** `hoje/Diario/`

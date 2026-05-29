@@ -14,7 +14,7 @@ Você pode executar o agente de duas maneiras equivalentes: usando as **flags si
     ```bash
     python3 S-Agentes/Agentes/asana_agent.py --baixar
     ```
-    *(Gera e atualiza os arquivos em `Z-ArquivosProcessados/TempAssana`)*
+    *(Gera e atualiza os arquivos em `ArquivoProcessados/TempAssana`)*
 
 *   **Apenas Sincronizar com o Banco (PostgreSQL):**
     ```bash
@@ -60,18 +60,18 @@ Para automatizar a execução diária ou de hora em hora:
 
     *   **Todos os dias às 03:00 da manhã (Recomendado):**
         ```bash
-        0 3 * * * /usr/bin/python3 /mnt/c/principe/S-Agentes/Agentes/asana_agent.py --completo >> /mnt/c/principe/Z-ArquivosProcessados/TempAssana/sync.log 2>&1
+        0 3 * * * /usr/bin/python3 /mnt/c/principe/S-Agentes/Agentes/asana_agent.py --completo >> /mnt/c/principe/ArquivoProcessados/TempAssana/sync.log 2>&1
         ```
     *   **A cada 1 hora:**
         ```bash
-        0 * * * * /usr/bin/python3 /mnt/c/principe/S-Agentes/Agentes/asana_agent.py --completo >> /mnt/c/principe/Z-ArquivosProcessados/TempAssana/sync.log 2>&1
+        0 * * * * /usr/bin/python3 /mnt/c/principe/S-Agentes/Agentes/asana_agent.py --completo >> /mnt/c/principe/ArquivoProcessados/TempAssana/sync.log 2>&1
         ```
 
-3.  Salve e feche o editor. Os logs de execução serão salvos em `/mnt/c/principe/Z-ArquivosProcessados/TempAssana/sync.log`.
+3.  Salve e feche o editor. Os logs de execução serão salvos em `/mnt/c/principe/ArquivoProcessados/TempAssana/sync.log`.
 
 ---
 
 ## 📂 3. Diretórios Utilizados pelo Agente
 *   **Script do Agente:** `S-Agentes/Agentes/asana_agent.py`
-*   **Dados Temporários:** `Z-ArquivosProcessados/TempAssana/okr_tasks.json` e `prioridades_tasks.json`
+*   **Dados Temporários:** `ArquivoProcessados/TempAssana/okr_tasks.json` e `prioridades_tasks.json`
 *   **Configurações e Chaves:** `.env` (na raiz do projeto)

@@ -29,7 +29,7 @@ Seus olhos devem buscar cinco pilares fundamentais no texto:
 ---
 
 ## 4. Instruções de Salvamento & Persistência
-* **Destino do Arquivo:** O arquivo final deve ser salvo no diretório raiz na pasta **`0 -NotasRapidas`**.
+* **Destino do Arquivo:** O arquivo final deve ser salvo no diretório raiz na pasta **`hoje`**.
 * **Nomenclatura do Arquivo:** O nome do arquivo físico deve seguir rigorosamente o padrão: `reuniões-YYYY-MM-DD.md` (onde YYYY-MM-DD representa o ano, mês e dia da reunião).
 * **Comportamento de Escrita:**
   * Se o arquivo `reuniões-YYYY-MM-DD.md` **não existir**, crie um novo arquivo.

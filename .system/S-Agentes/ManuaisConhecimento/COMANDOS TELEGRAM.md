@@ -44,7 +44,7 @@ Caso queira ver as mensagens chegando no terminal em tempo real (útil para test
 
 ## 📂 3. Salvamento de Notas e Lembretes
 
-*   **Notas Diárias:** Toda mensagem enviada para o bot é gravada em um arquivo diário dentro da pasta `0 -NotasRapidas/Diario/YYYY-MM-DD.md`.
+*   **Notas Diárias:** Toda mensagem enviada para o bot é gravada em um arquivo diário dentro da pasta `hoje/Diario/YYYY-MM-DD.md`.
 *   **Lembretes Automáticos:** O bot envia lembretes programados ao longo do dia nos seguintes horários padrão:
     *   **09:00** — Planejamento matinal e metas 🚀
     *   **13:30** — Lembrete de hidratação e progresso 💧
