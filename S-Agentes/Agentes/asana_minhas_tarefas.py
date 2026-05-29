@@ -42,6 +42,8 @@ DB_PASS = os.getenv('DB_PASS', 'i8PvK1TUvfmKhYasSMLE')
 
 # Pasta temporária para arquivos locais
 TEMP_DIR = '/mnt/c/principe/Z-ArquivosProcessados/TempAssana'
+if sys.platform == 'win32' or os.name == 'nt':
+    TEMP_DIR = TEMP_DIR.replace('/mnt/c/', 'C:/', 1)
 MINHAS_TAREFAS_FILE_NAME = 'minhas_tarefas_tasks.json'
 MINHAS_TAREFAS_CACHE_NAME = 'minhas_tarefas_tasks_cache.json'
 

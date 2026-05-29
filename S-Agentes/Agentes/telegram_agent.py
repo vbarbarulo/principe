@@ -29,14 +29,22 @@ def load_env():
 
 load_env()
 
+# --- AUXILIAR DE CAMINHO PARA COMPATIBILIDADE WINDOWS/WSL ---
+def regularize_path(path):
+    """Converte caminhos do WSL (/mnt/c/...) para caminhos do Windows se estiver no Windows"""
+    if sys.platform == 'win32' or os.name == 'nt':
+        if path.startswith('/mnt/c/'):
+            return path.replace('/mnt/c/', 'C:/', 1)
+    return path
+
 # --- CONFIGURAÇÕES ---
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-BASE_DIR = '/mnt/c/principe/0 -NotasRapidas'
+BASE_DIR = regularize_path('/mnt/c/principe/0 -NotasRapidas')
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'telegram_agent_state.json')
 
-TEMPLATE_PATH = "/mnt/c/principe/1-OrganizaçãoManual/-/Diario/diario v2.md"
-DIARIO_DIR = "/mnt/c/principe/1-OrganizaçãoManual/-/Diario"
+TEMPLATE_PATH = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/-/Diario/diario v2.md")
+DIARIO_DIR = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/-/Diario")
 
 def read_file_safe(path):
     if os.path.exists(path):
@@ -218,7 +226,7 @@ def adicionar_tarefa_nocodb(texto_tarefa):
 
 def salvar_nota_estruturada(texto, empresa, departamento, projeto, titulo):
     """Salva um bloco de anotação na pasta correspondente de organização"""
-    base_org = "/mnt/c/principe/1-OrganizaçãoManual/Empresas"
+    base_org = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/Empresas")
     
     # Garante valores padrões se vierem vazios
     emp = empresa or "ViniciusPessoal"
@@ -649,6 +657,12 @@ def rodar_polling(token):
     """Loop principal de Long Polling para ler atualizações do Telegram"""
     print("[*] Iniciando escuta de mensagens do Telegram (Long Polling)...")
     
+    # Remove qualquer webhook ativo para evitar conflitos de polling (Erro 409)
+    try:
+        requests.post(f"https://api.telegram.org/bot{token}/deleteWebhook", timeout=10)
+    except Exception as e:
+        print(f"[-] Alerta ao limpar webhook: {e}")
+        
     state = load_state()
     offset = state.get("last_update_id", 0)
     

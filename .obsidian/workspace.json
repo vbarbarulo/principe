@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 -NotasRapidas/reuniões-2026-05-27.md",
+                "file": "0 -NotasRapidas/telegram-2026-05-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reuniões-2026-05-27"
+              "title": "telegram-2026-05-29"
             }
           }
         ]
@@ -205,12 +205,13 @@
   },
   "active": "03137bfeff52200b",
   "lastOpenFiles": [
+    "0 -NotasRapidas/Hoje.md",
+    "0 -NotasRapidas/reuniões-2026-05-27.md",
     "1-OrganizaçãoManual/-/Diario/Mes/05/2026-05-29.md",
     "1-OrganizaçãoManual/-/Diario/Mes/05/2026-05-30.md",
     "1-OrganizaçãoManual/-/Diario/Mes/05/2026-05-18.md",
     "1-OrganizaçãoManual/-/Diario/Mes/05/2026-05-17.md",
     "0 -NotasRapidas/O que é o ecosistema.md",
-    "0 -NotasRapidas/reuniões-2026-05-27.md",
     "Z-ArquivosProcessados/T-Reuniões/Recrutamento (End to End).txt",
     "S-Agentes/SKILLs/REUNIAO.md",
     "0 -NotasRapidas/telegram-2026-05-29.md",
@@ -237,7 +238,6 @@
     "1-OrganizaçãoManual/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/2 - Rotina - Checkin.md",
     "1-OrganizaçãoManual/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/1 - Rotina Acordar.md",
     "1-OrganizaçãoManual/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/5 -Painel do Mês/Mes.md",
-    "1-OrganizaçãoManual/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/1 - Instruções/Agente de IA.md",
     "S-Agentes/Agentes/__pycache__/telegram_agent.cpython-310.pyc",
     "S-Agentes/Agentes/__pycache__/telegram_agent.cpython-310.pyc.123840333381872",
     "S-Agentes/Agentes/temp_voice_AwACAgEAAxkBAANzahlo4W6_-7LliTz2oSu0SpVSDeMAApoJAAJahchEWqWAmpwV4lI7BA.oga",

@@ -40,6 +40,8 @@ DB_PASS = os.getenv('DB_PASS', 'i8PvK1TUvfmKhYasSMLE')
 
 # Pasta temporária para arquivos locais
 TEMP_DIR = '/mnt/c/principe/Z-ArquivosProcessados/TempAssana'
+if sys.platform == 'win32' or os.name == 'nt':
+    TEMP_DIR = TEMP_DIR.replace('/mnt/c/', 'C:/', 1)
 OKR_FILE_NAME = 'okr_tasks.json'
 OKR_CACHE_NAME = 'okr_tasks_cache.json'
 
