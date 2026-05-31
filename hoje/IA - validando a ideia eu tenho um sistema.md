@@ -1,57 +1,54 @@
 
-## 📝 Plano de Ação: O que mudar no Príncipe System
+## 📝 Plano de Ação: Como atualizar as Regras do Sistema
 
-Como o seu ecossistema funciona com _Includes_ dinâmicos baseados em Markdown (como descrito no seu arquivo `O que é o ecosistema.md`), não precisamos mexer no código Python agora. Vamos **atualizar as Skills dos Agentes** para que eles passem a cobrar e agir sob essas novas regras.
+Para que os seus agentes Inteligentes usem essa nova matriz combinada com a Curva ABC e o filtro de Pareto Supremo, precisamos atualizar os arquivos de Skill.
 
-Aqui está o direcionamento detalhado de como ajustar os arquivos. Você pode copiar e colar as instruções abaixo diretamente para a sua **Fábrica de Software Unificada (`AGENTE_DESENVOLVIMENTO.md`)** ou para o seu prompt do **Antigravity** executar.
+Aqui está exatamente o que você vai pedir para a sua **Fábrica de Software Unificada (`AGENTE_DESENVOLVIMENTO.md`)** ou para o **Antigravity** ajustar no seu vault:
 
 ### 📋 Mapeamento de Modificações nos Arquivos
 
-#### 1. No arquivo: `AGENTE_SUPREMO.md`
+#### 1. No arquivo: `AGENTE_COORDENADOR.md` (O Mestre de Fábrica)
 
-- **O que adicionar/ajustar:** Mudar o comportamento de "Conversas Livres". Quando você enviar um link do WhatsApp com um comentário, o Agente Supremo deve aplicar imediatamente o **Protocolo Anti-RealTime**.
-    
-- **Nova Instrução para o Agente:** > "Se o usuário enviar um link, print ou transcrição de pendência externa (WhatsApp/E-mail) com um comentário, classifique como 'Entrada de Triagem'. O bot deve sugerir um script de resposta padrão para o usuário enviar de volta à pessoa (ex: _'Recebido, Vini! Já está na minha fila de análise e te dou um retorno estruturado amanhã às Xh'_), removendo a necessidade de resposta imediata em tempo real, e arquivar o item para a consolidação noturna."
-    
-
-#### 2. No arquivo: `AGENTE_COORDENADOR.md`
-
-- **O que adicionar/ajustar:** Injetar a regra do **Pareto Supremo** e a cobrança da **Brené Brown (Confiabilidade)** nos micro-puxões do Telegram.
+- **O que ajustar:** Atualizar a Metodologia de Sizing e Triagem de Tarefas.
     
 - **Nova Instrução para o Agente:**
     
-    > "Nas viradas de bloco (08:00, 11:30, 14:00), mude a abordagem do micro-puxão. Pergunte: _'Vini, você está focado na sua ÚNICA COISA da Curva A agora? Lembre-se do compromisso de ser confiavel com você mesmo hoje. O que você escolheu ignorar para fazer essa tarefa?'_. Se o usuário estiver acumulando tarefas, aplique o limite estrito do Kanban: 3 cards na Curva A, 3 na B, 3 na C. Force o descarte ou envio imediato para o `💭 Sonhos.md`."
-    
-
-#### 3. No arquivo: `AGENTE_FECHAMENTO.md`
-
-- **O que adicionar/ajustar:** Inserir o rastreador de Hábitos (Empilhamento) e a auditoria de Confiabilidade no Painel de Perguntas do Fechamento (Fase 2).
-    
-- **Nova Instrução para o Agente:**
-    
-    > "No Painel de Perguntas do Fechamento Noturno, adicione uma seção obrigatória chamada **'Fator Confiabilidade & Propósito'**:
+    > "Sempre que o usuário for planejar o dia ou reagir a uma nova demanda, aplique a **Matriz de Eisenhower Algorítmica**:
     > 
-    > 1. De 0 a 10, o quanto você foi confiável com os seus compromissos hoje?
+    > - Se for Importante + Urgente (foco em sobrevivência/crise < 15 dias), aloque na **Curva A** (Máximo de 3 vagas no Kanban).
     >     
-    > 2. O que você executou hoje que está diretamente alinhado com o seu 'Porquê' de longo prazo (Família, Saúde, R$ 4M)?
+    > - Se for Importante + Não Urgente (estratégico/construção de futuro), aloque na **Curva B** (Máximo de 3 vagas no Kanban).
     >     
-    > 3. Quais hábitos do empilhamento foram validados com sucesso hoje?"
+    > - Se for Não Importante + Urgente (demandas de terceiros/suporte), force o usuário a delegar ou limitar a 1h por dia (Curva C).
+    >     
+    > - Se for Não Urgente + Não Importante, delete ou envie imediatamente para o `💭 Sonhos.md`. Execute o **Pareto Supremo**: das tarefas validadas, force o Vinícius a escolher **A Única Coisa** para abrir o dia, cobrando foco total nela e integridade com suas próprias promessas."
     >     
     
 
-#### 4. No arquivo: `AGENTE_DIRETOR_CRISE.md`
+#### 2. No arquivo: `AGENTE_DIRETOR_CRISE.md` (O Protetor da Trincheira)
 
-- **O que adicionar/ajustar:** Blindar os horários de atendimento do WhatsApp.
+- **O que ajustar:** Cruzar os critérios de corte com o Quadrante III e IV (Urgente mas não importante / Perfumarias).
     
 - **Nova Instrução para o Agente:**
     
-    > "Garantir que o Vinícius utilize blocos de tempo rígidos e assíncronos para responder mensagens, sugerindo ativamente o descarte de tarefas operacionais trazidas por terceiros que fujam do escopo dos 15 dias da Operação Trincheira."
+    > "Monitore o backlog ativamente. Qualquer tarefa que entre nos quadrantes de 'Não Importante' deve passar pela Guilhotina Corporativa imediatamente. Se for urgente dos outros (Quadrante III), o agente deve gerar o script de delegação na hora para o time do Vinícius resolver, limpando a esteira dele."
     
 
-## 🚀 Próximo Passo Prático
+#### 3. No arquivo: `AGENTE_FECHAMENTO.md` (O Diarista Modular)
 
-Para fazer o sistema se atualizar agora usando a sua própria infraestrutura, envie o comando abaixo no chat do seu assistente:
+- **O que ajustar:** Adicionar a checagem da "Única Coisa" e do descarte de lixo na Fase 2.
+    
+- **Nova Instrução para o Agente:**
+    
+    > "No painel de fechamento noturno, inclua a pergunta: _'Você conseguiu proteger o seu foco para matar A Única Coisa hoje? Quantas tarefas inúteis ou 'voadoras' você mandou direto para o lixo ou para o arquivo de Sonhos para manter sua revisão leve?'_"
+    
 
-> **"Antigravity, ative a Fábrica de Software Unificada (AGENTE_DESENVOLVIMENTO.md) para atualizar as regras de negócio dos arquivos de Skill. Altere AGENTE_SUPREMO.md, AGENTE_COORDENADOR.md e AGENTE_FECHAMENTO.md para incorporar o Protocolo Anti-RealTime de WhatsApp, os limites rígidos de 3 tarefas por Curva no modelo ABC (Pareto Supremo) e a métrica diária de Confiabilidade baseada nas minhas novas diretrizes mentais."**
+## 🚀 Comando de Execução Imediata
 
-Você está no comando do barco, Vini. Vamos usar a rigidez do sistema para compensar a volatilidade do TDAH e furar essa Curva J de uma vez por todas! Como você quer que eu te ajude a detalhar o mapeamento das pessoas para delegação que você mencionou?
+Copie o texto abaixo e jogue no chat do seu assistente para rodar a esteira automática de atualização de arquivos do seu ecossistema híbrido:
+
+> **"Antigravity, ative a Skill da Fábrica de Software Unificada em AGENTE_DESENVOLVIMENTO.md para planejar e arquitetar a atualização das diretrizes de triagem nos arquivos de Skill. Modifique AGENTE_COORDENADOR.md, AGENTE_DIRETOR_CRISE.md e AGENTE_FECHAMENTO.md para integrar a Matriz de Eisenhower Algorítmica vinculada aos limites rígidos da Curva ABC (3 cards por curva) e ao funil do Pareto Supremo para determinar 'A Única Coisa' diária. Garanta que o sistema use essas regras para me impedir de acumular lixo nas revisões e me cobre integridade com os meus compromissos."**
+
+Com essa estrutura rodando, você tira o peso da tomada de decisão da sua cabeça. O sistema vira o seu "antigo gestor", filtrando o barulho do WhatsApp para você focar no código e na estratégia que realmente vão mudar a sua vida de rumo.
+
+Quer que eu te ajude a estruturar os gatilhos de hábito do livro _O Poder do Hábito_ para encaixar nessa rotina de triagem, ou prefere mapear as pessoas para quem você vai delegar o Quadrante III?

@@ -37,7 +37,9 @@ As perguntas principais baseadas no `diario v2.md` são:
 * **5. Gratidão:** [Pelo que você foi grato hoje]
 * **6. Fator Confiabilidade & Propósito:**
   * De 0 a 10, o quanto você foi confiável com os seus compromissos hoje? [Nota]
+  * Você conseguiu proteger o seu foco para matar **A Única Coisa** hoje? [Resposta]
   * O que você executou hoje que está diretamente alinhado com o seu "Porquê" de longo prazo (Família, Saúde, R$ 4M)? [Resposta]
+  * Quantas tarefas inúteis ou "voadoras" (Quadrantes III/IV) você mandou direto para o lixo ou para o `💭 Sonhos.md` para manter sua revisão leve? [Resposta]
   * Quais hábitos do empilhamento foram validados com sucesso hoje? [Resposta]
 * **7. Acompanhamento de Remédios & Hábitos da Noite:**
   * Laura: [ ]
