@@ -35,11 +35,15 @@ As perguntas principais baseadas no `diario v2.md` são:
 * **3. O que fez de bom / Conquistas:** [O que foi positivo hoje e que pode ser repetido amanhã]
 * **4. Acontecimentos ruins / O que evitar:** [O que deu errado e como pode ser evitado no futuro]
 * **5. Gratidão:** [Pelo que você foi grato hoje]
-* **6. Acompanhamento de Remédios & Hábitos da Noite:**
+* **6. Fator Confiabilidade & Propósito:**
+  * De 0 a 10, o quanto você foi confiável com os seus compromissos hoje? [Nota]
+  * O que você executou hoje que está diretamente alinhado com o seu "Porquê" de longo prazo (Família, Saúde, R$ 4M)? [Resposta]
+  * Quais hábitos do empilhamento foram validados com sucesso hoje? [Resposta]
+* **7. Acompanhamento de Remédios & Hábitos da Noite:**
   * Laura: [ ]
   * Elo: [ ]
   * Vinicius: [ ]
-* **7. Brisa ou Complemento Livre:** [Algum pensamento extra ou desabafo (Abra o seu coração)]
+* **8. Brisa ou Complemento Livre:** [Algum pensamento extra ou desabafo (Abra o seu coração)]
 ```
 
 #### **Fase 2.5: Verificação de Rotinas por Fluxo Natural (TDAH-Friendly)**

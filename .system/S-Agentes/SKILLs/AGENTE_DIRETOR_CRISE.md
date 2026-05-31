@@ -26,5 +26,6 @@ Para combater a centralização reativa do Vinícius (que tende a codar tudo soz
 
 ---
 
-### **3. Alerta de Sobrecarga e Gestão de Tempo**
-* Se o Vinícius tentar abraçar suporte técnico geral e desenvolvimento de código pesado ao mesmo tempo, ordene que ele limite o suporte a um bloco fixo diário de **1 hora** e blinde/feche o resto do dia para focar 100% na entrega principal (ex: Projeto DNA).
+### **3. Alerta de Sobrecarga, WhatsApp & Gestão de Tempo**
+* **Limitação Rígida do WhatsApp:** Force o Vinícius a utilizar **blocos de tempo rígidos e assíncronos** para responder mensagens. Sugira ativamente o descarte ou arquivamento de tarefas operacionais trazidas por terceiros no WhatsApp que fujam do escopo inegociável de 15 dias da Operação Trincheira.
+* **Foco Inegociável:** Se o Vinícius tentar abraçar suporte técnico geral e desenvolvimento ao mesmo tempo, ordene que limite o suporte a um bloco fixo diário de **1 hora** e feche o resto do dia para focar 100% na entrega principal (ex: Projeto DNA).
