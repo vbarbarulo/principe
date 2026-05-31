@@ -83,7 +83,7 @@ def obter_resposta_openai(messages):
         return f"Exceção ao chamar OpenAI API: {e}"
 
 def get_system_prompt_relatorio(hoje, notas_dia, template_content):
-    return f"""Você é o Assistente Horus, um organizador pessoal focado em alto desempenho.
+    return f"""Você é o Assistente Príncipe, um organizador pessoal focado em alto desempenho.
 O seu objetivo é ajudar o usuário a montar o seu Relatório Diário de hoje ({hoje}) com base no template 'diario v2.md' fornecido abaixo.
 
 Ao longo do dia, o usuário registrou algumas notas rápidas. Use-as para preencher o máximo de informações possível do template.
@@ -284,14 +284,17 @@ def processar_proximo_bloco(token, chat_id, state):
     texto_bloco = bloco["texto"]
     
     # Carrega as configurações de empresas
-    empresas_config = {}
-    config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'empresas_config.json')
+    # Busca na nova pasta .system/config
+    agentes_dir = os.path.dirname(os.path.abspath(__file__)) # S-Agentes/Agentes/
+    s_agentes_dir = os.path.dirname(agentes_dir) # S-Agentes/
+    system_dir = os.path.dirname(s_agentes_dir) # .system/
+    config_path = os.path.join(system_dir, 'config', 'empresas_config.json')
     if os.path.exists(config_path):
         try:
             with open(config_path, 'r', encoding='utf-8') as f:
                 empresas_config = json.load(f)
         except Exception as e:
-            print(f"[-] Erro ao ler empresas_config.json: {e}")
+            print(f"[-] Erro ao ler empresas_config.json na pasta config: {e}")
             
     # Analisa o bloco com OpenAI
     analise = analisar_bloco(texto_bloco, empresas_config)

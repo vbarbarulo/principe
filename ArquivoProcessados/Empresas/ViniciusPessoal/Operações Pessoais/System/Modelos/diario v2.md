@@ -1,3 +1,27 @@
+# ☀️ Visualização do Dia — YYYY-MM-DD
+
+## 👑 Prioridade do Dia (Foco Absoluto)
+1. 
+2. 
+3. 
+
+## 🚫 Impedidos / Bloqueios (Atenção Máxima!)
+- [ ] 
+
+## 📋 Lista de Tarefas (Prioridades P1 -> P4)
+### 🔴 P1: Urgente & Importante (Matar hoje!)
+- [ ] 
+
+### 🟡 P2: Importante (Adiciona muito valor)
+- [ ] 
+
+### 🔵 P3: Rotina / Tarefas Rápidas
+- [ ] 
+
+### 🟢 P4: Ideias / Oportunidades (Se sobrar tempo)
+- [ ] 
+
+---
 
 
 # Cheklist do dia 
@@ -45,27 +69,27 @@
 | Como foi dormir na noite anterior |     |
 | como foi a noite de sono          |     |
 | como foi ao acordar               |     |
+
+## 🩺 Acompanhamento de Saúde & Variáveis
+* Rastreamento diário de biometria e bem-estar familiar:
+  * **💧 Água consumida:** [ ] 1 Litro | [ ] 2 Litros | [ ] 3 Litros | [ ] 4 Litros
+  * **💩 Digestivo/Cocô:** [ ] Sim | [ ] Não
+  * **🌸 Ciclo da Elo (Período):** [ ] Sim | [ ] Não | Fase/Notas: _____________
+
 # Carta de compromisso
-*leias as informações, e responda abaixo até que consiga responder sozinho*
+*Leia a aliança de compromisso (Tríade: Criança, Executor e Eu do Futuro) e as missões temporais para responder abaixo até que consiga preencher sozinho.*
 
-**Quem sou eu** 
-*Leia o quem sou eu para responder até que responda sozinho*
-...
+**1. A Tríade Existencial (Quem Sou Eu)**
+* [ ] **Minha Criança (Passado/Essência):** Proteger minha criatividade, imaginação e essência de escritor.
+* [ ] **Meu Executor (Presente/Guerreiro):** Foco militar, acordar 4:30, disciplina inegociável na trincheira.
+* [ ] **Meu Eu do Futuro (Guia/Estrela do Norte):** Seguir as diretrizes de quem já conquistou R$ 4M e a liberdade.
 
-**Qual a sua missão dos 10 anos** 
-...
-
-**Qual a sua missão do ano**
-...
-
-**Qual a sua missão dos 3 meses**
-...
-
-**Qual a sua missão da semana**
-...
-
-**Qual a sua missão de hoje**
-...
+**2. Minhas Missões Temporais**
+* **Qual a sua missão dos 10 anos (O Legado):** 
+* **Qual a sua missão do ano (A Caverna):** 
+* **Qual a sua missão dos 3 meses (As Regras):** 
+* **Qual a sua missão da semana (O Foco):** 
+* **Qual a sua missão de hoje (O Passo):** 
 
 ---
 # Tarefas

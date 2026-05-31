@@ -1,6 +1,6 @@
 # 🔄 Como Rodar o Agente Asana — Manual de Operação
 
-Este manual descreve detalhadamente como executar o **Agente Asana** do Hórus System, seja manualmente via linha de comando ou definindo rotinas de agendamento automático.
+Este manual descreve detalhadamente como executar o **Agente Asana** do Príncipe System, seja manualmente via linha de comando ou definindo rotinas de agendamento automático.
 
 ---
 

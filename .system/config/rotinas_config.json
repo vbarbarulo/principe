@@ -1,0 +1,226 @@
+{
+  "rotinas": [
+    {
+      "id": "R1",
+      "nome": "Acordar",
+      "itens": [
+        "Acordar as 4:30",
+        "Fazer xixi",
+        "Me pesar",
+        "Tomar o remedio",
+        "Escovar os dentes",
+        "Passar fio dental",
+        "Tomar banho (morno)",
+        "Passar desodorante",
+        "Pentear o cabelo",
+        "Colocar a roupa que foi separa no dia anterior",
+        "Colocar a roupa no cesto do outro banheiro",
+        "Estender a toalha",
+        "Colocar talco no tenis",
+        "Colocar o tenis"
+      ]
+    },
+    {
+      "id": "R2",
+      "nome": "Checkin",
+      "campos": [
+        "Que horas foi dormir",
+        "Que horas acordou",
+        "Qual foi a sua nota do sono",
+        "Qual foi o seu peso de hoje",
+        "Como foi dormir na noite anterior",
+        "como foi a noite de sono",
+        "como foi ao acordar"
+      ]
+    },
+    {
+      "id": "R3",
+      "nome": "Rotina arrumar a casa",
+      "secoes": {
+        "Sala": [
+          "Colocar tudo dos outros cômodos dos seus lugares",
+          "varrer a sala",
+          "Jogar um cheirinho",
+          "Tirar pó dos moveis"
+        ],
+        "Cozinha": [
+          "Lavar a Louça",
+          "Guardar toda a louça",
+          "Varrer",
+          "Passar pano de necessário",
+          "Passar pano no balcão"
+        ],
+        "Banheiro social": [
+          "Tirar o lixo",
+          "Guardar os produto deixar com cara de arrumado",
+          "Lavar o vazo",
+          "varrer",
+          "colocar uma nova sacola"
+        ],
+        "Escritório": [
+          "Organizar a mesa e deixar tudo em seu devido lugar",
+          "Passar um pano nos moveis",
+          "Varrer",
+          "Jogar um cheirinho",
+          "Tirar o lixo"
+        ],
+        "Corredor": [
+          "Varrer",
+          "Jogar cheirinho"
+        ],
+        "Banheiro do meu quarto": [
+          "Tirar o lixo",
+          "Guardar os produto deixar com cara de arrumado",
+          "Lavar o vazo",
+          "varrer",
+          "colocar uma nova sacola"
+        ],
+        "área de serviço": [
+          "Limpar a area de serviço",
+          "Varrer e lavar o quintal do coelho"
+        ],
+        "Roupas": [
+          "colocar para lavar",
+          "Estender",
+          "Dobrar"
+        ],
+        "Garagem": [
+          "Prender o toby la fora",
+          "Lavar o quintal",
+          "Dar ração e Agua"
+        ],
+        "Finalização": [
+          "Levar o lixo para lixeira",
+          "Passar com o Toby"
+        ]
+      }
+    },
+    {
+      "id": "R4",
+      "nome": "Conscientização",
+      "itens": [
+        "Checar as tarefas da rotina da manha",
+        "Preencher o relatório de checkin",
+        "Ler quem sou eu",
+        "Ler a missão dos 10 anos",
+        "Ler a missão do ano",
+        "Ler a missão dos 3 meses",
+        "Ler a missão do mês",
+        "Ler a missão de hoje",
+        "Escrever a carta de compromisso de hoje",
+        "Marcar o dia de hoje no calendário dos 90 dias"
+      ]
+    },
+    {
+      "id": "R5",
+      "nome": "Rotina acordar a casa",
+      "itens": [
+        "Levar o café para a Elo na cama",
+        "Acordar a Laura com carinho elevar para sala",
+        "Tomar um café em família"
+      ]
+    },
+    {
+      "id": "R6",
+      "nome": "Rotina de planejamento do dia",
+      "itens": [
+        "Limpar a caixa do Whats limpando tudo",
+        "Limpar caixa de Email limpando tudo",
+        "Analisar as pendencias do dia anterior",
+        "Analisar as tarefas esperando resposta",
+        "Planejar o dia",
+        "Definir 3 prioridades do dia"
+      ]
+    },
+    {
+      "id": "R7",
+      "nome": "Rotina do café",
+      "secoes": {
+        "Preparar o Café": [
+          "Fazer o café da elo",
+          "colocar ovos e batata doce para cozinhar",
+          "Fazer salada de frutas",
+          "Fazer lanche"
+        ],
+        "Montar o café da manha": [
+          "Colocar o baba da Laura",
+          "Fazer o prato da Laura",
+          "Fazer o prato da Elo",
+          "Fazer o meu prato",
+          "Cobrir tudo com pano"
+        ]
+      }
+    },
+    {
+      "id": "R8",
+      "nome": "Rotina do meio dia",
+      "secoes": {
+        "Arrumar o meu quarto": [
+          "dobrar as cobertas e colocar no Guarda roupa",
+          "Colocar os travesseiro no Guarda roupa",
+          "Esticar o lençol",
+          "Varrer para o corredor",
+          "Passar um pano nos moveis",
+          "Passar cheirinho",
+          "Arrumar as roupas jogadas"
+        ],
+        "Arrumar o quarto da Laura": [
+          "Arrumar as roupas na comoda",
+          "Organizar os brinquedos dela",
+          "Organizar os papais",
+          "Dobrar as roupas de cama",
+          "Varrer para o corredor"
+        ],
+        "Geral": [
+          "Recolher o lixo do corredor",
+          "Arrumar o material da Laura",
+          "Arrumar o cabelo da Laura",
+          "Parar para comer",
+          "Levar a Laura para escola"
+        ]
+      }
+    },
+    {
+      "id": "R9",
+      "nome": "Rotina Inicio da Noite",
+      "itens": [
+        "Sair do escritório",
+        "fechar o computador",
+        "Arrumar o que estiver fora do lugar",
+        "Levar os copos e garrafas para a cozinha",
+        "Me trocar para academia",
+        "Pegar o celular e carregador da Laura",
+        "Pegar Lanche e suco para a Laura",
+        "Sair para pegar a Laura",
+        "Ir para academia"
+      ]
+    },
+    {
+      "id": "R10",
+      "nome": "Rotina inicio trabalho",
+      "itens": [
+        "Limpar whats",
+        "Limpar os emails",
+        "Organizar as tarefas nos blocos"
+      ]
+    },
+    {
+      "id": "R11",
+      "nome": "Rotina Finalização da noite",
+      "itens": [
+        "Colocar a Laura para dormir",
+        "Deixar a sala arrumada",
+        "Deixar a cozinha arrumada",
+        "Deixar a agua com gengibre no jeito",
+        "Deixar a jarra de café com agua",
+        "Deixar a termica ja com pó de café",
+        "Separar a minha roupa para o dia seguinte",
+        "Tomar banho para dormir",
+        "Fazer relatório do dia",
+        "Organizar o meu dia seguinte",
+        "Tomar meu remedio",
+        "Dormir"
+      ]
+    }
+  ]
+}

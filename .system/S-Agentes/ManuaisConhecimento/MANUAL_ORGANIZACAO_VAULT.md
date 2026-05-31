@@ -1,4 +1,4 @@
-# 📓 MANUAL DE ORGANIZAÇÃO DO VAULT — HÓRUS SYSTEM
+# 📓 MANUAL DE ORGANIZAÇÃO DO VAULT — PRÍNCIPE SYSTEM
 
 Este manual serve como diretriz estratégica e operacional para agentes inteligentes e orquestradores que interagem com a pasta **`Z-OrganizaçãoManual`**. Ele mapeia minuciosamente a arquitetura de pastas, arquivos e a filosofia por trás de cada subdivisão, garantindo que qualquer IA consiga ler, categorizar e atualizar as informações com precisão.
 

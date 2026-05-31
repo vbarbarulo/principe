@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2cc53f57b593c4f",
+        "id": "6b7b82c09453b296",
         "type": "tabs",
         "children": [
           {
-            "id": "95f26b3652b98fd9",
+            "id": "bb20619a4cddc870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArquivoProcessados/Diario/2026-05-29.md",
+                "file": "hoje/solicitação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-29"
+              "title": "solicitação"
             }
           }
         ]
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,44 +203,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "95f26b3652b98fd9",
+  "active": "bb20619a4cddc870",
   "lastOpenFiles": [
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/Template_Acompanhamento.md",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/Template_Tarefas.md",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/Template_Documentacao.md",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel/ Diario/DZ-/ Carta/ de/ compromisso.md",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel/ Diario/DZ-/ Carta/ de",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel/ Diario/DZ-/ Carta",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel/ Diario/DZ-",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel/ Diario",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario/Painel",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel/ Diario",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-/ Painel",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7/-",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7",
+    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/Modelo da semana v2.md",
+    "ArquivoProcessados/Diario/Mes",
+    "hoje/telegram-2026-05-31.md",
+    "hoje/Metas.md",
+    "hoje/solicitação.md",
     "1 - Dash-hoje.canvas",
-    "hoje/telegram-2026-05-29.md",
+    "hoje/dados.md",
+    "ArquivoProcessados/Diario/2026-05-31.md",
     "ArquivoProcessados/Diario/2026-05-29.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/diario v2.md",
-    "Criar um agente supremo.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina inicio trabalho.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina Inicio da Noite.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina Finalização da noite.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina do meio dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina do café.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina de planejamento do dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina da estudo da manha.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Conscientização.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/Rotina acordar a casa.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/3 - Rotina arrumar a casa.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/1 - Rotina Acordar.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas/2 - Rotina - Checkin.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ-Hoje.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ-Esperando respostas.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ- Carta de compromisso.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Solicitações do dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Planejamento do dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Relatório do dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Pendencias do dia anterior.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Missão do dia.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario/DZ - Guia Rapido.md",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Rotinas",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Painel Diario",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario/Blocos",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/Misssões",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/8 - Projetos",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/7 - Painel Diario",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/6 - Painel da semana",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/4 - Painel 3 meses",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/5 -Painel do Mês",
-    "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Paineis/3 - Painel anual",
+    "ArquivoProcessados/Relatórios/2026-05-31/Melhorias-2026-05-31.md",
+    "ArquivoProcessados/Diario/2026-05-30.md",
+    "ArquivoProcessados/Relatórios/2026-05-30/Planejamento-2026-05-30.md",
+    "00_Sistema_Pessoal/🧠 Prompt_Contexto_Agente.md",
+    "00_Sistema_Pessoal/🗺️ Mapa_Anual.md",
+    "00_Sistema_Pessoal/💭 Sonhos.md",
+    "00_Sistema_Pessoal/🎯 Diretriz_10_Anos.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/Planejamento-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/Organizado-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/Rotina-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/Trabalho-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/Pessoal-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-31/telegram-2026-05-31.md",
+    "ArquivoProcessados/Relatórios/2026-05-30/Melhorias-2026-05-30.md",
+    "ArquivoProcessados/Relatórios/2026-05-30/Pessoal-2026-05-30.md",
     "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/z - Instruções.canvas",
     "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/Todos os dashs.canvas",
     "ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/7- Projetos.canvas",

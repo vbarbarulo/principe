@@ -1,6 +1,6 @@
 # 🤖 Como Rodar o Agente do Telegram — Manual de Operação
 
-Este manual descreve detalhadamente como executar o **Agente do Telegram** do Hórus System, projetado para capturar notas diárias e enviar lembretes úteis ao longo do dia de forma 100% autônoma.
+Este manual descreve detalhadamente como executar o **Agente do Telegram** do Príncipe System, projetado para capturar notas diárias e enviar lembretes úteis ao longo do dia de forma 100% autônoma.
 
 ---
 
