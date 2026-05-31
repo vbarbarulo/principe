@@ -1,1 +1,0 @@
-Seja lá no que acredita, você precisa voltar aos eixos coisa, que você nunca foi, [[Eu quero olhar para a  minha vida com mais amor, como posso fazer isso ]] sei é meio complicado pensar nisso então eu  sigo a minha vida, Estou adorando esse [[novo jeito de escrever]]

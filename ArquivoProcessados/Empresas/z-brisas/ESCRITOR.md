@@ -1,1 +1,0 @@
-Caralho você fica ai falando dessa porra, o que tem o escritor,  Você nuca pesquisou vida de escritor e fica ai encehendo a porra do meu saco [[Nunca pesquisei o que é vida de escritor ]]

@@ -1,30 +1,36 @@
 # 👑 O Ecossistema Hórus (Príncipe System) — Manual do Sistema
 
-Bem-vindo ao manual completo e interativo do seu ecossistema pessoal de inteligência e produtividade. Este documento serve como o mapa definitivo de como a sua mente, o seu Obsidian Vault, as suas automações e os seus agentes inteligentes trabalham em sinergia para blindar o seu foco (TDAH-friendly), expandir as suas capacidades cognitivas ("Lobo Frontal Externo") e te guiar rumo à liberdade financeira e realização pessoal.
+Bem-vindo ao manual completo e interativo do seu ecossistema pessoal de inteligência e produtividade. Este cofre serve como o mapa definitivo de como a sua mente, o seu Obsidian Vault, os seus hábitos e os seus agentes inteligentes trabalham em sinergia para blindar o seu foco (TDAH-friendly), expandir as suas capacidades cognitivas ("Lobo Frontal Externo") e te guiar de forma 100% nativa e segura localmente no Windows.
 
 ---
 
-## 🧭 Menu de Navegação do Manual
+## 🧭 Menu de Navegação do Manual 
 
-Para facilitar a leitura e manter o ecossistema limpo e modular no Obsidian, este manual está dividido em seções estratégicas que você pode acessar diretamente nos links abaixo:
+Para facilitar a sua leitura e manter o ecossistema limpo e modular, a documentação oficial está organizada em seções estratégicas que você pode acessar diretamente nos links abaixo:
 
-1. **[[01_o_que_e_o_sistema|O que é o Sistema & Como Ele Funciona]]**  
-   *A filosofia de lobo frontal externo, a arquitetura híbrida (Windows + WSL) e os fluxos de integração.*
+### 👑 ORQUESTRAÇÃO SUPREMA & PROMPTS
+*   **[[Manual_Supremo_Horus|O Manual Supremo do Hórus System]]**  
+    *O guia definitivo do ecossistema, matriz agrupada de agentes e o **Diretório Completo de Prompts de Invocação**.*
+*   **[[Manual_Gestao_Rotinas_Empresas|Manual de Gestão de Rotinas & Grade Corporativa]]**  
+    *Diretrizes de preenchimento do [[diario v2]], governança dos arquivos de configuração locais `rotinas_config.json` e `empresas_config.json` e prompts de edição dinâmica.*
+*   **[[Manutencao_Rotinas_ABC|Manutenção de Rotinas & Ciclos A-B-C]]**  
+    *Grade cronológica literal de rituais, prompts diários de turnos e distribuição inteligente de cargas (A-B-C).*
 
-2. **[[02_personalidades_agentes|As Personalidades dos Agentes Inteligentes]]**  
-   *Quem são, como pensam, os gatilhos de ativação e a utilidade prática de cada um dos seus agentes de elite.*
+### 🛠️ ÁREA PROFISSIONAL & OPERACIONAL
+*   **[[O_que_e_o_sistema|O que é o Sistema & Como Ele Funciona]]**  
+    *A filosofia de lobo frontal externo, a arquitetura 100% Windows local baseada em arquivos e os fluxos de ideias.*
+*   **[[Configuracao_alertas|Guia de Configuração de Alertas e Lembretes]]**  
+    *Grade de alertas cadastrada no arquivo local [[Configuracao_Alertas]], tipos funcionais, emojis de Telegram e prompt pronto para criação e validação automática de novos eventos.*
+*   **[[Rotinas_sistema|Rotinas de Execução Automática do Sistema]]**  
+    *O que roda de forma invisível em segundo plano nativo no Windows (agendadores, robôs do Asana, varreduras e fechamentos).*
+*   **[[Operacao_desenvolvimento|Guias Técnicos de Operação & Desenvolvimento]]**  
+    *Como rodar os scripts de Asana e Telegram no Windows, comandos de background e padrões de entrega da Fábrica de Software.*
 
-3. **[[03_configuracao_alertas|Guia de Configuração de Alertas e Lembretes]]**  
-   *Como funciona o banco de dados de lembretes, a estrutura de colunas, emojis de classificação, regras de frequência e melhorias propostas para a sua agenda.*
-
-4. **[[04_rotinas_usuario|Rotinas de Responsabilidade Humana (Sua Rotina)]]**  
-   *As suas obrigações diárias de check-in, conscientização, faxina digital de inbox, blocagem e o ritual de planejamento de tarefas com o Coordenador.*
-
-5. **[[05_rotinas_sistema|Rotinas de Execução Automática do Sistema]]**  
-   *O que roda de forma 100% invisível em segundo plano (agendadores, robôs do Asana, varreduras noturnas e consolidação do dia).*
-
-6. **[[06_operacao_desenvolvimento|Guias Técnicos de Operação & Desenvolvimento]]**  
-   *Como rodar os scripts de Asana e Telegram, comandos de background e padrões da Fábrica de Software.*
+### ❤️ ÁREA PESSOAL & EMOCIONAL
+*   **[[Personalidades_agentes|As Personalidades dos Agentes de Elite]]**  
+    *Mapeamento detalhado das mentalidades, gatilhos de ativação e utilidade prática de todos os agentes (Diretor, Coordenador, Arqueólogo, Terapeuta, Biógrafo).*
+*   **[[Rotinas_usuario|Rotinas de Responsabilidade Humana (Sua Rotina)]]**  
+    *As suas obrigações diárias de check-in, conscientização, faxina digital de inbox, blocagem e o ritual de planejamento com o Coordenador.*
 
 ---
 

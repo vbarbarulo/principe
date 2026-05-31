@@ -1,1 +1,0 @@
-Isso o que, o que tem para virar. [[ESCRITOR]]

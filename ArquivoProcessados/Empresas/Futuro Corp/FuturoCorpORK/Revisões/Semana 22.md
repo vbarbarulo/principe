@@ -1,1 +1,0 @@
-- [ ]  Terminar de mapear os OKRS

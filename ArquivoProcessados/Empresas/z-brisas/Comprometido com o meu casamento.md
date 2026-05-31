@@ -1,1 +1,0 @@
-Eu estou comprometido em manter o meu casamento, e deixar o meu casamento feliz, deixar a minha esposa [[Eloisa]] Satisfeita em viver comigo 

@@ -1,1 +1,0 @@
-Como é a vida de um escritor, [[sera que ele ganha dinheiro ]] Mano eu acho que eu não seria escritor, [[Tenho me de ser escritor]]

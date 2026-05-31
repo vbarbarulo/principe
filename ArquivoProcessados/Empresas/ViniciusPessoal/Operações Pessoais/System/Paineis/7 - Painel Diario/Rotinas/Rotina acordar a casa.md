@@ -1,3 +1,0 @@
-- [ ] Levar o café para a Elo na cama
-- [ ] Acordar a Laura com carinho elevar para sala
-- [ ] Tomar um café em família

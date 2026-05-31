@@ -1,6 +1,0 @@
-- [x] Imprimir as tarefas da 
-- [x] Ir nos correios pegar a encomenda da Laura
-- [ ] Ajudar a Feh do DNA com os dados perdidos
-- [ ] Contato da moça com TDAH
-- [ ] Backup do Fernanda do DNa
-- [ ] Backup do Igor

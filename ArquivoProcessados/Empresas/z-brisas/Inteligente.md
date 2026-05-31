@@ -1,1 +1,0 @@
-Pessoas [[inteligente para mim]]

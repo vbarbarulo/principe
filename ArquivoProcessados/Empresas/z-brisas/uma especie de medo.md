@@ -1,1 +1,0 @@
-[[é assim que vou treinando a ia]]

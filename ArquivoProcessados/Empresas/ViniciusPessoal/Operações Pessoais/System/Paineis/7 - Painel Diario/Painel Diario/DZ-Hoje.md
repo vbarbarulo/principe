@@ -1,3 +1,0 @@
-- [ ] Organizar os projetos do DNA
-- [ ] 
-- [ ] 

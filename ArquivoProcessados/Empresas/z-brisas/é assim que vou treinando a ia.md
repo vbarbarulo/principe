@@ -1,1 +1,0 @@
-Para treinar a IA só tem que ser e é IA ela se vira,  mas acho muito ter um log pq falo isso, você não pode só colocar os dados, para dentro ja fez isso por 34 anos e nunca analisou esta na hora de processar os dados [[Lembra daquela brisa do novo sistema]], [[Aqui vamos começar a  processar todos os dados ]]

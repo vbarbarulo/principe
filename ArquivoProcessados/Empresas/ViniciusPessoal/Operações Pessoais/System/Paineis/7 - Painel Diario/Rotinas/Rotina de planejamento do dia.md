@@ -1,6 +1,0 @@
-- [ ] Limpar a caixa do Whats limpando tudo
-- [ ] Limpar caixa de Email limpando tudo
-- [ ] Analisar as pendencias do dia anterior
-- [ ] Analisar as tarefas esperando resposta
-- [ ] Planejar o dia 
-	- [ ] 3 prioridades do dia

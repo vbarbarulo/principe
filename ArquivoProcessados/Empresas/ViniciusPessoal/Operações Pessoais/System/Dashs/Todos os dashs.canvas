@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"2d9c4c5ce7590ac5","type":"file","file":"Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/z - Instruções.canvas","x":-1140,"y":-240,"width":400,"height":400},
-		{"id":"cd94c977e3cf8dcc","type":"file","file":"Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/6 - Semana atual.canvas","x":-700,"y":-240,"width":400,"height":400},
-		{"id":"a7efc3873bb7680e","x":-280,"y":-240,"width":400,"height":400,"type":"file","file":"Empresas/ViniciusPessoal/Operações Pessoais/System/Dashs/5 - Dia atual.canvas"}
-	],
-	"edges":[]
-}

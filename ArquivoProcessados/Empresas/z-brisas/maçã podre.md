@@ -1,1 +1,0 @@
-[[A escolha da bolinha]] , [[Escolha da fruta no pé]]

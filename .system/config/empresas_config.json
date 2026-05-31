@@ -12,6 +12,12 @@
             "Geral"
           ]
         },
+        "Vida pessoal": {
+          "projetos": [
+            "melhorando o meu sistema ia",
+            "Geral"
+          ]
+        },
         "cursos": {
           "projetos": [
             "Lançamento Japa",
@@ -87,6 +93,16 @@
       "departamentos": {
         "Geral": {
           "projetos": [
+            "Geral"
+          ]
+        }
+      }
+    },
+    "Pessoal": {
+      "departamentos": {
+        "Analise Pessoa": {
+          "projetos": [
+            "Sistema de iA",
             "Geral"
           ]
         }

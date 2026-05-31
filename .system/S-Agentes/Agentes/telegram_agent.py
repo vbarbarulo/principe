@@ -47,8 +47,8 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 BASE_DIR = regularize_path('/mnt/c/principe/hoje')
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'telegram_agent_state.json')
 
-TEMPLATE_PATH = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/-/Diario/diario v2.md")
-DIARIO_DIR = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/-/Diario")
+TEMPLATE_PATH = regularize_path("C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/diario v2.md")
+DIARIO_DIR = regularize_path("C:/principe/ArquivoProcessados/Diario/01-Dias")
 
 def read_file_safe(path):
     if os.path.exists(path):
@@ -230,7 +230,7 @@ def adicionar_tarefa_nocodb(texto_tarefa):
 
 def salvar_nota_estruturada(texto, empresa, departamento, projeto, titulo):
     """Salva um bloco de anotação na pasta correspondente de organização"""
-    base_org = regularize_path("/mnt/c/principe/1-OrganizaçãoManual/Empresas")
+    base_org = regularize_path("C:/principe/ArquivoProcessados/Empresas")
     
     # Garante valores padrões se vierem vazios
     emp = empresa or "ViniciusPessoal"
@@ -406,78 +406,76 @@ def transcrever_audio(token, file_id):
 
 # --- CONSULTA AO BANCO DE DADOS ---
 def get_active_reminders_from_db():
-    """Busca os lembretes ativos diretamente do PostgreSQL/NocoDB"""
+    """Busca os lembretes ativos diretamente do arquivo local Markdown Configuracao_Alertas.md"""
     reminders = []
-    conn = None
+    file_path = "C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Configuracao_Alertas.md"
+    if not os.path.exists(file_path):
+        print(f"[-] Arquivo de alertas não encontrado: {file_path}")
+        return reminders
+    
     try:
-        conn = psycopg2.connect(
-            host=DB_HOST,
-            port=DB_PORT,
-            database=DB_NAME,
-            user=DB_USER,
-            password=DB_PASS
-        )
-        cur = conn.cursor()
-        # Seleciona apenas os ativos e busca os novos campos de tipo e frequência
-        cur.execute("""
-            SELECT id, hora_, mensagem_, tipo_lembrete, frenquecia_disparo 
-            FROM p72a9cobkwj7ta3."TelegramLembretes" 
-            WHERE ativo_ IS NULL OR ativo_ IN ('Sim', 'true', '1');
-        """)
-        rows = cur.fetchall()
-        for row in rows:
-            r_id = row[0]
-            t_val = row[1]
-            msg = row[2]
-            tipo = row[3]
-            freq = row[4]
+        with open(file_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
             
-            if t_val and msg:
-                # Se for retornado como objeto time do python, formatamos para HH:MM
-                if hasattr(t_val, 'strftime'):
-                    time_str = t_val.strftime("%H:%M")
-                else:
-                    time_str = str(t_val)[:5] # Garante o formato "HH:MM"
-                reminders.append({
-                    "id": r_id,
-                    "hora": time_str,
-                    "mensagem": msg,
-                    "tipo": tipo,
-                    "frequencia": freq
-                })
-        cur.close()
+        for line in lines:
+            line = line.strip()
+            if not line.startswith('|') or line.count('|') < 6:
+                continue
+            
+            # Pula cabeçalho ou separadores de tabela
+            if 'Horário' in line or '---' in line:
+                continue
+                
+            parts = [p.strip().replace('`', '') for p in line.split('|')[1:-1]]
+            if len(parts) >= 6:
+                hora = parts[0]
+                categoria = parts[1]
+                tipo = parts[2]
+                frequencia = parts[3]
+                status = parts[4]
+                mensagem = parts[5]
+                
+                if status.lower() == 'ativo':
+                    reminders.append({
+                        "id": f"{hora}_{frequencia}", # Cria um ID baseado no horário e frequência
+                        "hora": hora,
+                        "mensagem": mensagem,
+                        "tipo": tipo,
+                        "frequencia": frequencia
+                    })
     except Exception as e:
-        print(f"[-] Erro ao carregar lembretes do banco de dados: {e}")
-    finally:
-        if conn:
-            conn.close()
+        print(f"[-] Erro ao ler ou processar arquivo de alertas: {e}")
     return reminders
 
 def deactivate_reminder_in_db(reminder_id):
-    """Desativa um lembrete no banco de dados (para frequência única após envio)"""
-    conn = None
+    """Desativa um lembrete no arquivo Markdown local (para frequência única após envio)"""
+    file_path = "C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Configuracao_Alertas.md"
+    if not os.path.exists(file_path):
+        return
     try:
-        conn = psycopg2.connect(
-            host=DB_HOST,
-            port=DB_PORT,
-            database=DB_NAME,
-            user=DB_USER,
-            password=DB_PASS
-        )
-        cur = conn.cursor()
-        cur.execute("""
-            UPDATE p72a9cobkwj7ta3."TelegramLembretes"
-            SET ativo_ = 'Não'
-            WHERE id = %s;
-        """, (reminder_id,))
-        conn.commit()
-        cur.close()
-        print(f"[+] Lembrete único (id: {reminder_id}) desativado com sucesso no banco de dados.")
+        with open(file_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            
+        new_lines = []
+        for line in lines:
+            if line.startswith('|') and line.count('|') >= 6:
+                parts = [p.strip().replace('`', '') for p in line.split('|')[1:-1]]
+                if len(parts) >= 6:
+                    hora = parts[0]
+                    frequencia = parts[3]
+                    current_id = f"{hora}_{frequencia}"
+                    if current_id == reminder_id:
+                        # Substitui 'Ativo' por 'Inativo'
+                        raw_parts = line.split('|')
+                        raw_parts[5] = " `Inativo` "
+                        line = "|".join(raw_parts)
+            new_lines.append(line)
+            
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+        print(f"[+] Lembrete único ({reminder_id}) inativado com sucesso no arquivo Markdown.")
     except Exception as e:
-        print(f"[-] Erro ao desativar lembrete (id: {reminder_id}) no banco: {e}")
-    finally:
-        if conn:
-            conn.close()
+        print(f"[-] Erro ao desativar lembrete no arquivo: {e}")
 
 def deve_disparar_hoje(frequencia):
     """
@@ -768,6 +766,21 @@ def main():
     print("[*] Iniciando Agente de Telegram...")
     print(f"[*] Diretório de Notas Diárias: {BASE_DIR}")
     
+    # Envia uma mensagem inicial ao usuário no Telegram informando que o robô iniciou
+    try:
+        state = load_state()
+        chat_id = state.get("chat_id")
+        if chat_id:
+            send_telegram_message(
+                TELEGRAM_TOKEN,
+                chat_id,
+                "🚀 **Hórus System — Agente do Telegram Ativo!**\n\n"
+                "Todos os rituais, rotinas e lembretes locais estão ativos no Windows de acordo com a tabela oficial de `Configuracao_Alertas.md`.\n\n"
+                "⚠️ _Nota: Se eu parar de responder por algum motivo, execute o arquivo `telegram_agent_start.bat` novamente para me reiniciar._"
+            )
+    except Exception as e:
+        print(f"[-] Erro ao enviar mensagem de inicialização no Telegram: {e}")
+        
     # Inicia a thread de lembretes automáticos
     t_lembretes = threading.Thread(target=worker_lembretes, args=(TELEGRAM_TOKEN,), daemon=True)
     t_lembretes.start()
