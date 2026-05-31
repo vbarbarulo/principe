@@ -1,0 +1,52 @@
+{
+  "alertas": [
+    {
+      "horario": "08:00",
+      "categoria": "Pessoal",
+      "tipo": "Rotina",
+      "frequencia": "todo dia",
+      "status": "Ativo",
+      "mensagem": "Bom dia, Vini! Hora do Check-in do Sono e Hábitos Físicos no seu diario v2. 🌅"
+    },
+    {
+      "horario": "11:30",
+      "categoria": "Profissional",
+      "tipo": "Lembrete",
+      "frequencia": "seg a sex",
+      "status": "Ativo",
+      "mensagem": "Check-in do bloco da manhã! Como está o WIP do seu Kanban? Mantenha o limite estrito de 3 cards! 🛠️"
+    },
+    {
+      "horario": "14:00",
+      "categoria": "Profissional",
+      "tipo": "Lembrete",
+      "frequencia": "seg a sex",
+      "status": "Ativo",
+      "mensagem": "Hora de focar na Única Coisa do Bloco da tarde. Evite distrações externas! 🎯"
+    },
+    {
+      "horario": "18:00",
+      "categoria": "Pessoal",
+      "tipo": "Rotina",
+      "frequencia": "todo dia",
+      "status": "Ativo",
+      "mensagem": "Transição Familiar: Início da Hora da Família. Laura e Elo precisam de você 100% presente! Desconecte das telas de trabalho. 👨‍👩‍👧"
+    },
+    {
+      "horario": "20:00",
+      "categoria": "Pessoal",
+      "tipo": "Rotina",
+      "frequencia": "todo dia",
+      "status": "Ativo",
+      "mensagem": "Zoneamento da noite: Hora de desacelerar, iniciar a Faxina Digital e preparar a rotina de Finalização da noite. 🌙"
+    },
+    {
+      "horario": "21:00",
+      "categoria": "Pessoal",
+      "tipo": "Rotina",
+      "frequencia": "todo dia",
+      "status": "Ativo",
+      "mensagem": "Fechamento do Dia! O Agente de Fechamento está pronto para processar seu diário e calibrar os hábitos. 🔄"
+    }
+  ]
+}

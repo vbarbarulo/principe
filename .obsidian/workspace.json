@@ -11,10 +11,14 @@
             "id": "3d41a3311b7efd84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hoje/telegram-2026-05-31.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "telegram-2026-05-31"
             }
           }
         ]
@@ -272,11 +276,12 @@
       }
     ]
   },
-  "active": "5ee6e8853065319d",
+  "active": "3d41a3311b7efd84",
   "lastOpenFiles": [
+    "hoje/0 - pensamentos_organizados.md",
+    "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/1 - Diretrizes.md",
     "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/3 - Tarefas.md",
     "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/2 - Documentação.md",
-    "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/1 - Diretrizes.md",
     "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/5 - Analise",
     "ArquivoProcessados/Empresas/Pessoal/Analise Pessoa/Sistema de iA/4 - Transcrições",
     "ArquivoProcessados/Empresas/Pessoal/Tarefas.md",
@@ -298,7 +303,6 @@
     "ArquivoProcessados/Empresas/ViniciusPessoal/Vida pessoal/Projeto - melhorando o meu sistema ia.md",
     "ArquivoProcessados/Empresas/ViniciusPessoal/Vida pessoal/Tarefas.md",
     "ArquivoProcessados/Empresas/ViniciusPessoal/Vida pessoal/0 - Index.md",
-    "hoje/0 - pensamentos_organizados.md",
     "hoje/telegram-2026-05-31.md",
     "hoje/1 - melhorias futuras e amadurecimento da ideia.md",
     "hoje/Personaldiade.md",

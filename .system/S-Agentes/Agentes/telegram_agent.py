@@ -406,76 +406,56 @@ def transcrever_audio(token, file_id):
 
 # --- CONSULTA AO BANCO DE DADOS ---
 def get_active_reminders_from_db():
-    """Busca os lembretes ativos diretamente do arquivo local Markdown Configuracao_Alertas.md"""
+    """Busca os lembretes ativos diretamente do arquivo de configuracao centralizado JSON"""
     reminders = []
-    file_path = "C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Configuracao_Alertas.md"
+    file_path = "C:/principe/.system/config/alertas_config.json"
     if not os.path.exists(file_path):
-        print(f"[-] Arquivo de alertas não encontrado: {file_path}")
+        print(f"[-] Arquivo de alertas nao encontrado: {file_path}")
         return reminders
     
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+            data = json.load(f)
             
-        for line in lines:
-            line = line.strip()
-            if not line.startswith('|') or line.count('|') < 6:
-                continue
-            
-            # Pula cabeçalho ou separadores de tabela
-            if 'Horário' in line or '---' in line:
-                continue
-                
-            parts = [p.strip().replace('`', '') for p in line.split('|')[1:-1]]
-            if len(parts) >= 6:
-                hora = parts[0]
-                categoria = parts[1]
-                tipo = parts[2]
-                frequencia = parts[3]
-                status = parts[4]
-                mensagem = parts[5]
-                
-                if status.lower() == 'ativo':
-                    reminders.append({
-                        "id": f"{hora}_{frequencia}", # Cria um ID baseado no horário e frequência
-                        "hora": hora,
-                        "mensagem": mensagem,
-                        "tipo": tipo,
-                        "frequencia": frequencia
-                    })
+        alertas = data.get("alertas", [])
+        for a in alertas:
+            status = a.get("status", "Inativo")
+            if status.lower() == 'ativo':
+                hora = a.get("horario", "")
+                frequencia = a.get("frequencia", "")
+                reminders.append({
+                    "id": f"{hora}_{frequencia}", # Cria um ID baseado no horario e frequencia
+                    "hora": hora,
+                    "mensagem": a.get("mensagem", ""),
+                    "tipo": a.get("tipo", "Lembrete"),
+                    "frequencia": frequencia
+                })
     except Exception as e:
-        print(f"[-] Erro ao ler ou processar arquivo de alertas: {e}")
+        print(f"[-] Erro ao ler ou processar arquivo de alertas JSON: {e}")
     return reminders
 
 def deactivate_reminder_in_db(reminder_id):
-    """Desativa um lembrete no arquivo Markdown local (para frequência única após envio)"""
-    file_path = "C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Configuracao_Alertas.md"
+    """Desativa um lembrete no arquivo JSON local (para frequencia unica apos envio)"""
+    file_path = "C:/principe/.system/config/alertas_config.json"
     if not os.path.exists(file_path):
         return
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+            data = json.load(f)
             
-        new_lines = []
-        for line in lines:
-            if line.startswith('|') and line.count('|') >= 6:
-                parts = [p.strip().replace('`', '') for p in line.split('|')[1:-1]]
-                if len(parts) >= 6:
-                    hora = parts[0]
-                    frequencia = parts[3]
-                    current_id = f"{hora}_{frequencia}"
-                    if current_id == reminder_id:
-                        # Substitui 'Ativo' por 'Inativo'
-                        raw_parts = line.split('|')
-                        raw_parts[5] = " `Inativo` "
-                        line = "|".join(raw_parts)
-            new_lines.append(line)
-            
+        alertas = data.get("alertas", [])
+        for a in alertas:
+            hora = a.get("horario", "")
+            frequencia = a.get("frequencia", "")
+            current_id = f"{hora}_{frequencia}"
+            if current_id == reminder_id:
+                a["status"] = "Inativo"
+                
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.writelines(new_lines)
-        print(f"[+] Lembrete único ({reminder_id}) inativado com sucesso no arquivo Markdown.")
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"[+] Lembrete unico ({reminder_id}) inativado com sucesso no arquivo JSON.")
     except Exception as e:
-        print(f"[-] Erro ao desativar lembrete no arquivo: {e}")
+        print(f"[-] Erro ao desativar lembrete no arquivo JSON: {e}")
 
 def deve_disparar_hoje(frequencia):
     """
@@ -775,7 +755,7 @@ def main():
                 TELEGRAM_TOKEN,
                 chat_id,
                 "🚀 **Hórus System — Agente do Telegram Ativo!**\n\n"
-                "Todos os rituais, rotinas e lembretes locais estão ativos no Windows de acordo com a tabela oficial de `Configuracao_Alertas.md`.\n\n"
+                "Todos os rituais, rotinas e lembretes locais estão ativos no Windows de acordo com o arquivo de configuração `.system/config/alertas_config.json`.\n\n"
                 "⚠️ _Nota: Se eu parar de responder por algum motivo, execute o arquivo `telegram_agent_start.bat` novamente para me reiniciar._"
             )
     except Exception as e:

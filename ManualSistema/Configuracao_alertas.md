@@ -1,30 +1,36 @@
 # 📋 3. Guia de Configuração de Alertas e Lembretes (100% Local)
 
-Para manter você no rumo ao longo do dia e blindar a sua integridade pessoal, o seu sistema utiliza uma grade de **Alertas e Lembretes automatizados via Telegram**. O robô em Python rodando em segundo plano lê diretamente a tabela local Markdown oficial para disparar os envios, sem a necessidade de bancos de dados externos.
+Para manter você no rumo ao longo do dia e blindar a sua integridade pessoal, o seu sistema utiliza uma grade de **Alertas e Lembretes automatizados via Telegram**. O robô em Python rodando em segundo plano lê diretamente o arquivo JSON local oficial para disparar os envios, sem a necessidade de bancos de dados externos.
 
 ---
 
-## 🛠️ A Grade Oficial de Alertas (`Configuracao_Alertas.md`)
+## 🛠️ O Arquivo Oficial de Alertas (`alertas_config.json`)
 
-Todos os seus lembretes e programações de check-ins ativos estão cadastrados na tabela oficial local em:
-👉 [[Configuracao_Alertas]]
+Todos os seus lembretes e programações de check-ins ativos estão cadastrados de forma limpa e estruturada no arquivo JSON local em:
+👉 [alertas_config.json](../.system/config/alertas_config.json)
 
-### Estrutura Obrigatória da Tabela:
+### Estrutura Obrigatória do JSON:
 
-| Coluna | Obrigatória? | O que preencher? | Exemplos / Regras |
-| :--- | :---: | :--- | :--- |
-| **`Horário`** | **Sim** | Formato de 24h `HH:MM`. | `08:00`, `14:30`, `22:00` |
-| **`Categoria`** | **Sim** | Esfera de atuação do alerta. | `Profissional` ou `Pessoal` |
-| **`Tipo de Alerta`** | **Sim** | Categoria funcional (determina a intenção). | `Lembrete`, `Compromisso` ou `Rotina` |
-| **`Frequência`** | **Sim** | Cronograma de dias de envio. | `seg a sex`, `domingo`, `todo dia`, `unico` |
-| **`Status`** | **Sim** | Se o robô deve ou não disparar o envio. | `Ativo` ou `Inativo` |
-| **`Evento / Mensagem`** | **Sim** | O texto exato (com emojis e markdown) enviado ao Telegram. | *"Vini, hora de pagar contas!"* |
+```json
+{
+  "alertas": [
+    {
+      "horario": "HH:MM",
+      "categoria": "Pessoal" ou "Profissional",
+      "tipo": "Lembrete", "Compromisso" ou "Rotina",
+      "frequencia": "todo dia", "seg a sex", "domingo", "unico",
+      "status": "Ativo" ou "Inativo",
+      "mensagem": "Sua mensagem com emojis aqui"
+    }
+  ]
+}
+```
 
 ---
 
 ## 🤖 1. Os Três Tipos de Alertas (Como o Robô se Comunica)
 
-O robô lê a coluna **`Tipo de Alerta`** e adiciona automaticamente um prefixo visual de destaque no Telegram:
+O robô lê a propriedade **`tipo`** e adiciona automaticamente um prefixo visual de destaque no Telegram:
 
 * **`Lembrete`**:
   * **Visual no Telegram:** 🔔 *Lembrete:* `<sua mensagem>`
@@ -40,7 +46,7 @@ O robô lê a coluna **`Tipo de Alerta`** e adiciona automaticamente um prefixo 
 
 ## 🚀 2. Prompt de Comando Pronto: Criar & Validar Eventos
 
-Não preencha a tabela Markdown manualmente se não quiser. Você pode pedir para o **Coordenador Interno** ou **Agente Supremo** criar, preencher e validar se está tudo correto de forma 100% segura.
+Não edite o arquivo JSON manualmente se não quiser correr o risco de quebrar a sintaxe. Você pode pedir para o **Coordenador Interno** ou **Agente Supremo** criar, preencher e validar se está tudo correto de forma 100% segura.
 
 ### Prompt de Cópia e Uso (Copy-Paste):
 
@@ -52,7 +58,7 @@ Não preencha a tabela Markdown manualmente se não quiser. Você pode pedir par
 - Frequência: [ex: sexta-feira, seg a sex, unico]
 - Mensagem: [DIGITE A MENSAGEM DO TELEGRAM COM EMOJIS]
 
-Por favor, faça a validação estrita dos campos: verifique se o horário está no formato HH:MM, se a categoria e tipo estão nas colunas corretas e se a mensagem possui alta integridade e clareza. Estando tudo certo e validado, insira uma nova linha no final da tabela oficial em Configuracao_Alertas.md e me mostre a tabela atualizada para confirmação."
+Por favor, faça a leitura de alertas_config.json, insira o novo objeto respeitando as chaves e arrays, valide a formatação do JSON, salve e me exiba o arquivo atualizado para confirmação."
 ```
 
-Esse prompt garante que o preenchimento seja **pefeito**, livre de erros de digitação e 100% compatível com a leitura automática do robô de Telegram!
+Esse prompt garante que o preenchimento seja **perfeito**, livre de erros de digitação e 100% compatível com a leitura automática do robô de Telegram!
