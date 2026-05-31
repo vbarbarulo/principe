@@ -1,32 +1,29 @@
-# 🛠️ Skill Specification: Agente de Fechamento & Processamento Diário (v2)
+# 🛠️ Skill Specification: Agente de Fechamento & Processamento Diário (v4)
 
 ### **Descrição Geral**
-Esta Skill é ativada no fim do dia (ou sob demanda) para realizar a leitura do contexto diário capturado em `hoje/telegram-YYYY-MM-DD.md`, consolidar a rotina, preencher hábitos e gerar relatórios executivos de suporte ao TDAH de forma leve e modular, sem acumular textos gigantescos em um único arquivo de diário. Ela apresenta um painel contendo apenas o que falta preencher, permitindo que o usuário responda tudo de uma vez.
+Esta Skill é ativada no fim do dia (ou sob demanda) para realizar a leitura do contexto diário capturado em `hoje/telegram-YYYY-MM-DD.md`, consolidar a rotina, preencher hábitos, conduzir a avaliação do **Criteriómetro Límbico** e a rotina da **Roda da Vida**, e salvar os dados de forma 100% modular nos novos caminhos de `ArquivoProcessados/`.
 
 ---
 
 ### **1. Como Invocar o Agente**
 Para iniciar a sua rotina ou fechamento, basta enviar mensagens como:
-* `fechamento do dia`
-* `iniciar fechamento diário`
-* `fechar o dia`
-* `processar minhas notas de hoje`
+*   `fechamento do dia`
+*   `iniciar fechamento diário`
+*   `fechar o dia`
+*   `processar minhas notas de hoje`
 
 ---
 
 ### **2. Pipeline de Processamento & Fechamento (Passo a Passo)**
 
 #### **Fase 1: Leitura do Contexto Diário**
-1. O agente lê o arquivo de logs do dia em `hoje/telegram-YYYY-MM-DD.md` (logs de texto e áudio gerados via Telegram).
-2. Lê o arquivo de template em `c:\principe\ArquivoProcessados\Empresas\ViniciusPessoal\Operações Pessoais\System\Modelos\diario v2.md`.
+1. O agente lê o arquivo de logs do dia em `hoje/telegram-YYYY-MM-DD.md`.
+2. Lê a base inalterável de identidade em [ArquivoProcessados/IdentidadeRaiz/Base_Identidade_Vida.md](file:///c:/principe/ArquivoProcessados/IdentidadeRaiz/Base_Identidade_Vida.md).
 3. Preenche automaticamente todos os dados possíveis que foram relatados no log do dia (reuniões, tarefas feitas, pensamentos livres, sentimentos).
 
-#### **Fase 2: O Painel de Perguntas do Fechamento**
-O agente apresenta uma resposta estruturada no chat contendo:
-1. **Resumo do que já foi capturado e pré-preenchido** (para validação rápida do usuário).
-2. **O Bloco de Perguntas Pendentes** em formato de lista Markdown limpa para que o usuário copie, responda tudo de uma vez e envie de volta.
+#### **Fase 2: O Painel de Perguntas do Fechamento (Com Criteriómetro & Roda da Vida)**
+O agente apresenta uma resposta estruturada contendo as perguntas pendentes:
 
-As perguntas principais baseadas no `diario v2.md` são:
 ```markdown
 ### 📝 Fechamento do Dia — Responda abaixo:
 
@@ -35,40 +32,54 @@ As perguntas principais baseadas no `diario v2.md` são:
 * **3. O que fez de bom / Conquistas:** [O que foi positivo hoje e que pode ser repetido amanhã]
 * **4. Acontecimentos ruins / O que evitar:** [O que deu errado e como pode ser evitado no futuro]
 * **5. Gratidão:** [Pelo que você foi grato hoje]
-* **6. Fator Confiabilidade & Propósito:**
-  * De 0 a 10, o quanto você foi confiável com os seus compromissos hoje? [Nota]
-  * Você conseguiu proteger o seu foco para matar **A Única Coisa** hoje? [Resposta]
-  * O que você executou hoje que está diretamente alinhado com o seu "Porquê" de longo prazo (Família, Saúde, R$ 4M)? [Resposta]
-  * Quantas tarefas inúteis ou "voadoras" (Quadrantes III/IV) você mandou direto para o lixo ou para o `💭 Sonhos.md` para manter sua revisão leve? [Resposta]
-  * Quais hábitos do empilhamento foram validados com sucesso hoje? [Resposta]
+* **6. Fator Confiabilidade (Brené Brown) & Criteriómetro de Triagem Emocional/Operacional:**
+  * De 0 a 10, o quanto você foi de fato confiável com as promessas que fez a si mesmo hoje? [Nota]
+  * Você conseguiu proteger e executar a sua **Única Coisa** da Curva A hoje? [Sim / Não]
+  * Houve alguma meta, sonho ou brisa analisada hoje pelo Criteriómetro? Se sim, qual foi a pontuação detalhada? (Alinhamento Ciclo: X, Blindagem Familiar: Y, Clareza Operacional: Z, Integridade/Confiabilidade: W. Total: Nota/10) [Resposta]
+  * Algum item foi adicionado à *Quarentena de 14 Dias* em [Gestao_Compras.md](file:///c:/principe/ArquivoProcessados/PlanejamentoEstrategico/Gestao_Compras.md) hoje para segurar a impulsividade? [Sim / Não / Item]
+  * Quantas tarefas inúteis ou "voadoras" (Quadrantes III/IV) você barrou com o Criteriómetro e mandou para a Caixa de Entrada de `💭 Sonhos.md`? [Resposta]
 * **7. Acompanhamento de Remédios & Hábitos da Noite:**
   * Laura: [ ]
   * Elo: [ ]
   * Vinicius: [ ]
-* **8. Brisa ou Complemento Livre:** [Algum pensamento extra ou desabafo (Abra o seu coração)]
+* **8. 🧭 Check-in da Roda da Vida & Auditoria de Compras (Apenas nos Domingos):**
+  * *Saúde:* De 0 a 10, como avalia sua energia física, treinos e alimentação esta semana? [Nota]
+  * *Família:* De 0 a 10, quanto você conseguiu desligar o modo de produção de trabalho e estar 100% presente com a Laura e a Elo sem telas? [Nota]
+  * *Finanças & Compras:* De 0 a 10, como avalia a Operação Trincheira? Você auditou a sua listagem em [Gestao_Compras.md](file:///c:/principe/ArquivoProcessados/PlanejamentoEstrategico/Gestao_Compras.md) com o **Diretor de Crise** hoje para liberar itens essenciais (ex: tênis) ou barrar/limpar os itens de quarentena? [Resposta]
+* **9. Brisa ou Complemento Livre (Direcionado ao arquivo Pessoal-YYYY-MM-DD.md):** [Abra o seu coração: desabafo de relacionamentos, gatilhos de injustiça ou comparação que enfrentou hoje]
 ```
 
-#### **Fase 2.5: Verificação de Rotinas por Fluxo Natural (TDAH-Friendly)**
-Para evitar questionários exaustivos ou checklists chatos de um a um, o agente analisa as rotinas pendentes no arquivo da nota diária e as agrupa em blocos textuais corridos com perguntas naturais e dinâmicas (ex: *"Na Rotina do Meio Dia: Arrumou o quarto? Dobrou as cobertas, esticou o lençol, varreu, passou pano nos móveis e guardou as roupas jogadas? Arrumou o quarto da Laura?..."*). O usuário pode simplesmente relatar o que foi feito em formato de texto e o agente realiza a marcação de `[x]` automaticamente no arquivo do diário.
-
 ---
 
-### **3. Fase 3: Consolidação e Arquivamento Modular**
-Após receber o bloco de respostas do usuário, o agente une todos os dados (anotações do dia, respostas do painel e hábitos), cria uma pasta dedicada com o nome no formato `ano-mes-dia` (ex: `c:\principe\ArquivoProcessados\Relatórios\YYYY-MM-DD\`) e divide o conteúdo salvando 7 arquivos individuais organizados por tema dentro dela:
+### **3. Fase 3: Consolidação e Técnica de Ajuste de Margem Semântica**
 
-1. **`telegram-YYYY-MM-DD.md`**: O histórico bruto de tudo que foi conversado/anotado no dia via Telegram (mantendo o texto original completo para futuras análises).
-2. **`Pessoal-YYYY-MM-DD.md`**: Brisas de sentimentos, dinâmica de casal, reflexões pessoais íntimas, pets e desabafos sobre o quintal/casa.
-3. **`Trabalho-YYYY-MM-DD.md`**: Desafios de produtividade, progresso dos OKRs, reuniões profissionais (ex: com Jesus, Igor), motivadores/desmotivadores da Futuro Corp.
-4. **`Rotina-YYYY-MM-DD.md`**: Tracker de hábitos completo (sono, acordar, peso, checklist de remédios da Laura, Elo e Vinícius, consumo de água, digestivo e ciclo).
-5. **`Organizado-YYYY-MM-DD.md`**: Logs processados e marcação das atividades macros que de fato aconteceram.
-6. **`Planejamento-YYYY-MM-DD.md`**: Sonhos estruturados, missões de 10 anos, metas de 90 dias, e cartas de compromisso geradas ou lidas no dia.
-7. **`Melhorias-YYYY-MM-DD.md`**: Ideias de melhorias, novos agentes, bugs, erros identificados ou especificações sobre a evolução do próprio sistema Príncipe capturados durante o dia (para análises e implementações futuras).
+#### 📌 Regra de Ajuste Semântico Incremental & Score de Confiabilidade
+O agente **NUNCA** irá sobrescrever ou recriar do zero o arquivo de identidade em [Base_Identidade_Vida.md](file:///c:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Base_Identidade_Vida.md).
+*   Toda vez que identificar um padrão de alta relevância (ex: decisões consistentes de proteção à família, controle bem-sucedido de gatilhos ou avanços reais de identidade) pontuado com nota **8.0 a 10** no Criteriómetro, o agente abrirá a nota e adicionará incrementalmente no final do arquivo:
+    ```markdown
+    ### 📌 Insight Arqueológico Extraído em YYYY-MM-DD
+    *   **Contexto:** [Resumo breve do padrão observado e gatilho associado]
+    *   **Aprendizado Límbico:** [Identidade e Eco extraído, aplicando o Protocolo Protetor]
+    ```
+*   **Computação de Confiabilidade Pessoal:** O agente calcula e registra um score de confiabilidade de 0 a 10 (baseado na autodeclaração do usuário e na entrega inegociável da sua **Única Coisa**).
 
----
+#### 📂 Arquivamento Físico e Modular
+O agente divide os dados coletados e grava nos seguintes caminhos de `c:/principe/ArquivoProcessados/`:
 
-### **4. Outputs (Saídas Finais)**
-* **Nota Diária Final (Relatório Executivo + Diário Pessoal + Tracker)** salva em `/ArquivoProcessados/Diario/YYYY-MM-DD.md`.
-* **Atualização do Painel da Semana**: O agente sincroniza a conclusão dos hábitos e metas de comportamento na nota da semana correspondente em `c:\principe\ArquivoProcessados\Diario\Semana\YYYY-W[WW].md`.
-* **Conjunto de 7 Relatórios Modulares Diários** salvos na subpasta `c:\principe\ArquivoProcessados\Relatórios\YYYY-MM-DD\`.
-* Remocão/arquivamento do arquivo ativo do dia (`hoje/telegram-YYYY-MM-DD.md`) garantindo limpeza operacional após a consolidação segura do histórico no diretório final.
-* **Notificação Executiva** despachada para o Telegram celebrando o encerramento do dia com foco em tranquilidade mental (TDAH-friendly).
+1.  **Identidade e Ciclos Estratégicos:**
+    *   `Empresas/ViniciusPessoal/Base_Identidade_Vida.md` -> Ajustes semânticos de princípios e identidade descritos acima.
+    *   `Empresas/ViniciusPessoal/Protocolos_Comportamentais.md` -> Calibração e regras algorítmicas de contenção de estresse/hiperfoco.
+    *   `PlanejamentoEstrategico/Diretriz_10_Anos.md` -> A Estrela do Norte macro.
+    *   `PlanejamentoEstrategico/Plano_5_Anos.md` -> A ponte de transição.
+    *   `PlanejamentoEstrategico/Plano_1_Ano.md` -> Objetivos do ano.
+    *   `PlanejamentoEstrategico/Caverna_Trimestral.md` -> Foco de 90 dias (Projeto DNA/Sobrevivência).
+2.  **Históricos de Curto Prazo (Diários e Semanais):**
+    *   `Diario/Semana/` -> Metas de 1 semana e retrospectiva da Roda da Vida (Domingos).
+    *   `Diario/Mes/` -> Alinhamento tático de meses e Cavernas.
+    *   `Relatorios/YYYY-MM-DD/Pessoal-YYYY-MM-DD.md` -> Registro limpo e autocontido de desabafos pessoais, sentimentos e relacionamentos, livre de dados operacionais e de trabalho.
+    *   `Relatorios/YYYY-MM-DD/Planejamento-YYYY-MM-DD.md` -> Insight ou meta pontuada que altera as camadas superiores.
+    *   `Relatorios/YYYY-MM-DD/` -> Gravação dos relatórios modulares diários (telegram, pessoal, trabalho, rotina, organizado, planejamento, melhorias).
+
+O agente realiza a exportação ativa de um compilado das dores da semana de 'Pessoal' e 'Trabalho' nas sextas-feiras/fins de semana, servindo como o input primário imediato para as perguntas do [AGENTE_TERAPEUTA.md](file:///c:/principe/.system/S-Agentes/SKILLs/AGENTE_TERAPEUTA.md) no Sábado de manhã.
+
+Após a consolidação segura, o agente deleta o arquivo provisório `hoje/telegram-YYYY-MM-DD.md` mantendo o ecossistema limpo e focado.

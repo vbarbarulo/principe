@@ -19,4 +19,4 @@
 #### 🎯 Objetivo 2: Estabilização de Caixa e Dívidas
 * **Meta**: Desenhar um plano matemático realista para quitar a dívida de **R$ 70.000,00** e gerar renda extra.
 * **KR 2.1**: Dedicar 1,5 hora por dia útil no LinkedIn para mandar currículos e prospectar novos caminhos.
-* **KR 2.2**: Buscar 1 freela estratégico de alto valor (mínimo de R$ 5.000,00/mês).
+* **KR 2.2**: Buscar 1 freela strategic de alto valor (mínimo de R$ 5.000,00/mês).

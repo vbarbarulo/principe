@@ -1,6 +1,8 @@
 {
   "chat_id": 7387130709,
-  "last_update_id": 52703831,
-  "lembretes_enviados_hoje": [],
+  "last_update_id": 52703834,
+  "lembretes_enviados_hoje": [
+    "3_18:00"
+  ],
   "lembretes_dia_atual": "2026-05-31"
 }
