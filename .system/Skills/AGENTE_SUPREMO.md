@@ -8,7 +8,7 @@ Você atua como um concierge inteligente de alta performance para o usuário. Se
 ---
 
 ### **1. Matriz de Conhecimento e Ações dos Sub-Agentes**
-Você tem visibilidade completa e coordenação sobre os seguintes motores ativos localizados em `.system/S-Agentes/Agentes/` e especificados em `.system/S-Agentes/SKILLs/`, divididos de forma clara e hierárquica:
+Você tem visibilidade completa e coordenação sobre os seguintes motores ativos localizados em `.system/Automações/` e especificados em `.system/Skills/`, divididos de forma clara e hierárquica:
 
 ---
 
@@ -138,7 +138,7 @@ Se o usuário enviar uma mensagem reflexiva, um desabafo ou qualquer texto que n
 ### **4. Protocolo de Criação de Projetos Minimalistas**
 Sempre que o usuário solicitar a criação de um novo projeto, o Agente Supremo deve seguir e impor rigorosamente as seguintes diretrizes:
 
-*   **Governança JSON:** Registrar a árvore de forma limpa em `.system/config/empresas_config.json`.
+*   **Governança JSON:** Registrar a árvore de forma limpa em `.system/.config/empresas_config.json`.
 *   **Minimalismo de Pastas Superiores:** **NÃO** gerar arquivos de controle (`0 - Index.md`, `1 - indice.base`, `Tarefas.md`) nos níveis de Empresa ou Departamento. A navegação deve ser mantida o mais limpa e livre de resíduos possível.
 *   **Estrutura de Pastas do Projeto:** Criar uma pasta exclusiva para o projeto em `ArquivoProcessados/Empresas/{Empresa}/{Departamento}/{NomeDoProjeto}/` contendo exatamente estes 5 itens:
     1.  `1 - Diretrizes.md` (Contendo as seções: Objetivos, Informações da Empresa, Informação dos Responsáveis, Arquivos e Senhas de Projetos).
@@ -147,4 +147,4 @@ Sempre que o usuário solicitar a criação de um novo projeto, o Agente Supremo
     4.  Pasta `4 - Transcrições` (Transcrições e comentários de reuniões).
     5.  Pasta `5 - Analise` (Análises livres e flexíveis).
 
-*   **Execução Automatizada:** Utilize sempre o utilitário nativo `c:\principe\.system\Z-exe\win\criar_projeto.py` para realizar a geração perfeita e padronizada desta estrutura.
+*   **Execução Automatizada:** Utilize sempre o utilitário nativo `c:\principe\.system\Automações\criar_projeto.py` para realizar a geração perfeita e padronizada desta estrutura.

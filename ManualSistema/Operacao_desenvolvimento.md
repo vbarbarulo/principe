@@ -14,15 +14,15 @@ Você pode executar o agente utilizando as **flags simplificadas (atalhos)** ou 
 
 * **Executar o Fluxo Completo (Recomendado)**:
   ```bash
-  python3 S-Agentes/Agentes/asana_agent.py --completo
+  python3 .system/Automações/asana_okr_agent.py --completo
   ```
 * **Apenas Baixar Dados Locais (Gera arquivos JSON temporários em `/TempAssana`)**:
   ```bash
-  python3 S-Agentes/Agentes/asana_agent.py --baixar
+  python3 .system/Automações/asana_okr_agent.py --baixar
   ```
 * **Apenas Sincronizar com o Banco de Dados (Grava os JSONs no Postgres)**:
   ```bash
-  python3 S-Agentes/Agentes/asana_agent.py --sincronizar
+  python3 .system/Automações/asana_okr_agent.py --sincronizar
   ```
 
 ### ⚙️ Agendamento Automático (Cron)
@@ -31,7 +31,7 @@ Para rodar de forma automática em segundo plano no WSL Linux:
 1. Abra as tarefas cron: `crontab -e`
 2. Adicione a linha de agendamento (Exemplo: todos os dias às 03:00 da manhã):
    ```bash
-   0 3 * * * /usr/bin/python3 /mnt/c/principe/S-Agentes/Agentes/asana_agent.py --completo >> /mnt/c/principe/ArquivoProcessados/TempAssana/sync.log 2>&1
+   0 3 * * * /usr/bin/python3 /mnt/c/principe/.system/Automações/asana_okr_agent.py --completo >> /mnt/c/principe/ArquivoProcessados/TempAssana/sync.log 2>&1
    ```
 
 ---
@@ -46,26 +46,26 @@ Para garantir que o robô rode continuamente sem a necessidade de manter o termi
 
 * **Iniciar o Agente em Segundo Plano**:
   ```bash
-  ./Z-exe/telegram_agent_bg.sh start
+  ./.system/Automações/linux/telegram_agent_bg.sh start
   ```
 * **Verificar Status de Execução e Logs**:
   ```bash
-  ./Z-exe/telegram_agent_bg.sh status
+  ./.system/Automações/linux/telegram_agent_bg.sh status
   ```
 * **Parar o Agente**:
   ```bash
-  ./Z-exe/telegram_agent_bg.sh stop
+  ./.system/Automações/linux/telegram_agent_bg.sh stop
   ```
 * **Reiniciar o Agente**:
   ```bash
-  ./Z-exe/telegram_agent_bg.sh restart
+  ./.system/Automações/linux/telegram_agent_bg.sh restart
   ```
 
 ### 💻 Modo Interativo (Primeiro Plano para Testes)
 
 Se precisar depurar logs ou enviar testes rápidos:
 ```bash
-./Z-exe/telegram_agent_start.sh
+./.system/Automações/linux/telegram_agent_start.sh
 ```
 *(Use `Ctrl + C` para fechar)*
 
@@ -79,7 +79,7 @@ Este agente limpa o excesso de informações brutas coletadas ao longo do dia no
 
 Abra o PowerShell na pasta raiz `c:\principe` e execute:
 ```powershell
-python .system/S-Agentes/Agentes/agente_organizar_pensamentos.py
+python .system/Automações/agente_organizar_pensamentos.py
 ```
 
 ### ⚙️ Como funciona a limpeza e consolidação:

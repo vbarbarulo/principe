@@ -19,7 +19,7 @@ date
 echo ""
 
 # Caminho da pasta de Agentes
-AGENTES_DIR="/mnt/c/principe/.system/S-Agentes/Agentes"
+AGENTES_DIR="/mnt/c/principe/.system/Automações"
 
 # 1. Executa o Agente de OKRs (Completo)
 echo -e "${AMARELO}[1/4] Executando Sincronização Completa de OKRs...${RESET}"

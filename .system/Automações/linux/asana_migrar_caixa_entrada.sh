@@ -10,7 +10,7 @@ VERDE='\033[0;32m'
 RESET='\033[0m'
 
 echo -e "${AMARELO}[*] Executando Migração Local da Caixa de Entrada...${RESET}"
-python3 "/mnt/c/principe/.system/S-Agentes/Agentes/db_tarefas_migrator.py"
+python3 "/mnt/c/principe/.system/Automações/db_tarefas_migrator.py"
 if [ $? -eq 0 ]; then
     echo -e "${VERDE}[+] Migração local concluída com sucesso!${RESET}"
 else

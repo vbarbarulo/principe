@@ -45,7 +45,7 @@ def regularize_path(path):
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 BASE_DIR = regularize_path('/mnt/c/principe/hoje')
-STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'telegram_agent_state.json')
+STATE_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'Estado', 'telegram_agent_state.json')
 
 TEMPLATE_PATH = regularize_path("C:/principe/ArquivoProcessados/Empresas/ViniciusPessoal/Operações Pessoais/System/Modelos/diario v2.md")
 DIARIO_DIR = regularize_path("C:/principe/ArquivoProcessados/Diario/01-Dias")
@@ -284,17 +284,16 @@ def processar_proximo_bloco(token, chat_id, state):
     texto_bloco = bloco["texto"]
     
     # Carrega as configurações de empresas
-    # Busca na nova pasta .system/config
-    agentes_dir = os.path.dirname(os.path.abspath(__file__)) # S-Agentes/Agentes/
-    s_agentes_dir = os.path.dirname(agentes_dir) # S-Agentes/
-    system_dir = os.path.dirname(s_agentes_dir) # .system/
-    config_path = os.path.join(system_dir, 'config', 'empresas_config.json')
+    # Busca na nova pasta .system/.config
+    automações_dir = os.path.dirname(os.path.abspath(__file__)) # .system/Automações/
+    system_dir = os.path.dirname(automações_dir) # .system/
+    config_path = os.path.join(system_dir, '.config', 'empresas_config.json')
     if os.path.exists(config_path):
         try:
             with open(config_path, 'r', encoding='utf-8') as f:
                 empresas_config = json.load(f)
         except Exception as e:
-            print(f"[-] Erro ao ler empresas_config.json na pasta config: {e}")
+            print(f"[-] Erro ao ler empresas_config.json na pasta .config: {e}")
             
     # Analisa o bloco com OpenAI
     analise = analisar_bloco(texto_bloco, empresas_config)
@@ -408,7 +407,7 @@ def transcrever_audio(token, file_id):
 def get_active_reminders_from_db():
     """Busca os lembretes ativos diretamente do arquivo de configuracao centralizado JSON"""
     reminders = []
-    file_path = "C:/principe/.system/config/alertas_config.json"
+    file_path = "C:/principe/.system/.config/alertas_config.json"
     if not os.path.exists(file_path):
         print(f"[-] Arquivo de alertas nao encontrado: {file_path}")
         return reminders
@@ -436,7 +435,7 @@ def get_active_reminders_from_db():
 
 def deactivate_reminder_in_db(reminder_id):
     """Desativa um lembrete no arquivo JSON local (para frequencia unica apos envio)"""
-    file_path = "C:/principe/.system/config/alertas_config.json"
+    file_path = "C:/principe/.system/.config/alertas_config.json"
     if not os.path.exists(file_path):
         return
     try:
@@ -755,7 +754,7 @@ def main():
                 TELEGRAM_TOKEN,
                 chat_id,
                 "🚀 **Hórus System — Agente do Telegram Ativo!**\n\n"
-                "Todos os rituais, rotinas e lembretes locais estão ativos no Windows de acordo com o arquivo de configuração `.system/config/alertas_config.json`.\n\n"
+                "Todos os rituais, rotinas e lembretes locais estão ativos no Windows de acordo com o arquivo de configuração `.system/.config/alertas_config.json`.\n\n"
                 "⚠️ _Nota: Se eu parar de responder por algum motivo, execute o arquivo `telegram_agent_start.bat` novamente para me reiniciar._"
             )
     except Exception as e:

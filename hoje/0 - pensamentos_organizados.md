@@ -1,7 +1,5 @@
-# Pensamentos Organizados
-
 ## 💼 Trabalho & Projetos
-- [ ] Ajustar a documentação do sistema, pois não estou rodando mais nada com o WSL, está tudo dentro do Windows puro. Isso precisa refletir nos agentes e na documentação do sistema.
+- [x] Ajustar a documentação do sistema, pois não estou rodando mais nada com o WSL, está tudo dentro do Windows puro. Isso precisa refletir nos agentes e na documentação do sistema.
 - [ ] Montar o planejamento do DNA.
 - [ ] Analisar o que aconteceu com os dados de 2025, pois sumiram todos os dados e 2026 tem registro até dezembro. Está estranho, e está assim em produção, analisar os registros para ver o que pega.
 - [ ] Montar as cartas das pessoas dentro do meu jogo:

@@ -53,7 +53,7 @@ def create_file_if_not_exists(path, content):
 
 def main():
     base_dir = r"c:\principe"
-    config_path = os.path.join(base_dir, ".system", "config", "empresas_config.json")
+    config_path = os.path.join(base_dir, ".system", ".config", "empresas_config.json")
     
     company = sys.argv[1] if len(sys.argv) > 1 else "Pessoal"
     department = sys.argv[2] if len(sys.argv) > 2 else "Analise Pessoa"
