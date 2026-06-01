@@ -1,8 +1,9 @@
 Prioridades 
 - [ ] Montar o planejamento do DNA.
 - [ ] Montar o planjemaneto da semana a
+- [ ] Terminar o Ambiente de Homol CX.
 
-Organizar os projetos dentro do sistema para falicitar o dia a dia 
+Organizar os projetos dentro do sistema para facilitar o dia a dia
 
 ## 💼 Trabalho & Projetos
 - [x] Ajustar a documentação do sistema, pois não estou rodando mais nada com o WSL, está tudo dentro do Windows puro. Isso precisa refletir nos agentes e na documentação do sistema.
@@ -22,6 +23,27 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Documentar o gráfico J sobre a mudança de eficiência até se acostumar, vamos estudar o tempo disso.
 - [ ] Estudar os 12 passos do AA e ver como ele consegue nos ajudar, falam que é muito bom para mudanças de hábitos.
 - [ ] Revisar todos os lugares que têm chamada para Ubuntu ou WLS e remover tanto da documentação quanto dos arquivos, pois esse sistema está rodando 100% na base do Windows.
+- [ ] Fazer um estudo de base salários do Brasil, os ranges e quantidade populacional por cada range.
+- [ ] Pesquisar base salarial de acordo com as profissões do Brasil.
+- [ ] Como organizar as tarefas do time e como fazer para cobrar.
+- [ ] Identificar as pessoas que vão ter dificuldades e se vão se comprometer.
+- [ ] Trazer as pessoas para o contexto do que precisa ser feito, tirar o lado pessoal do gestor e trazer a pessoa.
+- [ ] Quando entrar em um processo de desligamento, começar a dar dicas de produtividade para a pessoa, mas que parta da pessoa, sem o apoio da empresa.
+- [ ] Desenhar o PDI (Plano de Desenvolvimento Individual).
+- [ ] Trazer a pessoa para a sua visão.
+- [ ] Definir o que vale a pena ser reportado, o que não vale a pena e como deve ser reportado (Tudo é estática / Report).
+- [ ] Subir a foto do Luiz no site Devs de Negócio.
+- [ ] Definir o site de relacionamento para devs gratuitos.
+- [ ] Metas da semana: gravar vídeos para o YouTube (não é o foco principal).
+- [ ] Ouvir o áudio da DAY / Mauro e pegar as dicas.
+- [ ] Ver o backup do Igor e subir para o novo.
+- [ ] Colocar na agenda mais para frente conversar com o Palormous para confirmar na agenda (acho que para Julho).
+- [ ] Confirmar se vai abrir o processo mesmo e se vamos fazer um novo contrato.
+- [ ] Preparar a reunião do Jesus - Alinhar com ele sobre as automações e sequência de projeto.
+- [ ] Adicionar o link da documentação de montar os Slides.
+- [ ] Adicionar o relatório que o Igor enviou na conversa de inovação.
+- [ ] Ouvir os áudios do Mauro e adicionar o Mauro no WhatsApp (Day).
+- [ ] Responder o Anderson.
 
 ## 💰 Financeiro & Orçamento
 - [ ] Pagar ferramenta de Email.
@@ -52,6 +74,16 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Fazer o pix 140 - 11 943017162.
 - [ ] Pix de 852 Bradesco.
 - [ ] Pagar o Fabin.
+- [ ] Analisar o financeiro.
+- [ ] Pagar 1400 da escola da Laura.
+- [ ] Pagar a Mari.
+- [ ] Pagar o Fabiano e fazer acordo de pagamento parcelado/quebrado para os próximos meses.
+- [ ] Montar um planejamento de quitação MEI 2026 e ver as prioridades para o MEI (+55 75 8288-3047).
+- [ ] Colocar no planejamento o IPVA 2026.
+- [ ] Ver o orçamento para o Glaiton.
+- [ ] Mandar a cobrança do meu cartão para o financeiro.
+- [ ] Ver se o estorno deu certo.
+- [ ] Ver quando vence o cartão da Riachuelo e colocar na agenda para pagar.
 
 ## 🧠 Comportamento, Hábitos & TDAH
 - [ ] Para cada rotina, todos os dias pensar em algo que pode dar ruim para não fazer aquela rotina. Se tiver mais de uma ideia por vez, anote, mas a ideia não é se perder nisso. Se vier o pensamento de que isso acontecer de fato não dá para fazer a rotina acontecer, então o que pode fazer para minimizar esse impacto.
@@ -62,6 +94,19 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Quando for reduzindo o escopo, vai colocando o risco daquela redução, com isso você vai ver que consegue chegar a coisas boas para serem aprovadas mais rápidas e trazer mais recursos.
 - [ ] Fala um plano detalhado e TDAH, coloque tudo, planeje tudo. Os mínimos detalhes e o resumo para o general. Quantidade de horas, tempo, esforço, pessoas, chegue em um valor de custo. E agora esse é o norte, o caminho mais longo e seguro, temos o valor máximo, agora como podemos reduzir isso: horas, pessoas, recursos.
 - [ ] Colocar uma rotina que atualize as pastas da documentação para evitar adições manuais.
+- [ ] Colocar na lista de rotinas: acordar a Elo às 6:30.
+- [ ] Gestão centralizadora: evitar documentar tudo nos mínimos detalhes se a execução travar em mim; equilibrar com a vazão do time.
+- [ ] Ter a coragem (culhão) de fazer o que precisa ser feito.
+- [ ] Entender que o jogo não é sobre o lado pessoal/humano, mas sim sobre o que precisa ser entregue.
+- [ ] Colocar os alarmes para serem os meus gatilhos iniciais das tarefas.
+- [ ] Definir horas certas para olhar e preencher o relatório durante o dia nos horários certos.
+- [ ] Adicionar na rotina: interagir no grupo com horas marcadas.
+- [ ] Adicionar na rotina: olhar as tarefas do General para a semana e a organização da semana.
+- [ ] Colocar os remédios da Laura e da Elo na rotina.
+- [ ] Organização diária: General e Soldado metódoso.
+- [ ] Pegar o que já tenho escrito no meu caderno e trazer para o Obsidian (estamos conseguindo organizar tudo aqui!).
+- [ ] Documentar e gerenciar os textos e tarefas dos projetos dentro do Obsidian (deixar lá pela flexibilidade; deixar aqui apenas as tarefas diárias e depois centralizar tudo na descompressão).
+- [ ] Limpar a conversa de ideias e colocar tudo no Telegram para salvar.
 
 ## 🏡 Pessoal & Relacionamento
 - [ ] Montar um plano de ação para a minha vida sexual com a Elo.
@@ -82,6 +127,24 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Falar com o Marcão para ver a descarga.
 - [ ] Achar uma internet melhor.
 - [ ] Marcar a consulta para Elo.
+- [ ] Comprar Bisnaga de pão, Saco de Lixo e Limpador de Vaso.
+- [ ] Comprar tinta para impressora.
+- [ ] Dentista da Elo.
+- [ ] Colocar na agenda e no planejamento o exame de vista para 2027.
+- [ ] Pegar o contato com a Elo e a semente.
+- [ ] Decidir se vou tomar creatina e pré-treino (Pessoal/Saúde).
+- [ ] Conversar com a Elo sobre a comunidade para definir tempos e foco em uma data.
+- [ ] Ver com a Elo sobre a camiseta amarela.
+- [ ] Manutenção e revisão do carro para viagem.
+- [ ] Pegar o meu presente de Páscoa.
+- [ ] Programar o dia de amanhã para a aula da Laura.
+
+## 🛠️ Melhorias do Sistema (Hórus/Príncipe)
+- [ ] Ver com o Eliezer como ele pensa como diretor e montar um agente com isso.
+- [ ] Pegar as ideias do sistema de gestão no grupo "Ideias de Vídeos" para montar o sistema de gestão do OKR de inovações.
+- [ ] Estudar o Firecrawl para automatizar a extração e automação do LinkedIn.
+- [ ] Analisar e destravar a automação da Bia RoadShow.
+- [ ] Desativar a automação de "Instâncias Conectadas".
 
 ## 💭 Brizas & Insights Livres
 - [ ] Preciso achar o estudo que fala que 80% dos seus projetos são ladrões de energia. Qual é a sacada? Quando você acha esses ladrões de energia, você achou o segredo. Quando vier ideia para esse ladrão, você não luta contra, você acolhe. Abra um bloco de notas e anote tudo, vai lá no projeto e jogue tudo lá sem organizar muito, mas acolhe. Limpa a sua mente dele, é a melhor coisa que pode fazer, assim você vai ficar com a cabeça limpa para o que realmente vale a pena.
@@ -94,3 +157,6 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Terapeuta que gosto - [Link](https://lp.certificacaoitalomarsili.com.br/cim0126l/venda/v1?src=social&sck=desc-yt-expert2).
 - [ ] Ir no GNV +55 77 8873-3443.
 - [ ] Recuperar padrão do registro BR.
+- - Fazer o meu projeto Indoor para plantar, vamos pensar nisso com calma.
+- - Reflexão: Usar mentor e admirador ao mesmo tempo. O problema surge quando se trabalha apenas com mentoria e admiradores sem equilíbrio.
+- - Versionar isso aqui para não perder: quando der o commit, vai ser tipo enviar o relatório para o QG com todos os meus relatórios e o general vai enviar as missões, vai ser bem legal.
