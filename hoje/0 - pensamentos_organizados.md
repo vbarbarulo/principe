@@ -1,6 +1,17 @@
+Prioridades 
+- [ ] Montar o planejamento do DNA.
+- [ ] Montar o planjemaneto da semana a
+
+
+Organizar os projetos dentro do sistema para falicitar o dia a dia 
+
+
+
+
+
 ## 💼 Trabalho & Projetos
 - [x] Ajustar a documentação do sistema, pois não estou rodando mais nada com o WSL, está tudo dentro do Windows puro. Isso precisa refletir nos agentes e na documentação do sistema.
-- [ ] Montar o planejamento do DNA.
+
 - [ ] Analisar o que aconteceu com os dados de 2025, pois sumiram todos os dados e 2026 tem registro até dezembro. Está estranho, e está assim em produção, analisar os registros para ver o que pega.
 - [ ] Montar as cartas das pessoas dentro do meu jogo:
   - Forças
@@ -16,6 +27,7 @@
 - [ ] Montar um agente que faça a análise para extrair todas as informações do que vale a pena, o IKIGAI, e achar todas as possíveis ferramentas que ajudam a olhar para a vida.
 - [ ] Documentar o gráfico J sobre a mudança de eficiência até se acostumar, vamos estudar o tempo disso.
 - [ ] Estudar os 12 passos do AA e ver como ele consegue nos ajudar, falam que é muito bom para mudanças de hábitos.
+- [ ] Revisar todos os lugares que têm chamada para Ubuntu ou WLS e remover tanto da documentação quanto dos arquivos, pois esse sistema está rodando 100% na base do Windows.
 
 ## 💰 Financeiro & Orçamento
 - [ ] Pagar ferramenta de Email.
@@ -26,6 +38,7 @@
 - [ ] Cancelar o ClaudeCode e usar da Futuro.
 - [ ] Negociar as dívidas com parcelas que cabem no orçamento.
 - [ ] Chegar em dezembro com 20K no fundo de emergência.
+- [ ] Montar meu agente financeiro mais próximo para manter a vida financeira organizada.
 
 ## 🧠 Comportamento, Hábitos & TDAH
 - [ ] Para cada rotina, todos os dias pensar em algo que pode dar ruim para não fazer aquela rotina. Se tiver mais de uma ideia por vez, anote, mas a ideia não é se perder nisso. Se vier o pensamento de que isso acontecer de fato não dá para fazer a rotina acontecer, então o que pode fazer para minimizar esse impacto.
@@ -35,6 +48,7 @@
 - [ ] Quando for fazer o seu relatório diário, deve descrever o máximo possível com riqueza de detalhes e vamos processar isso juntos. Depois de ter armazenado isso, vamos suprimir e reduzir para métricas do jogo da vida.
 - [ ] Quando for reduzindo o escopo, vai colocando o risco daquela redução, com isso você vai ver que consegue chegar a coisas boas para serem aprovadas mais rápidas e trazer mais recursos.
 - [ ] Fala um plano detalhado e TDAH, coloque tudo, planeje tudo. Os mínimos detalhes e o resumo para o general. Quantidade de horas, tempo, esforço, pessoas, chegue em um valor de custo. E agora esse é o norte, o caminho mais longo e seguro, temos o valor máximo, agora como podemos reduzir isso: horas, pessoas, recursos.
+- [ ] Colocar uma rotina que atualize as pastas da documentação para evitar adições manuais.
 
 ## 🏡 Pessoal & Relacionamento
 - [ ] Montar um plano de ação para a minha vida sexual com a Elo.
@@ -44,6 +58,7 @@
 - [ ] Mas está na hora de eu começar a falar das coisas que eu quero e não só das coisas de TI e tudo mais.
 - [ ] Estou desenvolvendo um produto que pode ser um livro e pode ir evoluindo para outras coisas.
 - [ ] Lembre-se: a sua vida, as suas escolhas, as suas decisões.
+- [ ] Preciso de um protetor para manter a minha família unida e o meu casamento bom.
 
 ## 💭 Brizas & Insights Livres
 - [ ] Preciso achar o estudo que fala que 80% dos seus projetos são ladrões de energia. Qual é a sacada? Quando você acha esses ladrões de energia, você achou o segredo. Quando vier ideia para esse ladrão, você não luta contra, você acolhe. Abra um bloco de notas e anote tudo, vai lá no projeto e jogue tudo lá sem organizar muito, mas acolhe. Limpa a sua mente dele, é a melhor coisa que pode fazer, assim você vai ficar com a cabeça limpa para o que realmente vale a pena.

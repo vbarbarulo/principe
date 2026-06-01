@@ -116,7 +116,7 @@ Se o usuário enviar uma mensagem reflexiva, um desabafo ou qualquer texto que n
      > *   **5. Sincronizar Asana** (`Agente Asana`)
      >     *   *Ideal para:* Baixar e gravar tarefas locais, prioridades e OKRs estratégicos corporativos.
      > *   **6. Organizar Pensamentos & Notas Livres** (`Agente Organizador`)
-     >     *   *Ideal para:* Extrair tarefas e organizar blocos desordenados em `pensamentos_organizados.md`.
+     >     *   *Ideal para:* Extrair tarefas e organizar blocos desordenados em `0 - pensamentos_organizados.md`.
      > 
      > ---
      > ❤️ **ÁREA PESSOAL & EMOCIONAL**

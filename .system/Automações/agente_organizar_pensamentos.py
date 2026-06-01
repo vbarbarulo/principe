@@ -35,7 +35,17 @@ load_env()
 
 # --- CONFIGURAÇÕES ---
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "hoje"))
+script_dir = os.path.dirname(os.path.abspath(__file__))
+# se estiver dentro de .system/Automações, sobe 2 níveis e entra em hoje, senão assume o hoje da pasta raiz
+if ".system" in script_dir:
+    BASE_DIR = os.path.abspath(os.path.join(script_dir, "..", "..", "hoje"))
+else:
+    BASE_DIR = os.path.abspath(os.path.join(script_dir, "hoje"))
+
+# Fallback se não encontrar o caminho
+if not os.path.exists(BASE_DIR):
+    BASE_DIR = "c:\\principe\\hoje"
+
 
 def read_file_safe(path):
     if os.path.exists(path):
@@ -111,7 +121,7 @@ def main():
         
     hoje_str = datetime.date.today().strftime("%Y-%m-%d")
     telegram_file = os.path.join(BASE_DIR, f"telegram-{hoje_str}.md")
-    organizados_file = os.path.join(BASE_DIR, "pensamentos_organizados.md")
+    organizados_file = os.path.join(BASE_DIR, "0 - pensamentos_organizados.md")
     
     if not os.path.exists(telegram_file):
         print(f"[-] Arquivo de notas brutas de hoje não encontrado: {telegram_file}")

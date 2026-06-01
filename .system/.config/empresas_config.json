@@ -36,6 +36,12 @@
             "Investimentos",
             "Geral"
           ]
+        },
+        "Briasas": {
+          "projetos": [
+            "Brisas",
+            "Geral"
+          ]
         }
       }
     },
@@ -58,6 +64,14 @@
         "Padronização do Deparetamento": {
           "projetos": [
             "Geral"
+          ]
+        },
+        "Inovação": {
+          "projetos": [
+            "INV OKR 2 - KR 2.1 - LIA",
+            "Geral",
+            "INV OKR 2 -  KR 2.2  - OLiVIA",
+            "INV OKR 2 - KR 2.3 — Funil Tecnológico de Marketing"
           ]
         }
       }

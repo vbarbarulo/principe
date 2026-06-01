@@ -1,0 +1,7 @@
+		- INV OKR 1 - KR 1.1 - Melhorias do copywriter
+		- INV OKR 1 - KR 1.1 - Diagnóstico e Plano Financeiro por IA - Coleta de dados BOT
+		- INV OKR 1 - KR 1.1 - Avisar o Especialista que um Lead foi gerado do Link dele
+		- INV OKR 1 - KR 1.1 - Dashboard de Fundos de Previdência
+		- INV OKR 1 - KR 1.2 - Lógica sequencial de Slides a serem apresentados por reunião
+		- INV OKR 1 - KR 1.2 - Pavimentação/estruturação do projeto - PASSO 3
+		- INV OKR 1 - KR 1.2 - Pavimentação/estruturação do projeto - PASSO 9 
