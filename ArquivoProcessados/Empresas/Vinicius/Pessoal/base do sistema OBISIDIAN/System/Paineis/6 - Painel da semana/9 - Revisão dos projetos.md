@@ -1,0 +1,2 @@
+- [ ] Passar por todos os okrs e ver se tem um novo projeto para atualizar
+- [ ] Revisar os meus projetos

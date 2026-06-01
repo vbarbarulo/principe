@@ -1,0 +1,10 @@
+- [ ] Checar as tarefas da rotina da manha
+- [ ] Preencher o relatório de checkin 
+- [ ] Ler quem sou eu
+- [ ] Ler a missão dos 10 anos
+- [ ] Ler a missão do ano
+- [ ] Ler a missão dos 3 meses
+- [ ] Ler a  missão do mês 
+- [ ] Ler a missão de hoje 
+- [ ] Escrever a carta de compromisso de hoje
+- [ ] Marcar o dia de hoje no calendário dos 90 dias

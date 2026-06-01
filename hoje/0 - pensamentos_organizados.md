@@ -2,16 +2,10 @@ Prioridades
 - [ ] Montar o planejamento do DNA.
 - [ ] Montar o planjemaneto da semana a
 
-
 Organizar os projetos dentro do sistema para falicitar o dia a dia 
-
-
-
-
 
 ## 💼 Trabalho & Projetos
 - [x] Ajustar a documentação do sistema, pois não estou rodando mais nada com o WSL, está tudo dentro do Windows puro. Isso precisa refletir nos agentes e na documentação do sistema.
-
 - [ ] Analisar o que aconteceu com os dados de 2025, pois sumiram todos os dados e 2026 tem registro até dezembro. Está estranho, e está assim em produção, analisar os registros para ver o que pega.
 - [ ] Montar as cartas das pessoas dentro do meu jogo:
   - Forças
@@ -39,6 +33,25 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Negociar as dívidas com parcelas que cabem no orçamento.
 - [ ] Chegar em dezembro com 20K no fundo de emergência.
 - [ ] Montar meu agente financeiro mais próximo para manter a vida financeira organizada.
+- [ ] Ver a minha dívida do Coren e cancelar o meu Coren.
+- [ ] Ver a minha dívida do MEI mensalidade.
+- [ ] Ver a minha dívida com a prefeitura de Jandira.
+- [ ] Ver a minha dívida com o Banco Inter.
+- [ ] Ver a minha dívida com o Banco Mercado Pago.
+- [ ] Ver a dívida da Elo com o Mercado Pago.
+- [ ] Ver a dívida da Elo com o Banco Inter.
+- [ ] Ver a dívida da Elo com o Itaú.
+- [ ] Ver o empréstimo no Bradesco.
+- [ ] Quitar as dívidas do cartório autopeças de Piatã.
+- [ ] Quitar a dívida Aliança divergente.
+- [ ] Pagar 700 para o Paulinho da pintura da casa e o chuveiro.
+- [ ] Pagar a dívida do Gilka.
+- [ ] Pagar os 700 reais - +55 77 8852-3131, ver se eu coloquei na agenda.
+- [ ] Terminar o meu controle financeiro.
+- [ ] Fazer o sistema da contabilidade - [Link](https://docs.google.com/document/d/1Tr5ia2SO2nXBFTTcXltLo5dy4Yhlyc9y-8NPswurO1g/edit?tab=t.0).
+- [ ] Fazer o pix 140 - 11 943017162.
+- [ ] Pix de 852 Bradesco.
+- [ ] Pagar o Fabin.
 
 ## 🧠 Comportamento, Hábitos & TDAH
 - [ ] Para cada rotina, todos os dias pensar em algo que pode dar ruim para não fazer aquela rotina. Se tiver mais de uma ideia por vez, anote, mas a ideia não é se perder nisso. Se vier o pensamento de que isso acontecer de fato não dá para fazer a rotina acontecer, então o que pode fazer para minimizar esse impacto.
@@ -59,6 +72,16 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Estou desenvolvendo um produto que pode ser um livro e pode ir evoluindo para outras coisas.
 - [ ] Lembre-se: a sua vida, as suas escolhas, as suas decisões.
 - [ ] Preciso de um protetor para manter a minha família unida e o meu casamento bom.
+- [ ] Pegar histórico escolar da Laura.
+- [ ] Marcar uma consulta para a Laura.
+- [ ] Colocar uma nova película no celular da Laura.
+- [ ] Conversar com o corretor para avaliar a roça.
+- [ ] Pensar em alguma coisa para deixar a roça rentável.
+- [ ] Diminuir dois dias do Fabiano na roça.
+- [ ] Passar o contato para a Elo --- Jean da Casa, a Pintura.
+- [ ] Falar com o Marcão para ver a descarga.
+- [ ] Achar uma internet melhor.
+- [ ] Marcar a consulta para Elo.
 
 ## 💭 Brizas & Insights Livres
 - [ ] Preciso achar o estudo que fala que 80% dos seus projetos são ladrões de energia. Qual é a sacada? Quando você acha esses ladrões de energia, você achou o segredo. Quando vier ideia para esse ladrão, você não luta contra, você acolhe. Abra um bloco de notas e anote tudo, vai lá no projeto e jogue tudo lá sem organizar muito, mas acolhe. Limpa a sua mente dele, é a melhor coisa que pode fazer, assim você vai ficar com a cabeça limpa para o que realmente vale a pena.
@@ -66,3 +89,8 @@ Organizar os projetos dentro do sistema para falicitar o dia a dia
 - [ ] Ler as pessoas e movimentá-las rápido é o que faz o seu plano ser executado com excelência.
 - [ ] Na sexta-feira, 29-05-2026, aconteceu uma coisa que eu não gostei. Coloquei para não receber nenhuma notificação, inclusive a do WhatsApp, e com isso o meu diretor me ligou e me ferrou. Então ficou muito chato. Passei o final de semana todo ajustando as coisas do meu celular para não receber mais ligações de cobrança. Consegui configurar isso, e agora as notificações do WhatsApp não vão mais ter problema. Preciso comunicar isso para o Igor. Orgulho zero, Vini precisa do seu emprego e precisa da oportunidade para crescer. Engole todo esse orgulho, é necessidade.
 - [ ] Montar aqui também a roda da vida e uma maneira de organizar com o sistema da empresa, organizando isso as perguntas que podem responder, montar um peso para as respostas e saber como está essa área da sua vida para montar a sua roda da vida e atualizar de x em x tempo.
+- [ ] Assistir o vídeo do canábis - [Link](https://www.youtube.com/watch?v=k0i9NU1dPKU).
+- [ ] Ver o curso de terapeuta - [Link](https://www.youtube.com/watch?v=p-SpaLZR4v8).
+- [ ] Terapeuta que gosto - [Link](https://lp.certificacaoitalomarsili.com.br/cim0126l/venda/v1?src=social&sck=desc-yt-expert2).
+- [ ] Ir no GNV +55 77 8873-3443.
+- [ ] Recuperar padrão do registro BR.

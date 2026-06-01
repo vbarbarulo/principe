@@ -1,6 +1,6 @@
 {
   "empresas": {
-    "ViniciusPessoal": {
+    "Vinicius": {
       "departamentos": {
         "Operações Pessoais": {
           "projetos": [
@@ -41,6 +41,20 @@
           "projetos": [
             "Brisas",
             "Geral"
+          ]
+        },
+        "Moradias": {
+          "projetos": [
+            "Roça",
+            "Geral",
+            "Vitória da Conquista"
+          ]
+        },
+        "Família": {
+          "projetos": [
+            "Laura",
+            "Geral",
+            "Elo"
           ]
         }
       }

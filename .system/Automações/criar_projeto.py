@@ -59,6 +59,10 @@ def main():
     department = sys.argv[2] if len(sys.argv) > 2 else "Analise Pessoa"
     project = sys.argv[3] if len(sys.argv) > 3 else "Sistema de iA"
     
+    # Normalização automática para evitar duplicar 'ViniciusPessoal' e usar sempre 'Vinicius'
+    if company.lower() == "viniciuspessoal":
+        company = "Vinicius"
+        
     print(f"[START] Iniciando criacao do projeto para {company} -> {department} -> {project}...")
     
     # 1. Atualizar JSON

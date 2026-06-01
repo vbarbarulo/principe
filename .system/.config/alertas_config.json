@@ -2,11 +2,11 @@
   "alertas": [
     {
       "horario": "08:00",
-      "categoria": "Pessoal",
+      "categoria": "Profissional",
       "tipo": "Rotina",
-      "frequencia": "todo dia",
+      "frequencia": "seg a sex",
       "status": "Ativo",
-      "mensagem": "Bom dia, Vini! Hora do Check-in do Sono e Hábitos Físicos no seu diario v2. 🌅"
+      "mensagem": "💼 **Início de Bloco de Trabalho:** Vini, virada de bloco de trabalho. Qual é a sua ÚNICA COISA da Curva A de hoje? WhatsApp de trabalho fechado!"
     },
     {
       "horario": "11:30",
@@ -14,7 +14,7 @@
       "tipo": "Lembrete",
       "frequencia": "seg a sex",
       "status": "Ativo",
-      "mensagem": "Check-in do bloco da manhã! Como está o WIP do seu Kanban? Mantenha o limite estrito de 3 cards! 🛠️"
+      "mensagem": "🧭 **Cobrança Horária:** Vini, você está mantendo o foco? Respire fundo, feche abas extras e volte para a entrega Curva A."
     },
     {
       "horario": "14:00",
@@ -22,31 +22,39 @@
       "tipo": "Lembrete",
       "frequencia": "seg a sex",
       "status": "Ativo",
-      "mensagem": "Hora de focar na Única Coisa do Bloco da tarde. Evite distrações externas! 🎯"
+      "mensagem": "🛡️ **Micro-Puxão de Confiabilidade:** Vini, como está a sua integridade hoje? O que você escolheu ignorar para focar na tarefa atual?"
     },
     {
       "horario": "18:00",
       "categoria": "Pessoal",
       "tipo": "Rotina",
-      "frequencia": "todo dia",
+      "frequencia": "seg a sex",
       "status": "Ativo",
-      "mensagem": "Transição Familiar: Início da Hora da Família. Laura e Elo precisam de você 100% presente! Desconecte das telas de trabalho. 👨‍👩‍👧"
+      "mensagem": "❤️ **Transição Familiar (Zonear o Dia):** HORA DA FAMÍLIA. Vini, desligue o modo produtivo e de trabalho. Laura e Elo precisam de você 100% presente e sem telas."
     },
     {
       "horario": "20:00",
       "categoria": "Pessoal",
       "tipo": "Rotina",
-      "frequencia": "todo dia",
+      "frequencia": "seg a sex",
       "status": "Ativo",
-      "mensagem": "Zoneamento da noite: Hora de desacelerar, iniciar a Faxina Digital e preparar a rotina de Finalização da noite. 🌙"
+      "mensagem": "👨👩👧 **Blindagem Familiar Noturna:** Desconexão total de telas comerciais! Guarde o celular e esteja com as suas meninas."
     },
     {
-      "horario": "21:00",
+      "horario": "09:00",
       "categoria": "Pessoal",
-      "tipo": "Rotina",
-      "frequencia": "todo dia",
+      "tipo": "Compromisso",
+      "frequencia": "domingo",
       "status": "Ativo",
-      "mensagem": "Fechamento do Dia! O Agente de Fechamento está pronto para processar seu diário e calibrar os hábitos. 🔄"
+      "mensagem": "🧭 **Ritual de Planejamento:** Hora de conversar com o Coordenador e Arqueólogo para organizar a semana e mapear a Roda da Vida."
+    },
+    {
+      "horario": "08:00",
+      "categoria": "Pessoal",
+      "tipo": "Compromisso",
+      "frequencia": "unico",
+      "status": "Inativo",
+      "mensagem": "💳 **Dia de pagar contas!** Abra o app do banco e quite tudo hoje. Sem desculpas."
     }
   ]
 }
